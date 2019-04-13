@@ -117,6 +117,19 @@ int initializeUniversities(FILE * universities, int numUniversities, University 
     }
 }
 
+int printMarriage(Student * student, int numStudents){
+    int i,j;
+    printf("Grupos com alocacao\n") ;
+    for( i = 0; i < numStudents; i++){
+        if(student[i].uni != -1) printf("%i %i\n", i+1 , student[i].uni +1) ;
+    }
+    printf("Candidatos nao alocados\n") ;
+    for( i = 0; i < numStudents; i++){
+        if(student[i].uni == -1) printf("%i\n", i+1) ;
+    }
+
+}
+
 int main( int argc, char *argv[] )
 {
     int numUniversities ;
@@ -129,19 +142,10 @@ int main( int argc, char *argv[] )
     fscanf (students, "%i", &numStudents) ;
     Student student[numStudents];
     University university[numUniversities] ;
-    int i,j ;
     initializeUniversities(universities,numUniversities ,university ) ;
     initializeStudents(students,numStudents, student);
     stableMarriage(student, university, numStudents, numUniversities) ;
-    printf("Grupos com alocacao\n") ;
-    for( i = 0; i < numStudents; i++){
-        
-        if(student[i].uni != -1) printf("%i %i\n", i+1 , student[i].uni +1) ;
-    }
-    printf("Candidatos nao alocados\n") ;
-    for( i = 0; i < numStudents; i++){
-        
-        if(student[i].uni == -1) printf("%i\n", i+1) ;
-    }
+    printMarriage(student, numStudents) ;
+
     return 0 ;
 }
