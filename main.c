@@ -43,11 +43,28 @@ int existsSlot(University university){ //dada uma uni, retorna o id do seu vetor
 
 int uniPrefers(University university, Student * student, int proposingStudent){ //dada uma uni e um estudante diz qual do seus currentMatch ela prefere menos que o estudante. Caso nao, retorna 0
     int i ;
-    for(i = 0; i < university.slots; i++){
-        if(student[proposingStudent].score > student[university.currentMatch[i]].score){
-            return i + 1;
+    int min = student[university.currentMatch[0]].score;
+    int minIndex = 0 ;
+
+    for(i=0; i < university.slots; i++){ //Escolhe o current student da universidade com menor nota
+        if (student[university.currentMatch[i]].score < min) { 
+            minIndex = i ; 
+        } else if(student[university.currentMatch[i]].score == min){ //Se dois currents tem nota igual, seleciona o que tiver menor preferencia pela uni
+            if (student[university.currentMatch[i]].proposalCount > student[university.currentMatch[minIndex]].proposalCount){
+                minIndex = i ;
+            }
         }
     }
+
+    
+    if(student[proposingStudent].score > student[university.currentMatch[minIndex]].score){ //Se o score do proposing for maior que o score do menor current, troca
+        return minIndex + 1;
+    } else if(student[proposingStudent].score == student[university.currentMatch[minIndex]].score){ //Se o score deles for igual, vai pegar o que tiver menor preferencia pela uni
+        if(student[proposingStudent].proposalCount < student[university.currentMatch[minIndex]].proposalCount){ 
+            return minIndex + 1;
+        }
+     }
+    
     return 0 ;
 }
 
