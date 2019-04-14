@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "university.h": "c",
+        "string.h": "c"
+    }
+}
