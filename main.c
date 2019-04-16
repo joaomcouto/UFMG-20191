@@ -4,6 +4,7 @@
 #include "university.h"
 #include "student.h"
 #include "stablemarriage.h"
+#include "experimentalanalysis.h"
 
 int main( int argc, char *argv[] )
 {
@@ -21,6 +22,7 @@ int main( int argc, char *argv[] )
     initializeStudents(students,numStudents, student);
     stableMarriage(student, university, numStudents, numUniversities) ;
     printMarriage(student, numStudents) ;
-
+    allocationRateAndAverageFullness(university, numUniversities);
+    averageSatisfaction(student, numStudents);
     return 0 ;
 }
