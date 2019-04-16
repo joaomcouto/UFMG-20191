@@ -8,7 +8,10 @@
 #include "student.h"
 #include "stablemarriage.h"
 
-int allocationRateAndAverageFullness (University * university, int numUniversities) ; 
-int averageSatisfaction(Student * student, int numStudents); 
+double allocationRate (University * university, int numUniversities) ;
+double averageFullness (University * university, int numUniversities);
+double averageSatisfaction(Student * student, int numStudents); 
+int questao1(int numStudents, Student * student, int appNum, int numUniversities, University * university);
+int printPreference(Student * student, int numStudents);
 
 #endif

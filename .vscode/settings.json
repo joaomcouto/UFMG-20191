@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "university.h": "c",
-        "string.h": "c"
+        "string.h": "c",
+        "experimentalanalysis.h": "c",
+        "stablemarriage.h": "c"
     }
 }
