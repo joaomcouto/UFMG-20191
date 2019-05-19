@@ -54,7 +54,6 @@ int main(int argc, char const *argv[]) {
   free(e);
 
   e = Matrix_to_array(g, n);
-  int resp_c1 = Camerini_sorted(e, n);
   free(e);
 
   e = Matrix_to_array(g, n);
@@ -70,9 +69,9 @@ int main(int argc, char const *argv[]) {
   }
   free(g);
 
-  printf("%d %d %d %d %d\n", resp_k, resp_p, resp_b, resp_c0, resp_c1);
+  printf("%d %d %d %d %d\n", resp_k, resp_p, resp_b, resp_c0);
 
-  if( !(resp_p == resp_c0 && resp_c0 == resp_b && resp_b == resp_k && resp_c1 == resp_c0 ) ){
+  if( !(resp_p == resp_c0 && resp_c0 == resp_b && resp_b == resp_k ) ){
     printf("Errooooooooooooooooooooooooooooooooooooooo\n");
     return 1;
   }
