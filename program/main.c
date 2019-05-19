@@ -22,7 +22,7 @@ int main(int argc, char const *argv[]) {
     g[i] = (int*)malloc(n*sizeof(int));
   }
 
-  point_t *p = (point_t*)malloc(n*sizeof(point_t));
+  vertice *p = (vertice*)malloc(n*sizeof(vertice));
   for( int i=0; i<n; i++ ){
     double a, b;
     fscanf(cidades, "%lf %lf", &a, &b) ;
@@ -33,7 +33,7 @@ int main(int argc, char const *argv[]) {
 
   
 
-  edge_t *e = Matrix_to_array(g, n);
+  aresta *e = Matrix_to_array(g, n);
   int result; 
   result = Camerini(e, n);
    

@@ -5,8 +5,8 @@
 #include "pre_process.h"
 #include "distance.h"
 
-point_t *read_points( int n ){
-  point_t *p = (point_t*)malloc(n*sizeof(point_t));
+vertice *read_points( int n ){
+  vertice *p = (vertice*)malloc(n*sizeof(vertice));
   for( int i=0; i<n; i++ ){
     double a, b;
     assert( scanf("%lf %lf", &a, &b) == 2 );
@@ -16,7 +16,7 @@ point_t *read_points( int n ){
   return p;
 }
 
-int **pre_process( point_t* p, int n ){
+int **pre_process( vertice* p, int n ){
   int **ret = (int**)malloc(n*sizeof(int*));
   for( int i=0; i<n; i++ ){
     ret[i] = (int*)malloc(n*sizeof(int));
@@ -31,8 +31,8 @@ int **pre_process( point_t* p, int n ){
   return ret;
 }
 
-edge_t *Matrix_to_array( int **g, int n ){
-  edge_t *e = (edge_t*)malloc(n*n*sizeof(edge_t));
+aresta *Matrix_to_array( int **g, int n ){
+  aresta *e = (aresta*)malloc(n*n*sizeof(aresta));
   int it=0;
   for( int i=0; i<n; i++ ){
     for( int j=i+1; j<n; j++ ){

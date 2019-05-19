@@ -3,8 +3,8 @@
 
 #include "constants.h"
 
-int Median(edge_t *e, int l, int r);
-int Median_of_five(edge_t *e, int l, int r);
-int Median_of_median(edge_t *e, int l, int r, int k);
+int Median(aresta *e, int l, int r);
+int Median_of_five(aresta *e, int l, int r);
+int Median_of_median(aresta *e, int l, int r, int k);
 
 #endif

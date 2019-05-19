@@ -3,18 +3,18 @@
 
 #include "quicksort.h"
 
-void sort( edge_t *e, int n ){
+void sort( aresta *e, int n ){
   quicksort(e, 0, n-1);
 }
 
-void get_pivot( edge_t *e, int l, int r ){
+void get_pivot( aresta *e, int l, int r ){
   int pivot = (rand()%(r-l+1))+l;
-  edge_t aux = e[pivot];
+  aresta aux = e[pivot];
   e[pivot] = e[r];
   e[r] = aux;
 }
 
-void quicksort( edge_t *e, int l, int r ){
+void quicksort( aresta *e, int l, int r ){
 
   if( l >= r ) return;
   get_pivot(e, l, r);
@@ -23,11 +23,11 @@ void quicksort( edge_t *e, int l, int r ){
   quicksort(e, p+1, r);
 }
 
-int partition( edge_t *e, int l, int r ){
+int partition( aresta *e, int l, int r ){
 
   int pivot = e[r].w;
   int i = l-1;
-  edge_t aux;
+  aresta aux;
 
   for( int j=l; j<=r-1; j++ ){
     if( e[j].w <= pivot ){

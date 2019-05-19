@@ -9,11 +9,11 @@
 #include "union_find.h"
 
 
-int Camerini(edge_t *e, int n){
+int Camerini(aresta *e, int n){
   return Bottle_neck(e, 0, ((n*(n-1))/2)-1, n);
 }
 
-int make_super_node( edge_t *e, DSU *d, int l, int r, int n ){
+int make_super_node( aresta *e, DSU *d, int l, int r, int n ){
   int *rep = (int*)malloc(n*sizeof(int));
   if( rep == NULL ){
     printf("Malloc error\n");
@@ -41,7 +41,7 @@ int make_super_node( edge_t *e, DSU *d, int l, int r, int n ){
 }
 
 
-int Bottle_neck(edge_t *e, int l, int r, int n){
+int Bottle_neck(aresta *e, int l, int r, int n){
 
   if( l == r ){ //Condicao de parada, ta fazendo in place, tem um array total e dois indices de onde ta a navegacao, nao precisa alocar mais parada
     return e[l].w; //se tem uma aresta ele para, que eh a aresta do botteneck
@@ -49,7 +49,7 @@ int Bottle_neck(edge_t *e, int l, int r, int n){
 
   int m = Median(e, l, r); //retorna o vetor com a mediana nesse indice m
 
-  edge_t aux = e[m]; //Troca a mediana com o do final
+  aresta aux = e[m]; //Troca a mediana com o do final
   e[m] = e[r];
   e[r] = aux;
 

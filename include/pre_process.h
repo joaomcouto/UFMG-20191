@@ -5,10 +5,10 @@
 
 typedef struct{
   double x, y;
-}point_t;
+}vertice;
 
-point_t *read_points( int n );
-int **pre_process( point_t* p, int n );
-edge_t *Matrix_to_array( int **g, int n );
+vertice *read_points( int n );
+int **pre_process( vertice* p, int n );
+aresta *Matrix_to_array( int **g, int n );
 
 #endif

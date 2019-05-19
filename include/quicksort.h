@@ -3,9 +3,9 @@
 
 #include "constants.h"
 
-void sort(edge_t *e, int n );
-void get_pivot(edge_t *e, int l, int r );
-void quicksort(edge_t *e, int l, int r );
-int partition(edge_t *e, int l, int r );
+void sort(aresta *e, int n );
+void get_pivot(aresta *e, int l, int r );
+void quicksort(aresta *e, int l, int r );
+int partition(aresta *e, int l, int r );
 
 #endif

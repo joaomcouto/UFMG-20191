@@ -3,7 +3,7 @@
 
 typedef struct{
   int in, out, w;
-}edge_t;
+}aresta ;
 
 #ifndef M_PI
   #define M_PI 3.14159265358979323846
