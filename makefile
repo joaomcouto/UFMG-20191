@@ -3,9 +3,7 @@ SRCDIR := src
 OBJDIR := build
 
 MAIN := program/main.c
-PRE := program/pre.c
-ARRAY := program/array.c
-TESTER := program/tester.c
+
 
 SRCEXT := c
 SOURCES := $(shell find $(SRCDIR) -type f -name *.$(SRCEXT))
@@ -20,9 +18,6 @@ $(OBJDIR)/%.o: $(SRCDIR)/%.$(SRCEXT)
 
 main: $(OBJECTS)
 	$(CC) $(CFLAGS) $(INC) $(MAIN) $^ -o tp2 -lm
-	$(CC) $(CFLAGS) $(INC) $(PRE) $^ -o pre -lm
-	$(CC) $(CFLAGS) $(INC) $(TESTER) $^ -o tester -lm
-	$(CC) $(CFLAGS) $(INC) $(ARRAY) $^ -o array -lm
 
 all: main
 
