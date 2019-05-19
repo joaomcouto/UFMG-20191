@@ -9,7 +9,6 @@
 #include "distance.h"
 #include "camerini.h"
 #include "median.h"
-#include "quickselect.h"
 
 int main(int argc, char const *argv[]) {
   FILE *cidades;
