@@ -13,7 +13,7 @@ int Camerini(aresta *e, int n){
   return Bottle_neck(e, 0, ((n*(n-1))/2)-1, n);
 }
 
-int make_super_node( aresta *e, DSU *d, int l, int r, int n ){
+int make_super_node( aresta *e, unionFind *d, int l, int r, int n ){
   int *rep = (int*)malloc(n*sizeof(int));
   if( rep == NULL ){
     printf("Malloc error\n");
@@ -60,7 +60,7 @@ int Bottle_neck(aresta *e, int l, int r, int n){
     m = (l+r)/2;
   }
 
-  DSU d; //Inicia o union find
+  unionFind d; //Inicia o union find
   DSU_build(&d, n); //Inicializa o union find, voce descobre qual conjunto participa e unir conjuntos 
  // AO inves de matriz de adjancencia rodar DFS e achar os componentes, faz union find
  //Todos os nos tao no seu component conexo ai pra cada aresta voce junta pra formar um componente conexo

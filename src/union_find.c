@@ -3,7 +3,7 @@
 
 #include "union_find.h"
 
-void DSU_build(DSU *d, int tam){
+void DSU_build(unionFind *d, int tam){
   d->n = tam;
   d->comp= tam;
   d->id = (int*)malloc(d->n*sizeof(int));
@@ -18,11 +18,11 @@ void DSU_build(DSU *d, int tam){
 	}
 }
 
-int DSU_find(DSU *d, int k){
+int DSU_find(unionFind *d, int k){
 	return d->id[k] == k ? k : (d->id[k] = DSU_find(d, d->id[k]));
 }
 
-void DSU_unite(DSU *d, int a, int b){
+void DSU_unite(unionFind *d, int a, int b){
 	a = DSU_find(d, a);
 	b = DSU_find(d, b);
   if( a == b ){
@@ -38,7 +38,7 @@ void DSU_unite(DSU *d, int a, int b){
   d->comp--;
 }
 
-void DSU_destroy(DSU *d){
+void DSU_destroy(unionFind *d){
   free(d->id);
   free(d->size);
 }
