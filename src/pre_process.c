@@ -7,10 +7,6 @@
 
 point_t *read_points( int n ){
   point_t *p = (point_t*)malloc(n*sizeof(point_t));
-  if( p == NULL ){
-    printf("Malloc error\n");
-    exit(0);
-  }
   for( int i=0; i<n; i++ ){
     double a, b;
     assert( scanf("%lf %lf", &a, &b) == 2 );
@@ -22,16 +18,8 @@ point_t *read_points( int n ){
 
 int **pre_process( point_t* p, int n ){
   int **ret = (int**)malloc(n*sizeof(int*));
-  if( ret == NULL ){
-    printf("Malloc error\n");
-    exit(0);
-  }
   for( int i=0; i<n; i++ ){
     ret[i] = (int*)malloc(n*sizeof(int));
-    if( ret[i] == NULL ){
-      printf("Malloc error\n");
-      exit(0);
-    }
   }
   for( int i=0; i<n; i++ ){
     ret[i][i] = -1;
@@ -45,10 +33,6 @@ int **pre_process( point_t* p, int n ){
 
 edge_t *Matrix_to_array( int **g, int n ){
   edge_t *e = (edge_t*)malloc(n*n*sizeof(edge_t));
-  if( e == NULL ){
-    printf("Malloc error\n");
-    exit(0);
-  }
   int it=0;
   for( int i=0; i<n; i++ ){
     for( int j=i+1; j<n; j++ ){

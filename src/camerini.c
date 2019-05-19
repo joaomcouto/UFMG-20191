@@ -7,7 +7,6 @@
 #include "median.h"
 #include "quicksort.h"
 #include "union_find.h"
-#include "quickselect.h"
 
 
 int Camerini(edge_t *e, int n){
