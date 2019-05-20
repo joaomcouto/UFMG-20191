@@ -11,27 +11,27 @@ int Mediana(aresta *edge, int esq, int dir){
 
 int Mediana5(aresta *edge, int esq, int dir){
 
-  int m1v=-1, m2v=-1, retv=-1;
-  int m1=-1, m2=-1, ret=-1;
+  int valorMaior=-1, valorSegundoMaior=-1, valorTerceiroMaior=-1;
+  int indiceMaior=-1, indiceSegundoMaior=-1, indiceTerceiroMaior =-1;
   for( int i=esq; i<=dir; i++ ){
-    if( edge[i].peso > m1v ){
-      m1 = i;
-      m1v = edge[i].peso;
+    if( edge[i].peso > valorMaior ){
+      indiceMaior = i;
+      valorMaior = edge[i].peso;
     }
   }
   for( int i=esq; i<=dir; i++ ){
-    if( i!=m1 && edge[i].peso > m2v ){
-      m2 = i;
-      m2v = edge[i].peso;
+    if( i!=indiceMaior && edge[i].peso > valorSegundoMaior ){
+      indiceSegundoMaior = i;
+      valorSegundoMaior = edge[i].peso;
     }
   }
   for( int i=esq; i<=dir; i++ ){
-    if( i!=m1 && i!=m2 && edge[i].peso > retv ){
-      ret = i;
-      retv = edge[i].peso;
+    if( i!=indiceMaior && i!=indiceSegundoMaior && edge[i].peso > valorTerceiroMaior ){
+      indiceTerceiroMaior  = i;
+      valorTerceiroMaior = edge[i].peso;
     }
   }
-  return ret;
+  return indiceTerceiroMaior ;
 }
 
 int MOM(aresta *edge, int esq, int dir, int k){
