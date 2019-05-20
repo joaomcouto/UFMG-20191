@@ -9,7 +9,7 @@ vertice *read_points( int n ){
   vertice *p = (vertice*)malloc(n*sizeof(vertice));
   for( int i=0; i<n; i++ ){
     double a, b;
-    assert( scanf("%lf %lf", &a, &b) == 2 );
+    scanf("%lf %lf", &a, &b);
     p[i].x = a;
     p[i].y = b;
   }
