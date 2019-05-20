@@ -43,25 +43,27 @@ int MBST(aresta *edge, int esq, int dir, int n){
     return edge[esq].peso; //se tem uma aresta ele para, que eh a aresta do botteneck
   }
 
-  int m = Mediana(edge, esq, dir); //M é a posicao da mediana no vetor de arestas
+  int m = Mediana(edge, esq, dir); //m é a posicao da mediana no vetor de arestas
 
-  aresta aux = edge[m]; //Troca a mediana com o do final
+//Coloca a mediana na posição final pra fazer particionamento 3-way
+  aresta aux = edge[m]; 
   edge[m] = edge[dir];
   edge[dir] = aux;
 
   m = threeWayPartition(edge, esq, dir);
-   // Mediana ta no meio
+   // Agora o subvetor está particionado com a mediana no meio
+   // m é o indice em que se encontra a mediana
 
-  if( m == dir ){ //Melhora a complexidade quando todos os pesos das arestas foram iguaisb
+  if( m == dir ){ //Melhora a complexidade quando todos os pesos das arestas foram iguais (???)
     m = (esq+dir)/2;
   }
 
-  unionFind d; //Inicia o union find
-  unionFindInit(&d, n); //Inicializa o union find, voce descobre qual conjunto participa edge unir conjuntos 
+  unionFind d; //Cria uma struct union find, que guarda o número de vertices, o id da componente de cada, o tamanho de cada componente e o número de componentes
+  unionFindInit(&d, n); //Inicializa o union find com cada vertice em sua propria componente, tamanhos = 1 e numero de componentes como o numero de vertices
  // AO inves de matriz de adjancencia rodar DFS edge achar os componentes, faz union find
- //Todos os nos tao no seu component conexo ai pra cada aresta voce junta pra formar um componente conexo
-  for( int i=esq; i<=m; i++ ){
-    unionFindUnir(&d, edge[i].oriId, edge[i].destId); //Percorre cada aresta fazendo uniao dos seus vertices
+
+  for( int i=esq; i<=m; i++ ){ //Para cada aresta menor que a mediana
+    unionFindUnir(&d, edge[i].oriId, edge[i].destId); //Faz union na estrutura union find pras arestas menores que a mediana
   }
   // No final tenho um numero de componentes conexas (d.componentCount)
   
