@@ -61,7 +61,7 @@ int MBST(aresta *edge, int esq, int dir, int n){
  // AO inves de matriz de adjancencia rodar DFS edge achar os componentes, faz union find
  //Todos os nos tao no seu component conexo ai pra cada aresta voce junta pra formar um componente conexo
   for( int i=esq; i<=m; i++ ){
-    unionFindUnir(&d, edge[i].oriId, edge[i].destId);
+    unionFindUnir(&d, edge[i].oriId, edge[i].destId); //Percorre cada aresta fazendo uniao dos seus vertices
   }
   // No final tenho um numero de componentes conexas (d.comp)
   
