@@ -7,7 +7,7 @@ typedef struct{
   int n;
   int *id;
   int *size;
-  int comp;
+  int componentCount;
 }unionFind;
 
 void unionFindInit(unionFind *d, int n);

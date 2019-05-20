@@ -10,7 +10,7 @@
 
 
 int Camerini(aresta *edge, int n){
-  return MBST(edge, 0, ((n*(n-1))/2)-1, n);
+  return MBST(edge, 0, ((n*(n-1))/2)-1, n); //A chama da MBST eh posicional.. porque/como n*n-1)/2 quando temos n2 arestas
 }
 
 int superVertice( aresta *edge, unionFind *d, int esq, int dir, int n ){
@@ -43,7 +43,7 @@ int MBST(aresta *edge, int esq, int dir, int n){
     return edge[esq].peso; //se tem uma aresta ele para, que eh a aresta do botteneck
   }
 
-  int m = Mediana(edge, esq, dir); //retorna o vetor com a mediana nesse indice m
+  int m = Mediana(edge, esq, dir); //M é a posicao da mediana no vetor de arestas
 
   aresta aux = edge[m]; //Troca a mediana com o do final
   edge[m] = edge[dir];
@@ -63,9 +63,9 @@ int MBST(aresta *edge, int esq, int dir, int n){
   for( int i=esq; i<=m; i++ ){
     unionFindUnir(&d, edge[i].oriId, edge[i].destId); //Percorre cada aresta fazendo uniao dos seus vertices
   }
-  // No final tenho um numero de componentes conexas (d.comp)
+  // No final tenho um numero de componentes conexas (d.componentCount)
   
-  if( d.comp == 1 ){
+  if( d.componentCount == 1 ){
     unionFindFree(&d); //Desaloca o union find
     return MBST(edge, esq, m, n); //Eh conexo entao a gente entro na condicao que tem que andar pra esquerda (descarta aos maiores que a mediana, manter os nos manter tudo)
   }else{ // Se nao for significa que a menores que a mediana nao sao suiciente pra fazer conexo

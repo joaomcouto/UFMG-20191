@@ -18,22 +18,23 @@ int main(int argc, char const *argv[]) {
   cidades = fopen(argv[1],"r");
   fscanf(cidades,"%d", &n) ;
   grafo =(int**)malloc(n*sizeof(int*)); //Grafo com n cidades representado como um ponteiro para ponteiros de inteiro
-  for( int i=0; i<n; i++ ){
-    grafo[i] = (int*)malloc(n*sizeof(int)); //Cada posicao do grafo tem n posicoes com inteiros
+  for( int i=0; i<n; i++ ){ //Aloca n ints para para uma das n cidades
+    grafo[i] = (int*)malloc(n*sizeof(int)); //Cada posicao das n do grafo tem espaço para n inteiros
   }
 
   vertice *p = (vertice*)malloc(n*sizeof(vertice)); //Vertices representados por um ponteiro para vertices com n vertices edge suas coordenadas
-  for( int i=0; i<n; i++ ){
+  for( int i=0; i<n; i++ ){ //Faz leitura das coordenadas das cidades
     double a, b;
     fscanf(cidades, "%lf %lf", &a, &b) ;
     p[i].coordX = a;
     p[i].coordY = b;
-  }
-  grafo = pre_process(p, n);
+  } //No final o vetor p de vertices tem as informacoes de cada cidade
+  //O p só é utilizado pra conseguir gerar as distancias na criação da matriz de adjacencia com pesos
 
+  grafo = pre_process(p, n); //grafo é agora uma matriz de adjacencia com os pesos da arestas
   
 
-  aresta *edge = Matrix_to_array(grafo, n);
+  aresta *edge = Matrix_to_array(grafo, n); //edge agora é um vetor de arestas com o id das duas pontas e o peso da aresta
   int result; 
   result = Camerini(edge, n);
    

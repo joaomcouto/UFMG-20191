@@ -5,7 +5,7 @@
 
 void unionFindInit(unionFind *d, int tam){
   d->n = tam;
-  d->comp= tam;
+  d->componentCount= tam;
   d->id = (int*)malloc(d->n*sizeof(int));
   d->size = (int*)malloc(d->n*sizeof(int));
 	for( int i=0; i<d->n; i++ ){
@@ -31,12 +31,12 @@ void unionFindUnir(unionFind *d, int a, int b){
 	if( d->size[a] > d->size[b] ){  //Se nao forem do mesmo componente
     d->id[b] = a;
 	  d->size[a] += d->size[b];
-    d->comp--;
+    d->componentCount--;
 
 	} else {
 	  d->id[a] = b;
 	  d->size[b] += d->size[a];
-    d->comp--;
+    d->componentCount--;
   }
 }
 

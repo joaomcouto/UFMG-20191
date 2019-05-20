@@ -7,7 +7,6 @@ typedef struct{
   double coordX, coordY;
 }vertice;
 
-vertice *read_points( int n );
 int **pre_process( vertice* p, int n );
 aresta *Matrix_to_array( int **g, int n );
 
