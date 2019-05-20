@@ -13,20 +13,25 @@ int Camerini(aresta *edge, int n){
   return MBST(edge, 0, ((n*(n-1))/2)-1, n); //A chama da MBST eh posicional.. porque/como n*n-1)/2 quando temos n2 arestas
 }
 
-int superVertice( aresta *edge, unionFind *d, int esq, int dir, int n ){
-  int *rep = (int*)malloc(n*sizeof(int));
+int superVertice( aresta *edge, unionFind *d, int esq, int dir, int n ){ //Recebe o vetor de arestas todo, n = numero de vertices do subvetor que chamou o super vertice
+  int *rep = (int*)malloc(n*sizeof(int)); //Um vetor com
+  //Pra cada representando de cada componente conexo atribuir um inteior de 0 a n -1
+  //
 
-  memset(rep, -1, n*sizeof(int));
+  memset(rep, -1, n*sizeof(int)); //Cada posicao do rep fica com -1 
+
 
   int comp = 0;
 
-  for( int i=0; i<n; i++ ){
-    if( rep[unionFindFind(d, i)] == -1 ){
-      rep[unionFindFind(d, i)] = comp++;
+  for( int i=0; i<n; i++ ){ //Itera entre todos os vertices 
+    if( rep[unionFindFind(d, i)] == -1 ){ // E pra cada um acha
+      rep[unionFindFind(d, i)] = comp++; // Pra cada componente conexo formado com as arestas menores que
     }
   }
+  //No rep os representantes de componentes vao ter o valor do contador, e o resto, -1
+  //A ideia é que agora o que importa são as arestas maiores que a mediana
 
-  for( int i=esq; i<=dir; i++ ){
+  for( int i=esq; i<=dir; i++ ){ //Transforma
     edge[i].oriId = rep[unionFindFind(d, edge[i].oriId)];
     edge[i].destId = rep[unionFindFind(d, edge[i].destId)];
   }
@@ -65,13 +70,13 @@ int MBST(aresta *edge, int esq, int dir, int n){
   for( int i=esq; i<=m; i++ ){ //Para cada aresta menor que a mediana
     unionFindUnir(&d, edge[i].oriId, edge[i].destId); //Faz union na estrutura union find pras arestas menores que a mediana
   }
-  // No final tenho um numero de componentes conexas (d.componentCount)
+  // No final temos em d.ComponentCount o numero de componentes conexas considerando apenas as arestas com valor menor que a mediana
   
-  if( d.componentCount == 1 ){
-    unionFindFree(&d); //Desaloca o union find
-    return MBST(edge, esq, m, n); //Eh conexo entao a gente entro na condicao que tem que andar pra esquerda (descarta aos maiores que a mediana, manter os nos manter tudo)
-  }else{ // Se nao for significa que a menores que a mediana nao sao suiciente pra fazer conexo
-    n = superVertice(edge, &d, esq, dir, n); //Agrupa 
+  if( d.componentCount == 1 ){ 
+    unionFindFree(&d); //Desaloca o union find (nele, queriamos apenas o número de componentes)
+    return MBST(edge, esq, m, n); //Entramos na condição em que as arestas na partição esquerdao forma um unico componente conexo, onde MBST subvetor = MBST partição esquerda
+  }else{ // A arestas menores que a mediana não foram suficient para uma unico componente conexo
+    n = superVertice(edge, &d, esq, dir, n); 
     //N eh o novo numero de nós
     unionFindFree(&d);
     return MBST(edge, m+1, dir, n); //Anda pra direita, pega todas maiores que a mediana recursivamente
