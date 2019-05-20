@@ -3,8 +3,8 @@
 
 #include "auxiliar.h"
 
-int Mediana(aresta *edge, int l, int r);
-int Mediana5(aresta *edge, int l, int r);
-int MOM(aresta *edge, int l, int r, int k);
+int Mediana(aresta *edge, int esq, int dir);
+int Mediana5(aresta *edge, int esq, int dir);
+int MOM(aresta *edge, int esq, int dir, int k);
 
 #endif
