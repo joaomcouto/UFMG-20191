@@ -50,9 +50,60 @@ int main(int argc, char const *argv[]) {
 
   // ANALISE EXPERIMENTAL -----------------===============
 
+/*
+n = 9000;
+int * tempos = (int *)malloc(1*sizeof(int)) ;
+// int tamanhoMaximo = 100 ;
 
-  time_t start = clock(); 
-  time_t end = clock(); 
+aresta * vetorDeArestas ;
+vetorDeArestas = (aresta*) malloc(n*n*sizeof(aresta)) ;
+int c = 0;
+for( int i=0; i<n ; i++){
+  for (int j = i+1 ; j < n ; j++){
+    vetorDeArestas[c].peso = (rand()%1000)+1;
+    vetorDeArestas[c].oriId = i ;
+    vetorDeArestas[c].destId = j ;
+    c++;
+  }
+}
+time_t start = clock(); 
+Camerini(vetorDeArestas, n);
+time_t end = clock(); 
+tempos[0] = end-start ;
+printf("%d", tempos[0]) ;
+free(vetorDeArestas) ;
+
+
+/*
+
+
+
+
+
+//for(int k = 5 ; k <= tamanhoMaximo ; k=k+5){
+  c= 0 ;
+  
+  
+    
+        
+        
+        
+        
+  //  }
+  
+  }
+}
+*/
+
+
+
+
+
+//aresta *edge = Matrix_to_array(grafo, n); //edge agora é um vetor de arestas com o id das duas pontas e o peso da aresta
+  //int result; 
+  //  vertice *p = (vertice*)malloc(n*sizeof(vertice)); 
+
+
   //printf("%d\n", end-start) ;
 
 
