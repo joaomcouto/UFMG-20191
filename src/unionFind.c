@@ -29,13 +29,15 @@ void unionFindUnir(unionFind *d, int a, int b){
   if( a == b ) return; //Se forem do mesmo componente ja tao unidas, retorna
   
 	if( d->size[a] > d->size[b] ){  //Se nao forem do mesmo componente
-    int aux = a;
-    a = b;
-    b = aux;
-	}
-	d->id[a] = b;
-	d->size[b] += d->size[a];
-  d->comp--;
+    d->id[b] = a;
+	  d->size[a] += d->size[b];
+    d->comp--;
+
+	} else {
+	  d->id[a] = b;
+	  d->size[b] += d->size[a];
+    d->comp--;
+  }
 }
 
 void unionFindFree(unionFind *d){
