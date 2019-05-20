@@ -7,7 +7,7 @@ void sort( aresta *edge, int n ){
   quicksort(edge, 0, n-1);
 }
 
-void get_pivot( aresta *edge, int esq, int dir ){
+void geraPivot( aresta *edge, int esq, int dir ){
   int pivot = (rand()%(dir-esq+1))+esq;
   aresta aux = edge[pivot];
   edge[pivot] = edge[dir];
@@ -17,7 +17,7 @@ void get_pivot( aresta *edge, int esq, int dir ){
 void quicksort( aresta *edge, int esq, int dir ){
 
   if( esq >= dir ) return;
-  get_pivot(edge, esq, dir);
+  geraPivot(edge, esq, dir);
   int p = threeWayPartition(edge, esq, dir);
   quicksort(edge, esq, p-1);
   quicksort(edge, p+1, dir);

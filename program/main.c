@@ -5,7 +5,7 @@
 
 #include "quicksort.h"
 #include "leitura.h"
-#include "union_find.h"
+#include "unionFind.h"
 #include "distance.h"
 #include "camerini.h"
 #include "mediana.h"

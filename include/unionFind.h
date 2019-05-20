@@ -1,5 +1,5 @@
-#ifndef UNION_FIND
-#define UNION_FIND
+#ifndef UF_H
+#define UF_H
 
 #include "auxiliar.h"
 

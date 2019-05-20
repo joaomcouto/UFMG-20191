@@ -6,7 +6,7 @@
 #include "camerini.h"
 #include "mediana.h"
 #include "quicksort.h"
-#include "union_find.h"
+#include "unionFind.h"
 
 
 int Camerini(aresta *edge, int n){

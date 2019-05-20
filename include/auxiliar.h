@@ -1,5 +1,5 @@
-#ifndef CONSTANTS_H
-#define CONSTANTS_H
+#ifndef AUX_H
+#define AUX_H
 
 typedef struct{
   int oriId, destId, peso;

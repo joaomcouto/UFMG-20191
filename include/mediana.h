@@ -1,5 +1,5 @@
-#ifndef MEDIAN_H
-#define MEDIAN_H
+#ifndef MEDIANA_H
+#define MEDIANA_H
 
 #include "auxiliar.h"
 

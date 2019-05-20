@@ -1,5 +1,5 @@
-#ifndef PRE_PROCESS
-#define PRE_PROCESS
+#ifndef LEITURA_H
+#define LEITURA_H
 
 #include "auxiliar.h"
 

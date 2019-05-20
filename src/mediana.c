@@ -43,10 +43,6 @@ int MOM(aresta *edge, int esq, int dir, int k){
 
   int it_m=0;
   aresta *m = (aresta*)malloc(((dir-esq+1)/5)*sizeof(aresta));
-  if( m == NULL ){
-    printf("Malloc error\n");
-    exit(0);
-  }
   for( int i=esq; i+4<=dir; i+=5 ){
     int mf = Mediana5(edge, i, i+4);
     m[it_m++] = edge[mf];

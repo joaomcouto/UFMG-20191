@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "union_find.h"
+#include "unionFind.h"
 
 void unionFindInit(unionFind *d, int tam){
   d->n = tam;
