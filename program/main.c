@@ -22,7 +22,7 @@ int main(int argc, char const *argv[]) {
     grafo[i] = (int*)malloc(n*sizeof(int)); //Cada posicao do grafo tem n posicoes com inteiros
   }
 
-  vertice *p = (vertice*)malloc(n*sizeof(vertice)); //Vertices representados por um ponteiro para vertices com n vertices e suas coordenadas
+  vertice *p = (vertice*)malloc(n*sizeof(vertice)); //Vertices representados por um ponteiro para vertices com n vertices edge suas coordenadas
   for( int i=0; i<n; i++ ){
     double a, b;
     fscanf(cidades, "%lf %lf", &a, &b) ;
@@ -33,11 +33,11 @@ int main(int argc, char const *argv[]) {
 
   
 
-  aresta *e = Matrix_to_array(grafo, n);
+  aresta *edge = Matrix_to_array(grafo, n);
   int result; 
-  result = Camerini(e, n);
+  result = Camerini(edge, n);
    
-  free(e);
+  free(edge);
   for( int i=0; i<n; i++ ){
     free(grafo[i]);
   }

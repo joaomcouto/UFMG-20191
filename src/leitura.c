@@ -32,15 +32,15 @@ int **pre_process( vertice* p, int n ){
 }
 
 aresta *Matrix_to_array( int **g, int n ){
-  aresta *e = (aresta*)malloc(n*n*sizeof(aresta));
+  aresta *edge = (aresta*)malloc(n*n*sizeof(aresta));
   int it=0;
   for( int i=0; i<n; i++ ){
     for( int j=i+1; j<n; j++ ){
-      e[it].peso = g[i][j];
-      e[it].oriId = i;
-      e[it].destId = j;
+      edge[it].peso = g[i][j];
+      edge[it].oriId = i;
+      edge[it].destId = j;
       it++;
     }
   }
-  return e;
+  return edge;
 }

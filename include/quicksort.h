@@ -3,9 +3,9 @@
 
 #include "auxiliar.h"
 
-void sort(aresta *e, int n );
-void get_pivot(aresta *e, int l, int r );
-void quicksort(aresta *e, int l, int r );
-int threeWayPartition(aresta *e, int l, int r );
+void sort(aresta *edge, int n );
+void get_pivot(aresta *edge, int l, int r );
+void quicksort(aresta *edge, int l, int r );
+int threeWayPartition(aresta *edge, int l, int r );
 
 #endif

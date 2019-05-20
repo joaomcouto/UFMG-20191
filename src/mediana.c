@@ -5,39 +5,39 @@
 #include "mediana.h"
 #include "quicksort.h"
 
-int Mediana(aresta *e, int l, int r){
-  return MOM(e, l, r, (l+r)/2);
+int Mediana(aresta *edge, int l, int r){
+  return MOM(edge, l, r, (l+r)/2);
 }
 
-int Mediana5(aresta *e, int l, int r){
+int Mediana5(aresta *edge, int l, int r){
 
   int m1v=-1, m2v=-1, retv=-1;
   int m1=-1, m2=-1, ret=-1;
   for( int i=l; i<=r; i++ ){
-    if( e[i].peso > m1v ){
+    if( edge[i].peso > m1v ){
       m1 = i;
-      m1v = e[i].peso;
+      m1v = edge[i].peso;
     }
   }
   for( int i=l; i<=r; i++ ){
-    if( i!=m1 && e[i].peso > m2v ){
+    if( i!=m1 && edge[i].peso > m2v ){
       m2 = i;
-      m2v = e[i].peso;
+      m2v = edge[i].peso;
     }
   }
   for( int i=l; i<=r; i++ ){
-    if( i!=m1 && i!=m2 && e[i].peso > retv ){
+    if( i!=m1 && i!=m2 && edge[i].peso > retv ){
       ret = i;
-      retv = e[i].peso;
+      retv = edge[i].peso;
     }
   }
   return ret;
 }
 
-int MOM(aresta *e, int l, int r, int k){
+int MOM(aresta *edge, int l, int r, int k){
 
   if( r-l+1 <= 5 ){
-    quicksort(e, l, r);
+    quicksort(edge, l, r);
     return k;
   }
 
@@ -48,30 +48,30 @@ int MOM(aresta *e, int l, int r, int k){
     exit(0);
   }
   for( int i=l; i+4<=r; i+=5 ){
-    int mf = Mediana5(e, i, i+4);
-    m[it_m++] = e[mf];
+    int mf = Mediana5(edge, i, i+4);
+    m[it_m++] = edge[mf];
   }
 
   int mom = m[MOM(m, 0, it_m-1, (it_m-1)/2)].peso;
   for( int i=l; i<=r; i++ ){
-    if( e[i].peso == mom ){
-      aresta aux = e[i];
-      e[i] = e[r];
-      e[r] = aux;
+    if( edge[i].peso == mom ){
+      aresta aux = edge[i];
+      edge[i] = edge[r];
+      edge[r] = aux;
       break;
     }
   }
 
   free(m);
 
-  int pivot = threeWayPartition(e, l, r);
+  int pivot = threeWayPartition(edge, l, r);
 
   if( pivot == k ){
     return pivot;
   }else if( pivot > k ){
-    return MOM(e, l, pivot-1, k);
+    return MOM(edge, l, pivot-1, k);
   }else{
-    return MOM(e, pivot+1, r, k);
+    return MOM(edge, pivot+1, r, k);
   }
 
 }
