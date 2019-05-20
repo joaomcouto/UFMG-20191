@@ -44,3 +44,6 @@ void unionFindFree(unionFind *d){
   free(d->id);
   free(d->size);
 }
+// Cada uniao é O(1) mas fazemos m unioes, uma pra cada aresta
+//Union find é O(n) em memoria
+// Por contraste, por BFS em memoria O(m*)

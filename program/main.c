@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <assert.h>
+#include <time.h>
 
 #include "quicksort.h"
 #include "leitura.h"
@@ -45,6 +46,15 @@ int main(int argc, char const *argv[]) {
   free(grafo);
 
   printf("%d\n", result);
+
+
+  // ANALISE EXPERIMENTAL -----------------===============
+
+
+  time_t start = clock(); 
+  time_t end = clock(); 
+  //printf("%d\n", end-start) ;
+
 
   return 0;
 }
