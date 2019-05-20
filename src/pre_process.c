@@ -36,9 +36,9 @@ aresta *Matrix_to_array( int **g, int n ){
   int it=0;
   for( int i=0; i<n; i++ ){
     for( int j=i+1; j<n; j++ ){
-      e[it].w = g[i][j];
-      e[it].in = i;
-      e[it].out = j;
+      e[it].peso = g[i][j];
+      e[it].oriId = i;
+      e[it].destId = j;
       it++;
     }
   }

@@ -25,12 +25,12 @@ void quicksort( aresta *e, int l, int r ){
 
 int partition( aresta *e, int l, int r ){
 
-  int pivot = e[r].w;
+  int pivot = e[r].peso;
   int i = l-1;
   aresta aux;
 
   for( int j=l; j<=r-1; j++ ){
-    if( e[j].w <= pivot ){
+    if( e[j].peso <= pivot ){
       i++;
       aux = e[i];
       e[i] = e[j];

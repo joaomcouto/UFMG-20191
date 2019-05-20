@@ -14,21 +14,21 @@ int Median_of_five(aresta *e, int l, int r){
   int m1v=-1, m2v=-1, retv=-1;
   int m1=-1, m2=-1, ret=-1;
   for( int i=l; i<=r; i++ ){
-    if( e[i].w > m1v ){
+    if( e[i].peso > m1v ){
       m1 = i;
-      m1v = e[i].w;
+      m1v = e[i].peso;
     }
   }
   for( int i=l; i<=r; i++ ){
-    if( i!=m1 && e[i].w > m2v ){
+    if( i!=m1 && e[i].peso > m2v ){
       m2 = i;
-      m2v = e[i].w;
+      m2v = e[i].peso;
     }
   }
   for( int i=l; i<=r; i++ ){
-    if( i!=m1 && i!=m2 && e[i].w > retv ){
+    if( i!=m1 && i!=m2 && e[i].peso > retv ){
       ret = i;
-      retv = e[i].w;
+      retv = e[i].peso;
     }
   }
   return ret;
@@ -52,9 +52,9 @@ int Median_of_median(aresta *e, int l, int r, int k){
     m[it_m++] = e[mf];
   }
 
-  int mom = m[Median_of_median(m, 0, it_m-1, (it_m-1)/2)].w;
+  int mom = m[Median_of_median(m, 0, it_m-1, (it_m-1)/2)].peso;
   for( int i=l; i<=r; i++ ){
-    if( e[i].w == mom ){
+    if( e[i].peso == mom ){
       aresta aux = e[i];
       e[i] = e[r];
       e[r] = aux;

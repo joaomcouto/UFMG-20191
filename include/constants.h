@@ -2,7 +2,7 @@
 #define CONSTANTS_H
 
 typedef struct{
-  int in, out, w;
+  int oriId, destId, peso;
 }aresta ;
 
 #ifndef M_PI

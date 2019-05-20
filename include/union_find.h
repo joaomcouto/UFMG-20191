@@ -10,9 +10,9 @@ typedef struct{
   int comp;
 }unionFind;
 
-void DSU_build(unionFind *d, int n);
-int DSU_find(unionFind *d, int k);
-void DSU_unite(unionFind *d, int a, int b);
-void DSU_destroy(unionFind *d);
+void unionFindInit(unionFind *d, int n);
+int unionFindFind(unionFind *d, int k);
+void unionFindUnir(unionFind *d, int a, int b);
+void unionFindFree(unionFind *d);
 
 #endif
