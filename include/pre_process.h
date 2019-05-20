@@ -1,7 +1,7 @@
 #ifndef PRE_PROCESS
 #define PRE_PROCESS
 
-#include "constants.h"
+#include "auxiliar.h"
 
 typedef struct{
   double x, y;

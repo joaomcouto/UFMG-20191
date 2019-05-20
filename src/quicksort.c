@@ -18,12 +18,12 @@ void quicksort( aresta *e, int l, int r ){
 
   if( l >= r ) return;
   get_pivot(e, l, r);
-  int p = partition(e, l, r);
+  int p = threeWayPartition(e, l, r);
   quicksort(e, l, p-1);
   quicksort(e, p+1, r);
 }
 
-int partition( aresta *e, int l, int r ){
+int threeWayPartition( aresta *e, int l, int r ){
 
   int pivot = e[r].peso;
   int i = l-1;

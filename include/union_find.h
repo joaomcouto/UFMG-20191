@@ -1,7 +1,7 @@
 #ifndef UNION_FIND
 #define UNION_FIND
 
-#include "constants.h"
+#include "auxiliar.h"
 
 typedef struct{
   int n;
