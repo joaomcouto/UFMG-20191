@@ -4,7 +4,7 @@
 #include "auxiliar.h"
 
 typedef struct{
-  double x, y;
+  double coordX, coordY;
 }vertice;
 
 vertice *read_points( int n );

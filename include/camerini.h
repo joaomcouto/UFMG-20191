@@ -4,9 +4,9 @@
 #include "auxiliar.h"
 #include "union_find.h"
 
-int Camerini(aresta *e, int n);
-int superVertice( aresta *e, unionFind *d, int l, int r, int n );
-int MBST(aresta *e, int l, int r, int n);
+int Camerini(aresta *edge, int n);
+int superVertice( aresta *edge, unionFind *d, int l, int r, int n );
+int MBST(aresta *edge, int l, int r, int n);
 
 
 

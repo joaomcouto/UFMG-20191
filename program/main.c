@@ -4,7 +4,7 @@
 #include <assert.h>
 
 #include "quicksort.h"
-#include "pre_process.h"
+#include "leitura.h"
 #include "union_find.h"
 #include "distance.h"
 #include "camerini.h"
@@ -26,8 +26,8 @@ int main(int argc, char const *argv[]) {
   for( int i=0; i<n; i++ ){
     double a, b;
     fscanf(cidades, "%lf %lf", &a, &b) ;
-    p[i].x = a;
-    p[i].y = b;
+    p[i].coordX = a;
+    p[i].coordY = b;
   }
   grafo = pre_process(p, n);
 

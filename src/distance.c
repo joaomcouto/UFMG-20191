@@ -2,6 +2,13 @@
 
 #include "distance.h"
 
+
+#ifndef M_PI
+  #define M_PI 3.141592
+#endif
+
+#define earthRadiusKm 6371.0
+
 double deg2rad(double deg) {
     return (deg * M_PI / 180);
 }

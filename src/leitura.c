@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <assert.h>
 
-#include "pre_process.h"
+#include "leitura.h"
 #include "distance.h"
 
 vertice *read_points( int n ){
@@ -10,8 +10,8 @@ vertice *read_points( int n ){
   for( int i=0; i<n; i++ ){
     double a, b;
     scanf("%lf %lf", &a, &b);
-    p[i].x = a;
-    p[i].y = b;
+    p[i].coordX = a;
+    p[i].coordY = b;
   }
   return p;
 }
@@ -24,7 +24,7 @@ int **pre_process( vertice* p, int n ){
   for( int i=0; i<n; i++ ){
     ret[i][i] = -1;
     for( int j=i+1; j<n; j++ ){
-      ret[i][j] = ret[j][i] = distanceEarthKm(p[i].x, p[i].y, p[j].x, p[j].y);
+      ret[i][j] = ret[j][i] = distanceEarthKm(p[i].coordX, p[i].coordY, p[j].coordX, p[j].coordY);
     }
   }
   free(p);

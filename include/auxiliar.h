@@ -5,11 +5,5 @@ typedef struct{
   int oriId, destId, peso;
 }aresta ;
 
-#ifndef M_PI
-  #define M_PI 3.14159265358979323846
-#endif
-
-#define earthRadiusKm 6371.0
-#define INF 0x3f3f3f3f
 
 #endif
