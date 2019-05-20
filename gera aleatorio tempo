@@ -64,14 +64,3 @@ int main(int argc, char const *argv[]) {
 }
 
 
-aresta* ()
-aresta * vetorDeArestas = (aresta*) malloc(n*(sizeof(aresta)))
-
-c= 0 ;
-for(int i = 0 ; i < n ; i++){
-    for (int j = 0 ; j < n ; j++){
-        vetorDeArestas[c].oriId = i
-        vetorDeArestas[c].destId = j
-        vetorDeArestas[c].peso = rand()%10000+1;
-    }
-}
