@@ -1,0 +1,9112 @@
+A mediana eh: 4065 
+A mediana eh: 6478 
+A mediana eh: 5339 
+A mediana eh: 5209 
+5209
+A mediana eh: 8548 
+A mediana eh: 11762 
+A mediana eh: 10113 
+A mediana eh: 9673 
+A mediana eh: 8783 
+8783
+A mediana eh: 8754 
+A mediana eh: 11762 
+A mediana eh: 10113 
+A mediana eh: 9673 
+A mediana eh: 9428 
+A mediana eh: 8783 
+9428
+A mediana eh: 10097 
+A mediana eh: 7135 
+A mediana eh: 8548 
+A mediana eh: 8874 
+A mediana eh: 8754 
+A mediana eh: 8744 
+8744
+A mediana eh: 9673 
+A mediana eh: 6962 
+A mediana eh: 8548 
+A mediana eh: 7560 
+A mediana eh: 7999 
+A mediana eh: 8108 
+8108
+A mediana eh: 9607 
+A mediana eh: 6859 
+A mediana eh: 8399 
+A mediana eh: 7579 
+A mediana eh: 7348 
+A mediana eh: 7135 
+A mediana eh: 7190 
+7348
+A mediana eh: 9428 
+A mediana eh: 6478 
+A mediana eh: 8108 
+A mediana eh: 7579 
+A mediana eh: 7348 
+A mediana eh: 7135 
+A mediana eh: 7190 
+7348
+A mediana eh: 9528 
+A mediana eh: 6417 
+A mediana eh: 8108 
+A mediana eh: 7579 
+A mediana eh: 7190 
+A mediana eh: 7473 
+A mediana eh: 7471 
+A mediana eh: 7348 
+7348
+A mediana eh: 9673 
+A mediana eh: 6270 
+A mediana eh: 7998 
+A mediana eh: 7471 
+A mediana eh: 6962 
+A mediana eh: 7190 
+A mediana eh: 7348 
+A mediana eh: 7297 
+7348
+A mediana eh: 9496 
+A mediana eh: 5943 
+A mediana eh: 7904 
+A mediana eh: 7231 
+A mediana eh: 7691 
+A mediana eh: 7473 
+A mediana eh: 7348 
+A mediana eh: 7297 
+7348
+A mediana eh: 9347 
+A mediana eh: 6238 
+A mediana eh: 7858 
+A mediana eh: 7190 
+A mediana eh: 7579 
+A mediana eh: 7359 
+A mediana eh: 7297 
+A mediana eh: 7348 
+7348
+A mediana eh: 9428 
+A mediana eh: 6238 
+A mediana eh: 7858 
+A mediana eh: 7189 
+A mediana eh: 7515 
+A mediana eh: 7359 
+A mediana eh: 7251 
+A mediana eh: 7348 
+A mediana eh: 7297 
+7348
+A mediana eh: 9428 
+A mediana eh: 6227 
+A mediana eh: 7858 
+A mediana eh: 7231 
+A mediana eh: 7612 
+A mediana eh: 7454 
+A mediana eh: 7359 
+A mediana eh: 7297 
+A mediana eh: 7348 
+7348
+A mediana eh: 9756 
+A mediana eh: 6478 
+A mediana eh: 7997 
+A mediana eh: 7454 
+A mediana eh: 7095 
+A mediana eh: 6859 
+A mediana eh: 6688 
+A mediana eh: 6772 
+A mediana eh: 6738 
+6738
+A mediana eh: 9756 
+A mediana eh: 6359 
+A mediana eh: 7992 
+A mediana eh: 7403 
+A mediana eh: 7007 
+A mediana eh: 6585 
+A mediana eh: 6790 
+A mediana eh: 6738 
+A mediana eh: 6688 
+6738
+A mediana eh: 9673 
+A mediana eh: 6359 
+A mediana eh: 7997 
+A mediana eh: 7404 
+A mediana eh: 6962 
+A mediana eh: 6688 
+A mediana eh: 6790 
+A mediana eh: 6746 
+A mediana eh: 6738 
+A mediana eh: 6731 
+6738
+A mediana eh: 9630 
+A mediana eh: 6270 
+A mediana eh: 7984 
+A mediana eh: 7359 
+A mediana eh: 6895 
+A mediana eh: 6512 
+A mediana eh: 6738 
+A mediana eh: 6688 
+A mediana eh: 6731 
+6738
+A mediana eh: 9529 
+A mediana eh: 6104 
+A mediana eh: 7859 
+A mediana eh: 7138 
+A mediana eh: 6559 
+A mediana eh: 6962 
+A mediana eh: 6760 
+A mediana eh: 6731 
+A mediana eh: 6746 
+A mediana eh: 6738 
+6738
+A mediana eh: 9528 
+A mediana eh: 5888 
+A mediana eh: 7833 
+A mediana eh: 7079 
+A mediana eh: 6406 
+A mediana eh: 6738 
+A mediana eh: 6559 
+A mediana eh: 6701 
+A mediana eh: 6731 
+6738
+A mediana eh: 9510 
+A mediana eh: 6080 
+A mediana eh: 7878 
+A mediana eh: 7214 
+A mediana eh: 6585 
+A mediana eh: 6962 
+A mediana eh: 6760 
+A mediana eh: 6731 
+A mediana eh: 6746 
+A mediana eh: 6738 
+6738
+A mediana eh: 9561 
+A mediana eh: 6226 
+A mediana eh: 7974 
+A mediana eh: 7348 
+A mediana eh: 6760 
+A mediana eh: 6417 
+A mediana eh: 6585 
+A mediana eh: 6512 
+A mediana eh: 6552 
+A mediana eh: 6544 
+6552
+A mediana eh: 9618 
+A mediana eh: 6157 
+A mediana eh: 7927 
+A mediana eh: 7324 
+A mediana eh: 6731 
+A mediana eh: 6402 
+A mediana eh: 6552 
+A mediana eh: 6482 
+A mediana eh: 6512 
+A mediana eh: 6544 
+6552
+A mediana eh: 9607 
+A mediana eh: 6110 
+A mediana eh: 3779 
+A mediana eh: 5171 
+A mediana eh: 5671 
+A mediana eh: 5525 
+A mediana eh: 5588 
+A mediana eh: 5643 
+A mediana eh: 5625 
+A mediana eh: 5605 
+5625
+A mediana eh: 9541 
+A mediana eh: 6028 
+A mediana eh: 3722 
+A mediana eh: 5082 
+A mediana eh: 5605 
+A mediana eh: 5783 
+A mediana eh: 5704 
+A mediana eh: 5653 
+A mediana eh: 5643 
+A mediana eh: 5643 
+A mediana eh: 5625 
+5625
+A mediana eh: 9597 
+A mediana eh: 5930 
+A mediana eh: 3666 
+A mediana eh: 4892 
+A mediana eh: 5537 
+A mediana eh: 5736 
+A mediana eh: 5625 
+A mediana eh: 5562 
+A mediana eh: 5602 
+A mediana eh: 5605 
+5625
+A mediana eh: 9561 
+A mediana eh: 6037 
+A mediana eh: 3716 
+A mediana eh: 5058 
+A mediana eh: 5588 
+A mediana eh: 5783 
+A mediana eh: 5694 
+A mediana eh: 5643 
+A mediana eh: 5605 
+A mediana eh: 5643 
+A mediana eh: 5625 
+5625
+A mediana eh: 9666 
+A mediana eh: 6226 
+A mediana eh: 3791 
+A mediana eh: 5244 
+A mediana eh: 5727 
+A mediana eh: 5530 
+A mediana eh: 5605 
+A mediana eh: 5653 
+A mediana eh: 5643 
+A mediana eh: 5625 
+A mediana eh: 5612 
+5625
+A mediana eh: 9646 
+A mediana eh: 6192 
+A mediana eh: 3780 
+A mediana eh: 5156 
+A mediana eh: 5683 
+A mediana eh: 5480 
+A mediana eh: 5581 
+A mediana eh: 5643 
+A mediana eh: 5605 
+A mediana eh: 5625 
+A mediana eh: 5612 
+5625
+A mediana eh: 9539 
+A mediana eh: 6194 
+A mediana eh: 3813 
+A mediana eh: 5157 
+A mediana eh: 5727 
+A mediana eh: 5505 
+A mediana eh: 5589 
+A mediana eh: 5649 
+A mediana eh: 5625 
+A mediana eh: 5605 
+A mediana eh: 5612 
+5625
+A mediana eh: 9528 
+A mediana eh: 6192 
+A mediana eh: 3792 
+A mediana eh: 5108 
+A mediana eh: 5671 
+A mediana eh: 5427 
+A mediana eh: 5561 
+A mediana eh: 5612 
+A mediana eh: 5649 
+A mediana eh: 5643 
+A mediana eh: 5643 
+A mediana eh: 5625 
+5625
+A mediana eh: 9460 
+A mediana eh: 6103 
+A mediana eh: 3780 
+A mediana eh: 5058 
+A mediana eh: 5643 
+A mediana eh: 5379 
+A mediana eh: 5546 
+A mediana eh: 5588 
+A mediana eh: 5612 
+A mediana eh: 5640 
+A mediana eh: 5625 
+5625
+A mediana eh: 9499 
+A mediana eh: 6198 
+A mediana eh: 3854 
+A mediana eh: 5157 
+A mediana eh: 5750 
+A mediana eh: 5516 
+A mediana eh: 5612 
+A mediana eh: 5671 
+A mediana eh: 5649 
+A mediana eh: 5643 
+A mediana eh: 5640 
+A mediana eh: 5625 
+5625
+A mediana eh: 9432 
+A mediana eh: 6104 
+A mediana eh: 3843 
+A mediana eh: 5106 
+A mediana eh: 5671 
+A mediana eh: 5406 
+A mediana eh: 5559 
+A mediana eh: 5612 
+A mediana eh: 5649 
+A mediana eh: 5643 
+A mediana eh: 5640 
+A mediana eh: 5625 
+5625
+A mediana eh: 9452 
+A mediana eh: 6180 
+A mediana eh: 3854 
+A mediana eh: 5116 
+A mediana eh: 5736 
+A mediana eh: 5479 
+A mediana eh: 5588 
+A mediana eh: 5649 
+A mediana eh: 5612 
+A mediana eh: 5643 
+A mediana eh: 5640 
+A mediana eh: 5625 
+5625
+A mediana eh: 9462 
+A mediana eh: 6169 
+A mediana eh: 3816 
+A mediana eh: 5108 
+A mediana eh: 5671 
+A mediana eh: 5406 
+A mediana eh: 5561 
+A mediana eh: 5612 
+A mediana eh: 5643 
+A mediana eh: 5640 
+A mediana eh: 5625 
+A mediana eh: 5614 
+5625
+A mediana eh: 9529 
+A mediana eh: 6227 
+A mediana eh: 3816 
+A mediana eh: 2423 
+A mediana eh: 3204 
+A mediana eh: 3474 
+A mediana eh: 3352 
+A mediana eh: 3384 
+A mediana eh: 3433 
+A mediana eh: 3460 
+A mediana eh: 3458 
+A mediana eh: 3448 
+3458
+A mediana eh: 9591 
+A mediana eh: 6195 
+A mediana eh: 3813 
+A mediana eh: 2423 
+A mediana eh: 3194 
+A mediana eh: 3460 
+A mediana eh: 3349 
+A mediana eh: 3379 
+A mediana eh: 3425 
+A mediana eh: 3450 
+A mediana eh: 3458 
+3458
+A mediana eh: 9666 
+A mediana eh: 6198 
+A mediana eh: 3812 
+A mediana eh: 2444 
+A mediana eh: 3200 
+A mediana eh: 3471 
+A mediana eh: 3350 
+A mediana eh: 3379 
+A mediana eh: 3425 
+A mediana eh: 3450 
+A mediana eh: 3460 
+A mediana eh: 3458 
+3458
+A mediana eh: 9675 
+A mediana eh: 6180 
+A mediana eh: 3791 
+A mediana eh: 2453 
+A mediana eh: 3191 
+A mediana eh: 3460 
+A mediana eh: 3349 
+A mediana eh: 3379 
+A mediana eh: 3368 
+A mediana eh: 3373 
+A mediana eh: 3376 
+3379
+A mediana eh: 9669 
+A mediana eh: 6141 
+A mediana eh: 3780 
+A mediana eh: 2453 
+A mediana eh: 3191 
+A mediana eh: 3448 
+A mediana eh: 3347 
+A mediana eh: 3271 
+A mediana eh: 3299 
+A mediana eh: 3324 
+A mediana eh: 3347 
+3347
+A mediana eh: 9691 
+A mediana eh: 6169 
+A mediana eh: 3779 
+A mediana eh: 2462 
+A mediana eh: 3181 
+A mediana eh: 3450 
+A mediana eh: 3347 
+A mediana eh: 3271 
+A mediana eh: 3299 
+A mediana eh: 3324 
+A mediana eh: 3347 
+A mediana eh: 3335 
+3347
+A mediana eh: 9756 
+A mediana eh: 6247 
+A mediana eh: 3813 
+A mediana eh: 2485 
+A mediana eh: 3231 
+A mediana eh: 3526 
+A mediana eh: 3368 
+A mediana eh: 3303 
+A mediana eh: 3274 
+A mediana eh: 3250 
+A mediana eh: 3240 
+A mediana eh: 3235 
+3240
+A mediana eh: 9777 
+A mediana eh: 6258 
+A mediana eh: 3859 
+A mediana eh: 2549 
+A mediana eh: 3271 
+A mediana eh: 2893 
+A mediana eh: 3098 
+A mediana eh: 3194 
+A mediana eh: 3235 
+A mediana eh: 3252 
+A mediana eh: 3249 
+A mediana eh: 3240 
+3240
+A mediana eh: 9843 
+A mediana eh: 6258 
+A mediana eh: 3835 
+A mediana eh: 2549 
+A mediana eh: 3250 
+A mediana eh: 2883 
+A mediana eh: 3097 
+A mediana eh: 3188 
+A mediana eh: 3216 
+A mediana eh: 3231 
+A mediana eh: 3240 
+A mediana eh: 3235 
+3240
+A mediana eh: 9849 
+A mediana eh: 6275 
+A mediana eh: 3888 
+A mediana eh: 2565 
+A mediana eh: 3280 
+A mediana eh: 2944 
+A mediana eh: 3148 
+A mediana eh: 3225 
+A mediana eh: 3263 
+A mediana eh: 3249 
+A mediana eh: 3235 
+A mediana eh: 3240 
+3240
+A mediana eh: 9867 
+A mediana eh: 6247 
+A mediana eh: 3876 
+A mediana eh: 2550 
+A mediana eh: 3270 
+A mediana eh: 2908 
+A mediana eh: 3111 
+A mediana eh: 3202 
+A mediana eh: 3231 
+A mediana eh: 3250 
+A mediana eh: 3240 
+A mediana eh: 3235 
+3240
+A mediana eh: 9879 
+A mediana eh: 6180 
+A mediana eh: 3792 
+A mediana eh: 2473 
+A mediana eh: 3205 
+A mediana eh: 3497 
+A mediana eh: 3354 
+A mediana eh: 3278 
+A mediana eh: 3250 
+A mediana eh: 3227 
+A mediana eh: 3240 
+A mediana eh: 3235 
+3240
+A mediana eh: 9879 
+A mediana eh: 6204 
+A mediana eh: 3842 
+A mediana eh: 2506 
+A mediana eh: 3252 
+A mediana eh: 2877 
+A mediana eh: 2685 
+A mediana eh: 2789 
+A mediana eh: 2833 
+A mediana eh: 2853 
+A mediana eh: 2848 
+A mediana eh: 2842 
+2848
+A mediana eh: 9885 
+A mediana eh: 6211 
+A mediana eh: 3887 
+A mediana eh: 2555 
+A mediana eh: 3292 
+A mediana eh: 2920 
+A mediana eh: 2733 
+A mediana eh: 2827 
+A mediana eh: 2877 
+A mediana eh: 2852 
+A mediana eh: 2833 
+A mediana eh: 2848 
+A mediana eh: 2842 
+2848
+A mediana eh: 9870 
+A mediana eh: 6178 
+A mediana eh: 3838 
+A mediana eh: 2552 
+A mediana eh: 3250 
+A mediana eh: 2890 
+A mediana eh: 2723 
+A mediana eh: 2815 
+A mediana eh: 2852 
+A mediana eh: 2833 
+A mediana eh: 2848 
+A mediana eh: 2842 
+2848
+A mediana eh: 9885 
+A mediana eh: 6192 
+A mediana eh: 3823 
+A mediana eh: 2506 
+A mediana eh: 3235 
+A mediana eh: 2872 
+A mediana eh: 2695 
+A mediana eh: 2782 
+A mediana eh: 2833 
+A mediana eh: 2853 
+A mediana eh: 2848 
+A mediana eh: 2842 
+2848
+A mediana eh: 9912 
+A mediana eh: 6197 
+A mediana eh: 3813 
+A mediana eh: 2506 
+A mediana eh: 3233 
+A mediana eh: 2862 
+A mediana eh: 2685 
+A mediana eh: 2776 
+A mediana eh: 2820 
+A mediana eh: 2842 
+A mediana eh: 2833 
+A mediana eh: 2833 
+A mediana eh: 2832 
+A mediana eh: 2827 
+2832
+A mediana eh: 9916 
+A mediana eh: 6197 
+A mediana eh: 3820 
+A mediana eh: 2506 
+A mediana eh: 3233 
+A mediana eh: 2862 
+A mediana eh: 2682 
+A mediana eh: 2776 
+A mediana eh: 2827 
+A mediana eh: 2842 
+A mediana eh: 2833 
+A mediana eh: 2833 
+A mediana eh: 2832 
+2832
+A mediana eh: 9927 
+A mediana eh: 6176 
+A mediana eh: 3775 
+A mediana eh: 2445 
+A mediana eh: 3180 
+A mediana eh: 2798 
+A mediana eh: 2976 
+A mediana eh: 2877 
+A mediana eh: 2833 
+A mediana eh: 2820 
+A mediana eh: 2832 
+A mediana eh: 2831 
+2832
+A mediana eh: 9947 
+A mediana eh: 6173 
+A mediana eh: 3792 
+A mediana eh: 2473 
+A mediana eh: 3204 
+A mediana eh: 2833 
+A mediana eh: 2667 
+A mediana eh: 2749 
+A mediana eh: 2798 
+A mediana eh: 2776 
+A mediana eh: 2786 
+A mediana eh: 2782 
+A mediana eh: 2779 
+2782
+A mediana eh: 9953 
+A mediana eh: 6149 
+A mediana eh: 3795 
+A mediana eh: 2478 
+A mediana eh: 3205 
+A mediana eh: 2842 
+A mediana eh: 2668 
+A mediana eh: 2756 
+A mediana eh: 2815 
+A mediana eh: 2782 
+A mediana eh: 2773 
+A mediana eh: 2779 
+2782
+A mediana eh: 9947 
+A mediana eh: 6103 
+A mediana eh: 3761 
+A mediana eh: 2451 
+A mediana eh: 3160 
+A mediana eh: 2815 
+A mediana eh: 2631 
+A mediana eh: 2720 
+A mediana eh: 2769 
+A mediana eh: 2743 
+A mediana eh: 2756 
+A mediana eh: 2749 
+A mediana eh: 2744 
+2744
+A mediana eh: 9955 
+A mediana eh: 6143 
+A mediana eh: 3777 
+A mediana eh: 2455 
+A mediana eh: 3180 
+A mediana eh: 2831 
+A mediana eh: 2994 
+A mediana eh: 3078 
+A mediana eh: 3126 
+A mediana eh: 3111 
+A mediana eh: 3098 
+A mediana eh: 3097 
+A mediana eh: 3097 
+A mediana eh: 3085 
+3085
+A mediana eh: 9952 
+A mediana eh: 6149 
+A mediana eh: 3785 
+A mediana eh: 2475 
+A mediana eh: 3204 
+A mediana eh: 2848 
+A mediana eh: 3022 
+A mediana eh: 3111 
+A mediana eh: 3055 
+A mediana eh: 3078 
+A mediana eh: 3098 
+A mediana eh: 3097 
+A mediana eh: 3097 
+A mediana eh: 3085 
+3085
+A mediana eh: 9973 
+A mediana eh: 6176 
+A mediana eh: 3780 
+A mediana eh: 2463 
+A mediana eh: 3194 
+A mediana eh: 2842 
+A mediana eh: 3004 
+A mediana eh: 3097 
+A mediana eh: 3043 
+A mediana eh: 3071 
+A mediana eh: 3078 
+A mediana eh: 3097 
+A mediana eh: 3085 
+3085
+A mediana eh: 9965 
+A mediana eh: 6186 
+A mediana eh: 3813 
+A mediana eh: 2485 
+A mediana eh: 3220 
+A mediana eh: 2863 
+A mediana eh: 3037 
+A mediana eh: 3134 
+A mediana eh: 3085 
+A mediana eh: 3055 
+A mediana eh: 3072 
+A mediana eh: 3078 
+3085
+A mediana eh: 9974 
+A mediana eh: 6223 
+A mediana eh: 3855 
+A mediana eh: 2549 
+A mediana eh: 3251 
+A mediana eh: 2894 
+A mediana eh: 3085 
+A mediana eh: 3000 
+A mediana eh: 3038 
+A mediana eh: 3058 
+A mediana eh: 3072 
+A mediana eh: 3078 
+3085
+A mediana eh: 9980 
+A mediana eh: 6227 
+A mediana eh: 3859 
+A mediana eh: 2555 
+A mediana eh: 3253 
+A mediana eh: 3563 
+A mediana eh: 3391 
+A mediana eh: 3335 
+A mediana eh: 3371 
+A mediana eh: 3380 
+A mediana eh: 3388 
+A mediana eh: 3391 
+A mediana eh: 3390 
+3391
+A mediana eh: 9985 
+A mediana eh: 6217 
+A mediana eh: 3859 
+A mediana eh: 2563 
+A mediana eh: 3270 
+A mediana eh: 3567 
+A mediana eh: 3408 
+A mediana eh: 3349 
+A mediana eh: 3379 
+A mediana eh: 3390 
+A mediana eh: 3393 
+A mediana eh: 3391 
+A mediana eh: 3391 
+3391
+A mediana eh: 9985 
+A mediana eh: 6210 
+A mediana eh: 3892 
+A mediana eh: 2585 
+A mediana eh: 3292 
+A mediana eh: 3601 
+A mediana eh: 3453 
+A mediana eh: 3372 
+A mediana eh: 3394 
+A mediana eh: 3384 
+A mediana eh: 3391 
+A mediana eh: 3390 
+A mediana eh: 3391 
+3391
+A mediana eh: 9987 
+A mediana eh: 6204 
+A mediana eh: 3876 
+A mediana eh: 2566 
+A mediana eh: 3277 
+A mediana eh: 3587 
+A mediana eh: 3436 
+A mediana eh: 3364 
+A mediana eh: 3388 
+A mediana eh: 3408 
+A mediana eh: 3393 
+A mediana eh: 3391 
+A mediana eh: 3391 
+A mediana eh: 3390 
+3391
+A mediana eh: 9994 
+A mediana eh: 6255 
+A mediana eh: 3935 
+A mediana eh: 2602 
+A mediana eh: 3308 
+A mediana eh: 2963 
+A mediana eh: 2803 
+A mediana eh: 2878 
+A mediana eh: 2937 
+A mediana eh: 2955 
+A mediana eh: 2961 
+A mediana eh: 2960 
+A mediana eh: 2960 
+2960
+A mediana eh: 9980 
+A mediana eh: 6276 
+A mediana eh: 3963 
+A mediana eh: 2631 
+A mediana eh: 3335 
+A mediana eh: 3000 
+A mediana eh: 2832 
+A mediana eh: 2907 
+A mediana eh: 2956 
+A mediana eh: 2978 
+A mediana eh: 2962 
+A mediana eh: 2961 
+A mediana eh: 2960 
+A mediana eh: 2960 
+2960
+A mediana eh: 9998 
+A mediana eh: 6324 
+A mediana eh: 3998 
+A mediana eh: 2663 
+A mediana eh: 3368 
+A mediana eh: 3022 
+A mediana eh: 2853 
+A mediana eh: 2944 
+A mediana eh: 2980 
+A mediana eh: 2960 
+A mediana eh: 2955 
+A mediana eh: 2960 
+2960
+A mediana eh: 9989 
+A mediana eh: 6309 
+A mediana eh: 3998 
+A mediana eh: 2661 
+A mediana eh: 3364 
+A mediana eh: 3014 
+A mediana eh: 2847 
+A mediana eh: 2934 
+A mediana eh: 2963 
+A mediana eh: 2954 
+A mediana eh: 2960 
+A mediana eh: 2955 
+A mediana eh: 2960 
+2960
+A mediana eh: 9994 
+A mediana eh: 6309 
+A mediana eh: 4042 
+A mediana eh: 2670 
+A mediana eh: 3380 
+A mediana eh: 3037 
+A mediana eh: 2863 
+A mediana eh: 2955 
+A mediana eh: 3000 
+A mediana eh: 2977 
+A mediana eh: 2962 
+A mediana eh: 2960 
+A mediana eh: 2960 
+2960
+A mediana eh: 10009 
+A mediana eh: 6302 
+A mediana eh: 4034 
+A mediana eh: 2664 
+A mediana eh: 3373 
+A mediana eh: 3017 
+A mediana eh: 2853 
+A mediana eh: 2941 
+A mediana eh: 2881 
+A mediana eh: 2865 
+A mediana eh: 2861 
+A mediana eh: 2858 
+A mediana eh: 2860 
+2861
+A mediana eh: 10003 
+A mediana eh: 6268 
+A mediana eh: 3996 
+A mediana eh: 2663 
+A mediana eh: 3367 
+A mediana eh: 3012 
+A mediana eh: 2852 
+A mediana eh: 2940 
+A mediana eh: 2880 
+A mediana eh: 2863 
+A mediana eh: 2858 
+A mediana eh: 2862 
+A mediana eh: 2861 
+A mediana eh: 2860 
+2861
+A mediana eh: 10024 
+A mediana eh: 6287 
+A mediana eh: 3996 
+A mediana eh: 2657 
+A mediana eh: 3354 
+A mediana eh: 3009 
+A mediana eh: 2847 
+A mediana eh: 2937 
+A mediana eh: 2878 
+A mediana eh: 2862 
+A mediana eh: 2857 
+A mediana eh: 2860 
+A mediana eh: 2861 
+2861
+A mediana eh: 10033 
+A mediana eh: 6302 
+A mediana eh: 4000 
+A mediana eh: 2645 
+A mediana eh: 3358 
+A mediana eh: 3007 
+A mediana eh: 2842 
+A mediana eh: 2916 
+A mediana eh: 2875 
+A mediana eh: 2858 
+A mediana eh: 2863 
+A mediana eh: 2862 
+A mediana eh: 2861 
+A mediana eh: 2860 
+2861
+A mediana eh: 10036 
+A mediana eh: 6277 
+A mediana eh: 3996 
+A mediana eh: 2657 
+A mediana eh: 3354 
+A mediana eh: 3012 
+A mediana eh: 2844 
+A mediana eh: 2933 
+A mediana eh: 2878 
+A mediana eh: 2861 
+A mediana eh: 2853 
+A mediana eh: 2858 
+A mediana eh: 2860 
+2861
+A mediana eh: 10033 
+A mediana eh: 6289 
+A mediana eh: 4029 
+A mediana eh: 2669 
+A mediana eh: 3379 
+A mediana eh: 3043 
+A mediana eh: 2863 
+A mediana eh: 2780 
+A mediana eh: 2831 
+A mediana eh: 2852 
+A mediana eh: 2858 
+A mediana eh: 2862 
+A mediana eh: 2861 
+A mediana eh: 2860 
+2861
+A mediana eh: 10036 
+A mediana eh: 6290 
+A mediana eh: 4065 
+A mediana eh: 2693 
+A mediana eh: 3390 
+A mediana eh: 3058 
+A mediana eh: 2879 
+A mediana eh: 2803 
+A mediana eh: 2847 
+A mediana eh: 2863 
+A mediana eh: 2858 
+A mediana eh: 2862 
+A mediana eh: 2861 
+A mediana eh: 2860 
+2861
+A mediana eh: 10040 
+A mediana eh: 6309 
+A mediana eh: 4070 
+A mediana eh: 2702 
+A mediana eh: 3390 
+A mediana eh: 3071 
+A mediana eh: 2881 
+A mediana eh: 2805 
+A mediana eh: 2847 
+A mediana eh: 2863 
+A mediana eh: 2858 
+A mediana eh: 2862 
+A mediana eh: 2861 
+A mediana eh: 2860 
+2861
+A mediana eh: 10045 
+A mediana eh: 6329 
+A mediana eh: 4087 
+A mediana eh: 2715 
+A mediana eh: 1850 
+A mediana eh: 2333 
+A mediana eh: 2507 
+A mediana eh: 2424 
+A mediana eh: 2455 
+A mediana eh: 2478 
+A mediana eh: 2493 
+A mediana eh: 2506 
+A mediana eh: 2496 
+A mediana eh: 2496 
+2496
+A mediana eh: 10039 
+A mediana eh: 6335 
+A mediana eh: 4117 
+A mediana eh: 2743 
+A mediana eh: 1856 
+A mediana eh: 2338 
+A mediana eh: 2544 
+A mediana eh: 2430 
+A mediana eh: 2468 
+A mediana eh: 2493 
+A mediana eh: 2513 
+A mediana eh: 2506 
+A mediana eh: 2496 
+A mediana eh: 2496 
+2496
+A mediana eh: 10043 
+A mediana eh: 6362 
+A mediana eh: 4152 
+A mediana eh: 2756 
+A mediana eh: 1871 
+A mediana eh: 2353 
+A mediana eh: 2555 
+A mediana eh: 2445 
+A mediana eh: 2485 
+A mediana eh: 2525 
+A mediana eh: 2506 
+A mediana eh: 2496 
+A mediana eh: 2493 
+A mediana eh: 2496 
+2496
+A mediana eh: 10043 
+A mediana eh: 6344 
+A mediana eh: 4131 
+A mediana eh: 2769 
+A mediana eh: 1882 
+A mediana eh: 2365 
+A mediana eh: 2563 
+A mediana eh: 2452 
+A mediana eh: 2505 
+A mediana eh: 2471 
+A mediana eh: 2484 
+A mediana eh: 2493 
+A mediana eh: 2496 
+A mediana eh: 2496 
+2496
+A mediana eh: 10044 
+A mediana eh: 6358 
+A mediana eh: 4160 
+A mediana eh: 2785 
+A mediana eh: 1892 
+A mediana eh: 2385 
+A mediana eh: 2584 
+A mediana eh: 2463 
+A mediana eh: 2542 
+A mediana eh: 2493 
+A mediana eh: 2509 
+A mediana eh: 2506 
+A mediana eh: 2505 
+A mediana eh: 2496 
+A mediana eh: 2496 
+2496
+A mediana eh: 10045 
+A mediana eh: 6362 
+A mediana eh: 4181 
+A mediana eh: 2794 
+A mediana eh: 1906 
+A mediana eh: 2392 
+A mediana eh: 2586 
+A mediana eh: 2471 
+A mediana eh: 2549 
+A mediana eh: 2506 
+A mediana eh: 2485 
+A mediana eh: 2496 
+A mediana eh: 2493 
+A mediana eh: 2496 
+2496
+A mediana eh: 10049 
+A mediana eh: 6365 
+A mediana eh: 4200 
+A mediana eh: 2810 
+A mediana eh: 1909 
+A mediana eh: 2399 
+A mediana eh: 2599 
+A mediana eh: 2478 
+A mediana eh: 2444 
+A mediana eh: 2456 
+A mediana eh: 2453 
+A mediana eh: 2448 
+A mediana eh: 2447 
+A mediana eh: 2448 
+2448
+A mediana eh: 10045 
+A mediana eh: 6378 
+A mediana eh: 4221 
+A mediana eh: 2820 
+A mediana eh: 1917 
+A mediana eh: 2406 
+A mediana eh: 2612 
+A mediana eh: 2492 
+A mediana eh: 2448 
+A mediana eh: 2429 
+A mediana eh: 2440 
+A mediana eh: 2445 
+A mediana eh: 2448 
+A mediana eh: 2447 
+2448
+A mediana eh: 10044 
+A mediana eh: 6389 
+A mediana eh: 4229 
+A mediana eh: 2825 
+A mediana eh: 1927 
+A mediana eh: 2409 
+A mediana eh: 2614 
+A mediana eh: 2505 
+A mediana eh: 2453 
+A mediana eh: 2435 
+A mediana eh: 2447 
+A mediana eh: 2452 
+A mediana eh: 2448 
+A mediana eh: 2448 
+2448
+A mediana eh: 10037 
+A mediana eh: 6398 
+A mediana eh: 4244 
+A mediana eh: 2842 
+A mediana eh: 1930 
+A mediana eh: 2418 
+A mediana eh: 2625 
+A mediana eh: 2509 
+A mediana eh: 2455 
+A mediana eh: 2444 
+A mediana eh: 2452 
+A mediana eh: 2448 
+A mediana eh: 2447 
+A mediana eh: 2448 
+2448
+A mediana eh: 10038 
+A mediana eh: 6390 
+A mediana eh: 4238 
+A mediana eh: 2833 
+A mediana eh: 1927 
+A mediana eh: 2413 
+A mediana eh: 2619 
+A mediana eh: 2506 
+A mediana eh: 2453 
+A mediana eh: 2435 
+A mediana eh: 2426 
+A mediana eh: 2419 
+A mediana eh: 2416 
+A mediana eh: 2414 
+A mediana eh: 2414 
+2414
+A mediana eh: 10034 
+A mediana eh: 6387 
+A mediana eh: 4234 
+A mediana eh: 2820 
+A mediana eh: 1903 
+A mediana eh: 2398 
+A mediana eh: 2607 
+A mediana eh: 2483 
+A mediana eh: 2444 
+A mediana eh: 2423 
+A mediana eh: 2409 
+A mediana eh: 2416 
+A mediana eh: 2414 
+A mediana eh: 2414 
+A mediana eh: 2413 
+2414
+A mediana eh: 10039 
+A mediana eh: 6396 
+A mediana eh: 4246 
+A mediana eh: 2820 
+A mediana eh: 1909 
+A mediana eh: 2398 
+A mediana eh: 2607 
+A mediana eh: 2482 
+A mediana eh: 2444 
+A mediana eh: 2423 
+A mediana eh: 2409 
+A mediana eh: 2416 
+A mediana eh: 2414 
+A mediana eh: 2414 
+A mediana eh: 2413 
+2414
+A mediana eh: 10039 
+A mediana eh: 6403 
+A mediana eh: 4239 
+A mediana eh: 2819 
+A mediana eh: 1906 
+A mediana eh: 2391 
+A mediana eh: 2599 
+A mediana eh: 2478 
+A mediana eh: 2437 
+A mediana eh: 2416 
+A mediana eh: 2403 
+A mediana eh: 2409 
+A mediana eh: 2414 
+A mediana eh: 2414 
+2414
+A mediana eh: 10012 
+A mediana eh: 6487 
+A mediana eh: 4395 
+A mediana eh: 2950 
+A mediana eh: 2029 
+A mediana eh: 2520 
+A mediana eh: 2737 
+A mediana eh: 2634 
+A mediana eh: 2582 
+A mediana eh: 2551 
+A mediana eh: 2536 
+A mediana eh: 2531 
+A mediana eh: 2535 
+A mediana eh: 2535 
+2535
+A mediana eh: 10012 
+A mediana eh: 6481 
+A mediana eh: 4381 
+A mediana eh: 2921 
+A mediana eh: 2014 
+A mediana eh: 2496 
+A mediana eh: 2724 
+A mediana eh: 2615 
+A mediana eh: 2567 
+A mediana eh: 2535 
+A mediana eh: 2520 
+A mediana eh: 2527 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10010 
+A mediana eh: 6487 
+A mediana eh: 4383 
+A mediana eh: 2926 
+A mediana eh: 2027 
+A mediana eh: 2513 
+A mediana eh: 2736 
+A mediana eh: 2625 
+A mediana eh: 2577 
+A mediana eh: 2537 
+A mediana eh: 2527 
+A mediana eh: 2536 
+A mediana eh: 2535 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10010 
+A mediana eh: 6484 
+A mediana eh: 4381 
+A mediana eh: 2917 
+A mediana eh: 1993 
+A mediana eh: 2489 
+A mediana eh: 2705 
+A mediana eh: 2601 
+A mediana eh: 2543 
+A mediana eh: 2516 
+A mediana eh: 2535 
+A mediana eh: 2523 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10014 
+A mediana eh: 6498 
+A mediana eh: 4376 
+A mediana eh: 2917 
+A mediana eh: 1981 
+A mediana eh: 2483 
+A mediana eh: 2706 
+A mediana eh: 2599 
+A mediana eh: 2540 
+A mediana eh: 2514 
+A mediana eh: 2531 
+A mediana eh: 2536 
+A mediana eh: 2535 
+A mediana eh: 2535 
+2535
+A mediana eh: 10010 
+A mediana eh: 6480 
+A mediana eh: 4340 
+A mediana eh: 2888 
+A mediana eh: 1921 
+A mediana eh: 2448 
+A mediana eh: 2667 
+A mediana eh: 2563 
+A mediana eh: 2494 
+A mediana eh: 2527 
+A mediana eh: 2540 
+A mediana eh: 2536 
+A mediana eh: 2535 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10012 
+A mediana eh: 6471 
+A mediana eh: 4326 
+A mediana eh: 2877 
+A mediana eh: 1915 
+A mediana eh: 2436 
+A mediana eh: 2659 
+A mediana eh: 2537 
+A mediana eh: 2483 
+A mediana eh: 2513 
+A mediana eh: 2527 
+A mediana eh: 2536 
+A mediana eh: 2535 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10014 
+A mediana eh: 6479 
+A mediana eh: 4332 
+A mediana eh: 2871 
+A mediana eh: 1903 
+A mediana eh: 2432 
+A mediana eh: 2656 
+A mediana eh: 2537 
+A mediana eh: 2482 
+A mediana eh: 2512 
+A mediana eh: 2523 
+A mediana eh: 2535 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10018 
+A mediana eh: 6477 
+A mediana eh: 4336 
+A mediana eh: 2877 
+A mediana eh: 1903 
+A mediana eh: 2436 
+A mediana eh: 2659 
+A mediana eh: 2537 
+A mediana eh: 2483 
+A mediana eh: 2513 
+A mediana eh: 2527 
+A mediana eh: 2536 
+A mediana eh: 2535 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10026 
+A mediana eh: 6470 
+A mediana eh: 4332 
+A mediana eh: 2877 
+A mediana eh: 1888 
+A mediana eh: 2430 
+A mediana eh: 2656 
+A mediana eh: 2535 
+A mediana eh: 2479 
+A mediana eh: 2502 
+A mediana eh: 2520 
+A mediana eh: 2524 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10026 
+A mediana eh: 6470 
+A mediana eh: 4330 
+A mediana eh: 2854 
+A mediana eh: 1888 
+A mediana eh: 2416 
+A mediana eh: 2634 
+A mediana eh: 2513 
+A mediana eh: 2581 
+A mediana eh: 2543 
+A mediana eh: 2531 
+A mediana eh: 2537 
+A mediana eh: 2536 
+A mediana eh: 2535 
+A mediana eh: 2535 
+A mediana eh: 2533 
+2535
+A mediana eh: 10021 
+A mediana eh: 6470 
+A mediana eh: 4332 
+A mediana eh: 2865 
+A mediana eh: 1896 
+A mediana eh: 2424 
+A mediana eh: 2648 
+A mediana eh: 2522 
+A mediana eh: 2583 
+A mediana eh: 2557 
+A mediana eh: 2537 
+A mediana eh: 2535 
+A mediana eh: 2527 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10018 
+A mediana eh: 6460 
+A mediana eh: 4311 
+A mediana eh: 2830 
+A mediana eh: 1856 
+A mediana eh: 2378 
+A mediana eh: 2607 
+A mediana eh: 2483 
+A mediana eh: 2540 
+A mediana eh: 2513 
+A mediana eh: 2524 
+A mediana eh: 2536 
+A mediana eh: 2535 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10020 
+A mediana eh: 6454 
+A mediana eh: 4298 
+A mediana eh: 2817 
+A mediana eh: 1840 
+A mediana eh: 2362 
+A mediana eh: 2587 
+A mediana eh: 2469 
+A mediana eh: 2527 
+A mediana eh: 2563 
+A mediana eh: 2543 
+A mediana eh: 2536 
+A mediana eh: 2535 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10014 
+A mediana eh: 6444 
+A mediana eh: 4307 
+A mediana eh: 2825 
+A mediana eh: 1843 
+A mediana eh: 2371 
+A mediana eh: 2597 
+A mediana eh: 2482 
+A mediana eh: 2537 
+A mediana eh: 2511 
+A mediana eh: 2523 
+A mediana eh: 2535 
+A mediana eh: 2531 
+A mediana eh: 2535 
+A mediana eh: 2533 
+2535
+A mediana eh: 10007 
+A mediana eh: 6448 
+A mediana eh: 4320 
+A mediana eh: 2837 
+A mediana eh: 1856 
+A mediana eh: 2385 
+A mediana eh: 2611 
+A mediana eh: 2490 
+A mediana eh: 2552 
+A mediana eh: 2520 
+A mediana eh: 2536 
+A mediana eh: 2527 
+A mediana eh: 2535 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10008 
+A mediana eh: 6449 
+A mediana eh: 4321 
+A mediana eh: 2838 
+A mediana eh: 1869 
+A mediana eh: 2391 
+A mediana eh: 2613 
+A mediana eh: 2492 
+A mediana eh: 2557 
+A mediana eh: 2523 
+A mediana eh: 2540 
+A mediana eh: 2535 
+A mediana eh: 2531 
+A mediana eh: 2535 
+A mediana eh: 2533 
+2535
+A mediana eh: 10006 
+A mediana eh: 6450 
+A mediana eh: 4306 
+A mediana eh: 2837 
+A mediana eh: 1872 
+A mediana eh: 2386 
+A mediana eh: 2613 
+A mediana eh: 2492 
+A mediana eh: 2562 
+A mediana eh: 2524 
+A mediana eh: 2543 
+A mediana eh: 2536 
+A mediana eh: 2535 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10008 
+A mediana eh: 6448 
+A mediana eh: 4292 
+A mediana eh: 2826 
+A mediana eh: 1863 
+A mediana eh: 2370 
+A mediana eh: 2601 
+A mediana eh: 2480 
+A mediana eh: 2537 
+A mediana eh: 2508 
+A mediana eh: 2523 
+A mediana eh: 2535 
+A mediana eh: 2531 
+A mediana eh: 2535 
+A mediana eh: 2533 
+2535
+A mediana eh: 10009 
+A mediana eh: 6438 
+A mediana eh: 4284 
+A mediana eh: 2825 
+A mediana eh: 1869 
+A mediana eh: 2370 
+A mediana eh: 2597 
+A mediana eh: 2479 
+A mediana eh: 2537 
+A mediana eh: 2508 
+A mediana eh: 2523 
+A mediana eh: 2535 
+A mediana eh: 2531 
+A mediana eh: 2535 
+A mediana eh: 2533 
+2535
+A mediana eh: 10007 
+A mediana eh: 6437 
+A mediana eh: 4282 
+A mediana eh: 2815 
+A mediana eh: 1843 
+A mediana eh: 2345 
+A mediana eh: 2581 
+A mediana eh: 2463 
+A mediana eh: 2520 
+A mediana eh: 2552 
+A mediana eh: 2536 
+A mediana eh: 2527 
+A mediana eh: 2535 
+A mediana eh: 2533 
+A mediana eh: 2535 
+2535
+A mediana eh: 10006 
+A mediana eh: 6424 
+A mediana eh: 4276 
+A mediana eh: 2824 
+A mediana eh: 1853 
+A mediana eh: 2361 
+A mediana eh: 2592 
+A mediana eh: 2469 
+A mediana eh: 2533 
+A mediana eh: 2567 
+A mediana eh: 2548 
+A mediana eh: 2537 
+A mediana eh: 2536 
+A mediana eh: 2535 
+A mediana eh: 2535 
+2535
+A mediana eh: 10008 
+A mediana eh: 6421 
+A mediana eh: 4272 
+A mediana eh: 2825 
+A mediana eh: 1850 
+A mediana eh: 2362 
+A mediana eh: 2596 
+A mediana eh: 2472 
+A mediana eh: 2536 
+A mediana eh: 2508 
+A mediana eh: 2523 
+A mediana eh: 2531 
+A mediana eh: 2535 
+A mediana eh: 2535 
+A mediana eh: 2533 
+2535
+A mediana eh: 10012 
+A mediana eh: 6425 
+A mediana eh: 4281 
+A mediana eh: 2825 
+A mediana eh: 1848 
+A mediana eh: 2361 
+A mediana eh: 2120 
+A mediana eh: 2249 
+A mediana eh: 2304 
+A mediana eh: 2337 
+A mediana eh: 2345 
+A mediana eh: 2342 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10010 
+A mediana eh: 6448 
+A mediana eh: 4298 
+A mediana eh: 2837 
+A mediana eh: 1858 
+A mediana eh: 2377 
+A mediana eh: 2134 
+A mediana eh: 2262 
+A mediana eh: 2329 
+A mediana eh: 2345 
+A mediana eh: 2337 
+A mediana eh: 2342 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10011 
+A mediana eh: 6431 
+A mediana eh: 4280 
+A mediana eh: 2830 
+A mediana eh: 1857 
+A mediana eh: 2370 
+A mediana eh: 2132 
+A mediana eh: 2256 
+A mediana eh: 2313 
+A mediana eh: 2342 
+A mediana eh: 2334 
+A mediana eh: 2337 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10010 
+A mediana eh: 6434 
+A mediana eh: 4286 
+A mediana eh: 2839 
+A mediana eh: 1871 
+A mediana eh: 2386 
+A mediana eh: 2137 
+A mediana eh: 2267 
+A mediana eh: 2334 
+A mediana eh: 2354 
+A mediana eh: 2342 
+A mediana eh: 2337 
+A mediana eh: 2339 
+A mediana eh: 2342 
+2342
+A mediana eh: 10007 
+A mediana eh: 6431 
+A mediana eh: 4283 
+A mediana eh: 2843 
+A mediana eh: 1883 
+A mediana eh: 2393 
+A mediana eh: 2148 
+A mediana eh: 2279 
+A mediana eh: 2336 
+A mediana eh: 2361 
+A mediana eh: 2344 
+A mediana eh: 2339 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10009 
+A mediana eh: 6432 
+A mediana eh: 4286 
+A mediana eh: 2839 
+A mediana eh: 1871 
+A mediana eh: 2386 
+A mediana eh: 2137 
+A mediana eh: 2267 
+A mediana eh: 2333 
+A mediana eh: 2352 
+A mediana eh: 2339 
+A mediana eh: 2344 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10008 
+A mediana eh: 6418 
+A mediana eh: 4268 
+A mediana eh: 2838 
+A mediana eh: 1877 
+A mediana eh: 2390 
+A mediana eh: 2142 
+A mediana eh: 2269 
+A mediana eh: 2334 
+A mediana eh: 2354 
+A mediana eh: 2342 
+A mediana eh: 2337 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10007 
+A mediana eh: 6421 
+A mediana eh: 4280 
+A mediana eh: 2845 
+A mediana eh: 1886 
+A mediana eh: 2397 
+A mediana eh: 2147 
+A mediana eh: 2280 
+A mediana eh: 2337 
+A mediana eh: 2364 
+A mediana eh: 2346 
+A mediana eh: 2342 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10007 
+A mediana eh: 6412 
+A mediana eh: 4262 
+A mediana eh: 2830 
+A mediana eh: 1863 
+A mediana eh: 2384 
+A mediana eh: 2134 
+A mediana eh: 2262 
+A mediana eh: 2330 
+A mediana eh: 2346 
+A mediana eh: 2337 
+A mediana eh: 2342 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10008 
+A mediana eh: 6396 
+A mediana eh: 4248 
+A mediana eh: 2823 
+A mediana eh: 1848 
+A mediana eh: 2367 
+A mediana eh: 2120 
+A mediana eh: 2251 
+A mediana eh: 2312 
+A mediana eh: 2338 
+A mediana eh: 2352 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10007 
+A mediana eh: 6402 
+A mediana eh: 4259 
+A mediana eh: 2833 
+A mediana eh: 1856 
+A mediana eh: 2383 
+A mediana eh: 2132 
+A mediana eh: 2258 
+A mediana eh: 2329 
+A mediana eh: 2345 
+A mediana eh: 2337 
+A mediana eh: 2342 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10007 
+A mediana eh: 6388 
+A mediana eh: 4241 
+A mediana eh: 2825 
+A mediana eh: 1853 
+A mediana eh: 2371 
+A mediana eh: 2125 
+A mediana eh: 2252 
+A mediana eh: 2314 
+A mediana eh: 2342 
+A mediana eh: 2334 
+A mediana eh: 2337 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10009 
+A mediana eh: 6382 
+A mediana eh: 4231 
+A mediana eh: 2817 
+A mediana eh: 1851 
+A mediana eh: 2361 
+A mediana eh: 2119 
+A mediana eh: 2246 
+A mediana eh: 2304 
+A mediana eh: 2336 
+A mediana eh: 2344 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10011 
+A mediana eh: 6407 
+A mediana eh: 4247 
+A mediana eh: 2828 
+A mediana eh: 1863 
+A mediana eh: 2375 
+A mediana eh: 2128 
+A mediana eh: 2257 
+A mediana eh: 2320 
+A mediana eh: 2342 
+A mediana eh: 2334 
+A mediana eh: 2337 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10011 
+A mediana eh: 6387 
+A mediana eh: 4225 
+A mediana eh: 2815 
+A mediana eh: 1850 
+A mediana eh: 2361 
+A mediana eh: 2119 
+A mediana eh: 2247 
+A mediana eh: 2307 
+A mediana eh: 2336 
+A mediana eh: 2344 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10011 
+A mediana eh: 6399 
+A mediana eh: 4237 
+A mediana eh: 2825 
+A mediana eh: 1863 
+A mediana eh: 2376 
+A mediana eh: 2130 
+A mediana eh: 2256 
+A mediana eh: 2321 
+A mediana eh: 2343 
+A mediana eh: 2335 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10010 
+A mediana eh: 6394 
+A mediana eh: 4232 
+A mediana eh: 2830 
+A mediana eh: 1874 
+A mediana eh: 2386 
+A mediana eh: 2137 
+A mediana eh: 2264 
+A mediana eh: 2332 
+A mediana eh: 2353 
+A mediana eh: 2339 
+A mediana eh: 2344 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10007 
+A mediana eh: 6412 
+A mediana eh: 4238 
+A mediana eh: 2841 
+A mediana eh: 1887 
+A mediana eh: 2398 
+A mediana eh: 2151 
+A mediana eh: 2280 
+A mediana eh: 2337 
+A mediana eh: 2367 
+A mediana eh: 2352 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10006 
+A mediana eh: 6409 
+A mediana eh: 4231 
+A mediana eh: 2841 
+A mediana eh: 1888 
+A mediana eh: 2400 
+A mediana eh: 2153 
+A mediana eh: 2282 
+A mediana eh: 2338 
+A mediana eh: 2370 
+A mediana eh: 2352 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10004 
+A mediana eh: 6391 
+A mediana eh: 4226 
+A mediana eh: 2840 
+A mediana eh: 1890 
+A mediana eh: 2403 
+A mediana eh: 2158 
+A mediana eh: 2286 
+A mediana eh: 2342 
+A mediana eh: 2326 
+A mediana eh: 2335 
+A mediana eh: 2338 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10005 
+A mediana eh: 6391 
+A mediana eh: 4224 
+A mediana eh: 2843 
+A mediana eh: 1890 
+A mediana eh: 2407 
+A mediana eh: 2160 
+A mediana eh: 2287 
+A mediana eh: 2343 
+A mediana eh: 2329 
+A mediana eh: 2336 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10001 
+A mediana eh: 6384 
+A mediana eh: 4211 
+A mediana eh: 2829 
+A mediana eh: 1881 
+A mediana eh: 2393 
+A mediana eh: 2144 
+A mediana eh: 2278 
+A mediana eh: 2335 
+A mediana eh: 2360 
+A mediana eh: 2343 
+A mediana eh: 2338 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2339 
+2342
+A mediana eh: 10001 
+A mediana eh: 6385 
+A mediana eh: 4211 
+A mediana eh: 2832 
+A mediana eh: 1886 
+A mediana eh: 2395 
+A mediana eh: 2145 
+A mediana eh: 2280 
+A mediana eh: 2337 
+A mediana eh: 2364 
+A mediana eh: 2349 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9993 
+A mediana eh: 6385 
+A mediana eh: 4211 
+A mediana eh: 2834 
+A mediana eh: 1887 
+A mediana eh: 2395 
+A mediana eh: 2148 
+A mediana eh: 2280 
+A mediana eh: 2336 
+A mediana eh: 2362 
+A mediana eh: 2345 
+A mediana eh: 2342 
+A mediana eh: 2338 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9992 
+A mediana eh: 6379 
+A mediana eh: 4203 
+A mediana eh: 2824 
+A mediana eh: 1872 
+A mediana eh: 2384 
+A mediana eh: 2134 
+A mediana eh: 2264 
+A mediana eh: 2330 
+A mediana eh: 2349 
+A mediana eh: 2337 
+A mediana eh: 2342 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9992 
+A mediana eh: 6382 
+A mediana eh: 4204 
+A mediana eh: 2826 
+A mediana eh: 1883 
+A mediana eh: 2393 
+A mediana eh: 2145 
+A mediana eh: 2280 
+A mediana eh: 2336 
+A mediana eh: 2361 
+A mediana eh: 2345 
+A mediana eh: 2342 
+A mediana eh: 2338 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9993 
+A mediana eh: 6377 
+A mediana eh: 4194 
+A mediana eh: 2823 
+A mediana eh: 1874 
+A mediana eh: 2390 
+A mediana eh: 2139 
+A mediana eh: 2270 
+A mediana eh: 2334 
+A mediana eh: 2358 
+A mediana eh: 2342 
+A mediana eh: 2337 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10002 
+A mediana eh: 6394 
+A mediana eh: 4208 
+A mediana eh: 2831 
+A mediana eh: 1886 
+A mediana eh: 2400 
+A mediana eh: 2152 
+A mediana eh: 2284 
+A mediana eh: 2340 
+A mediana eh: 2370 
+A mediana eh: 2355 
+A mediana eh: 2345 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10003 
+A mediana eh: 6385 
+A mediana eh: 4201 
+A mediana eh: 2825 
+A mediana eh: 1877 
+A mediana eh: 2393 
+A mediana eh: 2142 
+A mediana eh: 2274 
+A mediana eh: 2336 
+A mediana eh: 2362 
+A mediana eh: 2345 
+A mediana eh: 2340 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 10000 
+A mediana eh: 6392 
+A mediana eh: 4206 
+A mediana eh: 2829 
+A mediana eh: 1879 
+A mediana eh: 2394 
+A mediana eh: 2144 
+A mediana eh: 2280 
+A mediana eh: 2337 
+A mediana eh: 2363 
+A mediana eh: 2349 
+A mediana eh: 2342 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9992 
+A mediana eh: 6383 
+A mediana eh: 4201 
+A mediana eh: 2822 
+A mediana eh: 1857 
+A mediana eh: 2377 
+A mediana eh: 2132 
+A mediana eh: 2262 
+A mediana eh: 2329 
+A mediana eh: 2345 
+A mediana eh: 2337 
+A mediana eh: 2342 
+A mediana eh: 2340 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9988 
+A mediana eh: 6384 
+A mediana eh: 4209 
+A mediana eh: 2830 
+A mediana eh: 1872 
+A mediana eh: 2393 
+A mediana eh: 2139 
+A mediana eh: 2277 
+A mediana eh: 2336 
+A mediana eh: 2361 
+A mediana eh: 2345 
+A mediana eh: 2341 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9985 
+A mediana eh: 6384 
+A mediana eh: 4207 
+A mediana eh: 2825 
+A mediana eh: 1860 
+A mediana eh: 2383 
+A mediana eh: 2130 
+A mediana eh: 2263 
+A mediana eh: 2331 
+A mediana eh: 2350 
+A mediana eh: 2338 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9977 
+A mediana eh: 6390 
+A mediana eh: 4217 
+A mediana eh: 2830 
+A mediana eh: 1871 
+A mediana eh: 2392 
+A mediana eh: 2135 
+A mediana eh: 2268 
+A mediana eh: 2335 
+A mediana eh: 2359 
+A mediana eh: 2342 
+A mediana eh: 2338 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9976 
+A mediana eh: 6380 
+A mediana eh: 4198 
+A mediana eh: 2803 
+A mediana eh: 1840 
+A mediana eh: 2355 
+A mediana eh: 2115 
+A mediana eh: 2246 
+A mediana eh: 2302 
+A mediana eh: 2335 
+A mediana eh: 2342 
+A mediana eh: 2338 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9968 
+A mediana eh: 6379 
+A mediana eh: 4202 
+A mediana eh: 2815 
+A mediana eh: 1850 
+A mediana eh: 2367 
+A mediana eh: 2124 
+A mediana eh: 2253 
+A mediana eh: 2315 
+A mediana eh: 2338 
+A mediana eh: 2352 
+A mediana eh: 2344 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9964 
+A mediana eh: 6377 
+A mediana eh: 4202 
+A mediana eh: 2819 
+A mediana eh: 1856 
+A mediana eh: 2370 
+A mediana eh: 2126 
+A mediana eh: 2256 
+A mediana eh: 2323 
+A mediana eh: 2340 
+A mediana eh: 2353 
+A mediana eh: 2345 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9968 
+A mediana eh: 6394 
+A mediana eh: 4221 
+A mediana eh: 2830 
+A mediana eh: 1870 
+A mediana eh: 2384 
+A mediana eh: 2134 
+A mediana eh: 2264 
+A mediana eh: 2333 
+A mediana eh: 2350 
+A mediana eh: 2338 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9968 
+A mediana eh: 6388 
+A mediana eh: 4221 
+A mediana eh: 2837 
+A mediana eh: 1874 
+A mediana eh: 2393 
+A mediana eh: 2137 
+A mediana eh: 2269 
+A mediana eh: 2336 
+A mediana eh: 2361 
+A mediana eh: 2344 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9972 
+A mediana eh: 6387 
+A mediana eh: 4214 
+A mediana eh: 2829 
+A mediana eh: 1877 
+A mediana eh: 2393 
+A mediana eh: 2139 
+A mediana eh: 2270 
+A mediana eh: 2336 
+A mediana eh: 2361 
+A mediana eh: 2344 
+A mediana eh: 2339 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9967 
+A mediana eh: 6380 
+A mediana eh: 4221 
+A mediana eh: 2830 
+A mediana eh: 1881 
+A mediana eh: 2397 
+A mediana eh: 2147 
+A mediana eh: 2280 
+A mediana eh: 2338 
+A mediana eh: 2367 
+A mediana eh: 2352 
+A mediana eh: 2344 
+A mediana eh: 2342 
+A mediana eh: 2341 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9971 
+A mediana eh: 6379 
+A mediana eh: 4221 
+A mediana eh: 2830 
+A mediana eh: 1887 
+A mediana eh: 2401 
+A mediana eh: 2152 
+A mediana eh: 2282 
+A mediana eh: 2338 
+A mediana eh: 2370 
+A mediana eh: 2352 
+A mediana eh: 2344 
+A mediana eh: 2342 
+A mediana eh: 2341 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9963 
+A mediana eh: 6384 
+A mediana eh: 4227 
+A mediana eh: 2836 
+A mediana eh: 1888 
+A mediana eh: 2409 
+A mediana eh: 2160 
+A mediana eh: 2288 
+A mediana eh: 2343 
+A mediana eh: 2329 
+A mediana eh: 2337 
+A mediana eh: 2340 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9964 
+A mediana eh: 6396 
+A mediana eh: 4242 
+A mediana eh: 2846 
+A mediana eh: 1890 
+A mediana eh: 2418 
+A mediana eh: 2164 
+A mediana eh: 2292 
+A mediana eh: 2351 
+A mediana eh: 2331 
+A mediana eh: 2338 
+A mediana eh: 2343 
+A mediana eh: 2342 
+A mediana eh: 2341 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9971 
+A mediana eh: 6399 
+A mediana eh: 4244 
+A mediana eh: 2854 
+A mediana eh: 1896 
+A mediana eh: 2428 
+A mediana eh: 2170 
+A mediana eh: 2304 
+A mediana eh: 2360 
+A mediana eh: 2336 
+A mediana eh: 2344 
+A mediana eh: 2340 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9977 
+A mediana eh: 6406 
+A mediana eh: 4242 
+A mediana eh: 2847 
+A mediana eh: 1893 
+A mediana eh: 2423 
+A mediana eh: 2167 
+A mediana eh: 2294 
+A mediana eh: 2353 
+A mediana eh: 2334 
+A mediana eh: 2342 
+A mediana eh: 2338 
+A mediana eh: 2341 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9977 
+A mediana eh: 6414 
+A mediana eh: 4254 
+A mediana eh: 2854 
+A mediana eh: 1896 
+A mediana eh: 2428 
+A mediana eh: 2172 
+A mediana eh: 2301 
+A mediana eh: 2360 
+A mediana eh: 2335 
+A mediana eh: 2343 
+A mediana eh: 2338 
+A mediana eh: 2342 
+A mediana eh: 2341 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9977 
+A mediana eh: 6417 
+A mediana eh: 4259 
+A mediana eh: 2858 
+A mediana eh: 1898 
+A mediana eh: 2430 
+A mediana eh: 2175 
+A mediana eh: 2308 
+A mediana eh: 2365 
+A mediana eh: 2337 
+A mediana eh: 2349 
+A mediana eh: 2342 
+A mediana eh: 2340 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9982 
+A mediana eh: 6411 
+A mediana eh: 4247 
+A mediana eh: 2848 
+A mediana eh: 1896 
+A mediana eh: 2424 
+A mediana eh: 2172 
+A mediana eh: 2302 
+A mediana eh: 2360 
+A mediana eh: 2336 
+A mediana eh: 2344 
+A mediana eh: 2340 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+A mediana eh: 2342 
+2342
+A mediana eh: 9986 
+A mediana eh: 6414 
+A mediana eh: 4247 
+A mediana eh: 2845 
+A mediana eh: 1896 
+A mediana eh: 2419 
+A mediana eh: 2167 
+A mediana eh: 2037 
+A mediana eh: 1973 
+A mediana eh: 1938 
+A mediana eh: 1918 
+A mediana eh: 1910 
+A mediana eh: 1902 
+A mediana eh: 1906 
+A mediana eh: 1903 
+A mediana eh: 1903 
+1903
+A mediana eh: 9987 
+A mediana eh: 6410 
+A mediana eh: 4256 
+A mediana eh: 2850 
+A mediana eh: 1902 
+A mediana eh: 2427 
+A mediana eh: 2172 
+A mediana eh: 2046 
+A mediana eh: 1980 
+A mediana eh: 1943 
+A mediana eh: 1925 
+A mediana eh: 1915 
+A mediana eh: 1910 
+A mediana eh: 1906 
+A mediana eh: 1903 
+A mediana eh: 1903 
+1903
+A mediana eh: 9990 
+A mediana eh: 6404 
+A mediana eh: 4242 
+A mediana eh: 2843 
+A mediana eh: 1893 
+A mediana eh: 2416 
+A mediana eh: 2166 
+A mediana eh: 2033 
+A mediana eh: 1972 
+A mediana eh: 1937 
+A mediana eh: 1917 
+A mediana eh: 1905 
+A mediana eh: 1900 
+A mediana eh: 1902 
+A mediana eh: 1903 
+A mediana eh: 1903 
+1903
+A mediana eh: 9992 
+A mediana eh: 6410 
+A mediana eh: 4246 
+A mediana eh: 2845 
+A mediana eh: 1902 
+A mediana eh: 2423 
+A mediana eh: 2169 
+A mediana eh: 2043 
+A mediana eh: 1981 
+A mediana eh: 1944 
+A mediana eh: 1927 
+A mediana eh: 1915 
+A mediana eh: 1910 
+A mediana eh: 1906 
+A mediana eh: 1903 
+A mediana eh: 1903 
+1903
+A mediana eh: 10009 
+A mediana eh: 6346 
+A mediana eh: 4023 
+A mediana eh: 2636 
+A mediana eh: 1733 
+A mediana eh: 2213 
+A mediana eh: 1980 
+A mediana eh: 1861 
+A mediana eh: 1790 
+A mediana eh: 1770 
+A mediana eh: 1779 
+A mediana eh: 1785 
+A mediana eh: 1788 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10011 
+A mediana eh: 6352 
+A mediana eh: 4035 
+A mediana eh: 2650 
+A mediana eh: 1740 
+A mediana eh: 2222 
+A mediana eh: 1989 
+A mediana eh: 1876 
+A mediana eh: 1795 
+A mediana eh: 1778 
+A mediana eh: 1787 
+A mediana eh: 1782 
+A mediana eh: 1785 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10011 
+A mediana eh: 6351 
+A mediana eh: 4045 
+A mediana eh: 2659 
+A mediana eh: 1743 
+A mediana eh: 2226 
+A mediana eh: 1997 
+A mediana eh: 1879 
+A mediana eh: 1799 
+A mediana eh: 1778 
+A mediana eh: 1789 
+A mediana eh: 1784 
+A mediana eh: 1787 
+A mediana eh: 1786 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10012 
+A mediana eh: 6343 
+A mediana eh: 4035 
+A mediana eh: 2652 
+A mediana eh: 1738 
+A mediana eh: 2222 
+A mediana eh: 1988 
+A mediana eh: 1872 
+A mediana eh: 1794 
+A mediana eh: 1775 
+A mediana eh: 1784 
+A mediana eh: 1789 
+A mediana eh: 1787 
+A mediana eh: 1786 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10013 
+A mediana eh: 6350 
+A mediana eh: 4039 
+A mediana eh: 2653 
+A mediana eh: 1742 
+A mediana eh: 2226 
+A mediana eh: 1994 
+A mediana eh: 1878 
+A mediana eh: 1799 
+A mediana eh: 1778 
+A mediana eh: 1789 
+A mediana eh: 1784 
+A mediana eh: 1787 
+A mediana eh: 1786 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10012 
+A mediana eh: 6337 
+A mediana eh: 4032 
+A mediana eh: 2653 
+A mediana eh: 1747 
+A mediana eh: 2226 
+A mediana eh: 1997 
+A mediana eh: 1879 
+A mediana eh: 1803 
+A mediana eh: 1779 
+A mediana eh: 1790 
+A mediana eh: 1785 
+A mediana eh: 1788 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1786 
+1787
+A mediana eh: 10009 
+A mediana eh: 6338 
+A mediana eh: 4027 
+A mediana eh: 2647 
+A mediana eh: 1739 
+A mediana eh: 2222 
+A mediana eh: 1986 
+A mediana eh: 1870 
+A mediana eh: 1794 
+A mediana eh: 1776 
+A mediana eh: 1784 
+A mediana eh: 1790 
+A mediana eh: 1787 
+A mediana eh: 1786 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10009 
+A mediana eh: 6344 
+A mediana eh: 4042 
+A mediana eh: 2663 
+A mediana eh: 1744 
+A mediana eh: 2228 
+A mediana eh: 1995 
+A mediana eh: 1878 
+A mediana eh: 1799 
+A mediana eh: 1778 
+A mediana eh: 1789 
+A mediana eh: 1784 
+A mediana eh: 1787 
+A mediana eh: 1786 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10007 
+A mediana eh: 6335 
+A mediana eh: 4031 
+A mediana eh: 2650 
+A mediana eh: 1738 
+A mediana eh: 2223 
+A mediana eh: 1988 
+A mediana eh: 1872 
+A mediana eh: 1794 
+A mediana eh: 1775 
+A mediana eh: 1783 
+A mediana eh: 1789 
+A mediana eh: 1787 
+A mediana eh: 1785 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10006 
+A mediana eh: 6330 
+A mediana eh: 4023 
+A mediana eh: 2640 
+A mediana eh: 1726 
+A mediana eh: 2215 
+A mediana eh: 1980 
+A mediana eh: 1859 
+A mediana eh: 1787 
+A mediana eh: 1762 
+A mediana eh: 1778 
+A mediana eh: 1782 
+A mediana eh: 1785 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10006 
+A mediana eh: 6332 
+A mediana eh: 4023 
+A mediana eh: 2638 
+A mediana eh: 1724 
+A mediana eh: 2213 
+A mediana eh: 1977 
+A mediana eh: 1855 
+A mediana eh: 1784 
+A mediana eh: 1812 
+A mediana eh: 1795 
+A mediana eh: 1790 
+A mediana eh: 1787 
+A mediana eh: 1786 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10006 
+A mediana eh: 6334 
+A mediana eh: 4035 
+A mediana eh: 2652 
+A mediana eh: 1733 
+A mediana eh: 2222 
+A mediana eh: 1985 
+A mediana eh: 1864 
+A mediana eh: 1790 
+A mediana eh: 1770 
+A mediana eh: 1780 
+A mediana eh: 1785 
+A mediana eh: 1788 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1786 
+1787
+A mediana eh: 10008 
+A mediana eh: 6339 
+A mediana eh: 4055 
+A mediana eh: 2664 
+A mediana eh: 1737 
+A mediana eh: 2226 
+A mediana eh: 1990 
+A mediana eh: 1872 
+A mediana eh: 1794 
+A mediana eh: 1775 
+A mediana eh: 1783 
+A mediana eh: 1789 
+A mediana eh: 1787 
+A mediana eh: 1785 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10010 
+A mediana eh: 6344 
+A mediana eh: 4054 
+A mediana eh: 2660 
+A mediana eh: 1735 
+A mediana eh: 2224 
+A mediana eh: 1987 
+A mediana eh: 1870 
+A mediana eh: 1792 
+A mediana eh: 1773 
+A mediana eh: 1781 
+A mediana eh: 1787 
+A mediana eh: 1785 
+A mediana eh: 1787 
+A mediana eh: 1786 
+1787
+A mediana eh: 10008 
+A mediana eh: 6351 
+A mediana eh: 4062 
+A mediana eh: 2667 
+A mediana eh: 1741 
+A mediana eh: 2229 
+A mediana eh: 1997 
+A mediana eh: 1878 
+A mediana eh: 1798 
+A mediana eh: 1778 
+A mediana eh: 1788 
+A mediana eh: 1782 
+A mediana eh: 1785 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10008 
+A mediana eh: 6352 
+A mediana eh: 4062 
+A mediana eh: 2665 
+A mediana eh: 1737 
+A mediana eh: 2225 
+A mediana eh: 1989 
+A mediana eh: 1872 
+A mediana eh: 1794 
+A mediana eh: 1775 
+A mediana eh: 1782 
+A mediana eh: 1789 
+A mediana eh: 1786 
+A mediana eh: 1788 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10007 
+A mediana eh: 6347 
+A mediana eh: 4068 
+A mediana eh: 2668 
+A mediana eh: 1742 
+A mediana eh: 2230 
+A mediana eh: 1998 
+A mediana eh: 1879 
+A mediana eh: 1799 
+A mediana eh: 1778 
+A mediana eh: 1788 
+A mediana eh: 1782 
+A mediana eh: 1785 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10007 
+A mediana eh: 6344 
+A mediana eh: 4061 
+A mediana eh: 2663 
+A mediana eh: 1735 
+A mediana eh: 2223 
+A mediana eh: 1987 
+A mediana eh: 1870 
+A mediana eh: 1792 
+A mediana eh: 1773 
+A mediana eh: 1781 
+A mediana eh: 1787 
+A mediana eh: 1785 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10008 
+A mediana eh: 6339 
+A mediana eh: 4058 
+A mediana eh: 2659 
+A mediana eh: 1735 
+A mediana eh: 2222 
+A mediana eh: 1988 
+A mediana eh: 1870 
+A mediana eh: 1793 
+A mediana eh: 1773 
+A mediana eh: 1781 
+A mediana eh: 1787 
+A mediana eh: 1784 
+A mediana eh: 1786 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10007 
+A mediana eh: 6339 
+A mediana eh: 4059 
+A mediana eh: 2665 
+A mediana eh: 1738 
+A mediana eh: 2225 
+A mediana eh: 1993 
+A mediana eh: 1872 
+A mediana eh: 1794 
+A mediana eh: 1776 
+A mediana eh: 1783 
+A mediana eh: 1789 
+A mediana eh: 1786 
+A mediana eh: 1788 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10008 
+A mediana eh: 6336 
+A mediana eh: 4042 
+A mediana eh: 2652 
+A mediana eh: 1738 
+A mediana eh: 2223 
+A mediana eh: 1990 
+A mediana eh: 1872 
+A mediana eh: 1794 
+A mediana eh: 1776 
+A mediana eh: 1783 
+A mediana eh: 1789 
+A mediana eh: 1786 
+A mediana eh: 1788 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10008 
+A mediana eh: 6337 
+A mediana eh: 4040 
+A mediana eh: 2650 
+A mediana eh: 1741 
+A mediana eh: 2223 
+A mediana eh: 1994 
+A mediana eh: 1878 
+A mediana eh: 1799 
+A mediana eh: 1778 
+A mediana eh: 1788 
+A mediana eh: 1783 
+A mediana eh: 1786 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10009 
+A mediana eh: 6336 
+A mediana eh: 4037 
+A mediana eh: 2641 
+A mediana eh: 1735 
+A mediana eh: 2220 
+A mediana eh: 1985 
+A mediana eh: 1868 
+A mediana eh: 1792 
+A mediana eh: 1773 
+A mediana eh: 1781 
+A mediana eh: 1787 
+A mediana eh: 1785 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10012 
+A mediana eh: 6337 
+A mediana eh: 4034 
+A mediana eh: 2636 
+A mediana eh: 1725 
+A mediana eh: 2213 
+A mediana eh: 1978 
+A mediana eh: 1858 
+A mediana eh: 1786 
+A mediana eh: 1819 
+A mediana eh: 1798 
+A mediana eh: 1792 
+A mediana eh: 1789 
+A mediana eh: 1788 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+A mediana eh: 1787 
+1787
+A mediana eh: 10015 
+A mediana eh: 6352 
+A mediana eh: 4052 
+A mediana eh: 2649 
+A mediana eh: 1733 
+A mediana eh: 2221 
+A mediana eh: 1985 
+A mediana eh: 1866 
+A mediana eh: 1790 
+A mediana eh: 1771 
+A mediana eh: 1780 
+A mediana eh: 1786 
+A mediana eh: 1783 
+A mediana eh: 1782 
+A mediana eh: 1781 
+A mediana eh: 1782 
+1782
+A mediana eh: 10016 
+A mediana eh: 6357 
+A mediana eh: 4050 
+A mediana eh: 2641 
+A mediana eh: 1724 
+A mediana eh: 2215 
+A mediana eh: 1978 
+A mediana eh: 1857 
+A mediana eh: 1785 
+A mediana eh: 1759 
+A mediana eh: 1778 
+A mediana eh: 1781 
+A mediana eh: 1783 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10016 
+A mediana eh: 6354 
+A mediana eh: 4056 
+A mediana eh: 2650 
+A mediana eh: 1727 
+A mediana eh: 2221 
+A mediana eh: 1984 
+A mediana eh: 1861 
+A mediana eh: 1788 
+A mediana eh: 1764 
+A mediana eh: 1778 
+A mediana eh: 1783 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1781 
+A mediana eh: 1782 
+1782
+A mediana eh: 10016 
+A mediana eh: 6345 
+A mediana eh: 4039 
+A mediana eh: 2639 
+A mediana eh: 1719 
+A mediana eh: 2213 
+A mediana eh: 1973 
+A mediana eh: 1851 
+A mediana eh: 1781 
+A mediana eh: 1809 
+A mediana eh: 1793 
+A mediana eh: 1787 
+A mediana eh: 1785 
+A mediana eh: 1783 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10016 
+A mediana eh: 6345 
+A mediana eh: 4038 
+A mediana eh: 2635 
+A mediana eh: 1712 
+A mediana eh: 2206 
+A mediana eh: 1967 
+A mediana eh: 1845 
+A mediana eh: 1778 
+A mediana eh: 1799 
+A mediana eh: 1788 
+A mediana eh: 1782 
+A mediana eh: 1780 
+A mediana eh: 1781 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10017 
+A mediana eh: 6346 
+A mediana eh: 4042 
+A mediana eh: 2640 
+A mediana eh: 1716 
+A mediana eh: 2212 
+A mediana eh: 1972 
+A mediana eh: 1849 
+A mediana eh: 1780 
+A mediana eh: 1806 
+A mediana eh: 1791 
+A mediana eh: 1786 
+A mediana eh: 1783 
+A mediana eh: 1782 
+A mediana eh: 1781 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10017 
+A mediana eh: 6358 
+A mediana eh: 4058 
+A mediana eh: 2653 
+A mediana eh: 1724 
+A mediana eh: 2221 
+A mediana eh: 1980 
+A mediana eh: 1857 
+A mediana eh: 1784 
+A mediana eh: 1760 
+A mediana eh: 1778 
+A mediana eh: 1781 
+A mediana eh: 1783 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10017 
+A mediana eh: 6361 
+A mediana eh: 4074 
+A mediana eh: 2666 
+A mediana eh: 1732 
+A mediana eh: 2226 
+A mediana eh: 1987 
+A mediana eh: 1864 
+A mediana eh: 1789 
+A mediana eh: 1770 
+A mediana eh: 1779 
+A mediana eh: 1784 
+A mediana eh: 1781 
+A mediana eh: 1783 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10017 
+A mediana eh: 6371 
+A mediana eh: 4087 
+A mediana eh: 2670 
+A mediana eh: 1740 
+A mediana eh: 2232 
+A mediana eh: 1997 
+A mediana eh: 1876 
+A mediana eh: 1795 
+A mediana eh: 1777 
+A mediana eh: 1784 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1781 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10019 
+A mediana eh: 6365 
+A mediana eh: 4075 
+A mediana eh: 2666 
+A mediana eh: 1733 
+A mediana eh: 2225 
+A mediana eh: 1986 
+A mediana eh: 1866 
+A mediana eh: 1790 
+A mediana eh: 1771 
+A mediana eh: 1780 
+A mediana eh: 1785 
+A mediana eh: 1783 
+A mediana eh: 1782 
+A mediana eh: 1781 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10017 
+A mediana eh: 6361 
+A mediana eh: 4070 
+A mediana eh: 2661 
+A mediana eh: 1726 
+A mediana eh: 2223 
+A mediana eh: 1983 
+A mediana eh: 1860 
+A mediana eh: 1787 
+A mediana eh: 1763 
+A mediana eh: 1778 
+A mediana eh: 1782 
+A mediana eh: 1780 
+A mediana eh: 1781 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10020 
+A mediana eh: 6357 
+A mediana eh: 4062 
+A mediana eh: 2653 
+A mediana eh: 1722 
+A mediana eh: 2219 
+A mediana eh: 1977 
+A mediana eh: 1853 
+A mediana eh: 1782 
+A mediana eh: 1756 
+A mediana eh: 1776 
+A mediana eh: 1779 
+A mediana eh: 1781 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10020 
+A mediana eh: 6365 
+A mediana eh: 4074 
+A mediana eh: 2664 
+A mediana eh: 1725 
+A mediana eh: 2223 
+A mediana eh: 1984 
+A mediana eh: 1860 
+A mediana eh: 1787 
+A mediana eh: 1762 
+A mediana eh: 1778 
+A mediana eh: 1782 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10022 
+A mediana eh: 6363 
+A mediana eh: 4084 
+A mediana eh: 2668 
+A mediana eh: 1734 
+A mediana eh: 2226 
+A mediana eh: 1989 
+A mediana eh: 1870 
+A mediana eh: 1791 
+A mediana eh: 1771 
+A mediana eh: 1780 
+A mediana eh: 1786 
+A mediana eh: 1783 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10023 
+A mediana eh: 6361 
+A mediana eh: 4091 
+A mediana eh: 2671 
+A mediana eh: 1739 
+A mediana eh: 2230 
+A mediana eh: 1995 
+A mediana eh: 1875 
+A mediana eh: 1795 
+A mediana eh: 1776 
+A mediana eh: 1784 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1781 
+1782
+A mediana eh: 10023 
+A mediana eh: 6355 
+A mediana eh: 4079 
+A mediana eh: 2667 
+A mediana eh: 1728 
+A mediana eh: 2224 
+A mediana eh: 1985 
+A mediana eh: 1862 
+A mediana eh: 1787 
+A mediana eh: 1764 
+A mediana eh: 1778 
+A mediana eh: 1782 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10022 
+A mediana eh: 6350 
+A mediana eh: 4076 
+A mediana eh: 2668 
+A mediana eh: 1735 
+A mediana eh: 2227 
+A mediana eh: 1990 
+A mediana eh: 1870 
+A mediana eh: 1791 
+A mediana eh: 1772 
+A mediana eh: 1780 
+A mediana eh: 1786 
+A mediana eh: 1783 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10022 
+A mediana eh: 6340 
+A mediana eh: 4059 
+A mediana eh: 2654 
+A mediana eh: 1724 
+A mediana eh: 2220 
+A mediana eh: 1979 
+A mediana eh: 1855 
+A mediana eh: 1783 
+A mediana eh: 1758 
+A mediana eh: 1777 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10021 
+A mediana eh: 6343 
+A mediana eh: 4068 
+A mediana eh: 2664 
+A mediana eh: 1727 
+A mediana eh: 2223 
+A mediana eh: 1984 
+A mediana eh: 1859 
+A mediana eh: 1787 
+A mediana eh: 1763 
+A mediana eh: 1778 
+A mediana eh: 1782 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10022 
+A mediana eh: 6339 
+A mediana eh: 4067 
+A mediana eh: 2662 
+A mediana eh: 1729 
+A mediana eh: 2223 
+A mediana eh: 1982 
+A mediana eh: 1860 
+A mediana eh: 1787 
+A mediana eh: 1764 
+A mediana eh: 1778 
+A mediana eh: 1782 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10023 
+A mediana eh: 6335 
+A mediana eh: 4074 
+A mediana eh: 2667 
+A mediana eh: 1738 
+A mediana eh: 2227 
+A mediana eh: 1990 
+A mediana eh: 1872 
+A mediana eh: 1794 
+A mediana eh: 1774 
+A mediana eh: 1782 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10023 
+A mediana eh: 6340 
+A mediana eh: 4083 
+A mediana eh: 2670 
+A mediana eh: 1741 
+A mediana eh: 2231 
+A mediana eh: 1995 
+A mediana eh: 1876 
+A mediana eh: 1796 
+A mediana eh: 1777 
+A mediana eh: 1784 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1781 
+1782
+A mediana eh: 10023 
+A mediana eh: 6352 
+A mediana eh: 4091 
+A mediana eh: 2677 
+A mediana eh: 1747 
+A mediana eh: 2239 
+A mediana eh: 2000 
+A mediana eh: 1880 
+A mediana eh: 1802 
+A mediana eh: 1778 
+A mediana eh: 1789 
+A mediana eh: 1783 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1782 
+1782
+A mediana eh: 10023 
+A mediana eh: 6344 
+A mediana eh: 4087 
+A mediana eh: 2671 
+A mediana eh: 1747 
+A mediana eh: 2234 
+A mediana eh: 1999 
+A mediana eh: 1879 
+A mediana eh: 1802 
+A mediana eh: 1778 
+A mediana eh: 1789 
+A mediana eh: 1783 
+A mediana eh: 1780 
+A mediana eh: 1782 
+A mediana eh: 1782 
+A mediana eh: 1781 
+1782
+A mediana eh: 10011 
+A mediana eh: 6206 
+A mediana eh: 3934 
+A mediana eh: 2523 
+A mediana eh: 1672 
+A mediana eh: 2115 
+A mediana eh: 1900 
+A mediana eh: 1794 
+A mediana eh: 1739 
+A mediana eh: 1773 
+A mediana eh: 1782 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10008 
+A mediana eh: 6201 
+A mediana eh: 3929 
+A mediana eh: 2516 
+A mediana eh: 1668 
+A mediana eh: 2112 
+A mediana eh: 1892 
+A mediana eh: 1789 
+A mediana eh: 1733 
+A mediana eh: 1767 
+A mediana eh: 1779 
+A mediana eh: 1784 
+A mediana eh: 1781 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10008 
+A mediana eh: 6206 
+A mediana eh: 3930 
+A mediana eh: 2515 
+A mediana eh: 1669 
+A mediana eh: 2114 
+A mediana eh: 1896 
+A mediana eh: 1792 
+A mediana eh: 1736 
+A mediana eh: 1770 
+A mediana eh: 1780 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10009 
+A mediana eh: 6207 
+A mediana eh: 3924 
+A mediana eh: 2508 
+A mediana eh: 1668 
+A mediana eh: 2112 
+A mediana eh: 1892 
+A mediana eh: 1788 
+A mediana eh: 1732 
+A mediana eh: 1766 
+A mediana eh: 1778 
+A mediana eh: 1782 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10010 
+A mediana eh: 6214 
+A mediana eh: 3931 
+A mediana eh: 2516 
+A mediana eh: 1669 
+A mediana eh: 2114 
+A mediana eh: 1896 
+A mediana eh: 1792 
+A mediana eh: 1736 
+A mediana eh: 1770 
+A mediana eh: 1780 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10012 
+A mediana eh: 6216 
+A mediana eh: 3937 
+A mediana eh: 2525 
+A mediana eh: 1672 
+A mediana eh: 2116 
+A mediana eh: 1901 
+A mediana eh: 1795 
+A mediana eh: 1739 
+A mediana eh: 1774 
+A mediana eh: 1782 
+A mediana eh: 1779 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10011 
+A mediana eh: 6207 
+A mediana eh: 3927 
+A mediana eh: 2519 
+A mediana eh: 1671 
+A mediana eh: 2115 
+A mediana eh: 1899 
+A mediana eh: 1794 
+A mediana eh: 1738 
+A mediana eh: 1773 
+A mediana eh: 1782 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10010 
+A mediana eh: 6197 
+A mediana eh: 3916 
+A mediana eh: 2515 
+A mediana eh: 1669 
+A mediana eh: 2114 
+A mediana eh: 1896 
+A mediana eh: 1792 
+A mediana eh: 1736 
+A mediana eh: 1770 
+A mediana eh: 1780 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10011 
+A mediana eh: 6201 
+A mediana eh: 3924 
+A mediana eh: 2523 
+A mediana eh: 1671 
+A mediana eh: 2116 
+A mediana eh: 1901 
+A mediana eh: 1795 
+A mediana eh: 1738 
+A mediana eh: 1773 
+A mediana eh: 1782 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10009 
+A mediana eh: 6210 
+A mediana eh: 3935 
+A mediana eh: 2533 
+A mediana eh: 1677 
+A mediana eh: 2120 
+A mediana eh: 1907 
+A mediana eh: 1805 
+A mediana eh: 1746 
+A mediana eh: 1778 
+A mediana eh: 1789 
+A mediana eh: 1783 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10010 
+A mediana eh: 6204 
+A mediana eh: 3929 
+A mediana eh: 2538 
+A mediana eh: 1682 
+A mediana eh: 2128 
+A mediana eh: 1911 
+A mediana eh: 1810 
+A mediana eh: 1751 
+A mediana eh: 1780 
+A mediana eh: 1770 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10010 
+A mediana eh: 6207 
+A mediana eh: 3935 
+A mediana eh: 2544 
+A mediana eh: 1688 
+A mediana eh: 2133 
+A mediana eh: 1915 
+A mediana eh: 1814 
+A mediana eh: 1757 
+A mediana eh: 1782 
+A mediana eh: 1773 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10011 
+A mediana eh: 6213 
+A mediana eh: 3935 
+A mediana eh: 2544 
+A mediana eh: 1690 
+A mediana eh: 2138 
+A mediana eh: 1919 
+A mediana eh: 1818 
+A mediana eh: 1762 
+A mediana eh: 1786 
+A mediana eh: 1777 
+A mediana eh: 1780 
+A mediana eh: 1779 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10010 
+A mediana eh: 6215 
+A mediana eh: 3935 
+A mediana eh: 2548 
+A mediana eh: 1692 
+A mediana eh: 2141 
+A mediana eh: 1924 
+A mediana eh: 1821 
+A mediana eh: 1764 
+A mediana eh: 1788 
+A mediana eh: 1778 
+A mediana eh: 1782 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10009 
+A mediana eh: 6225 
+A mediana eh: 3949 
+A mediana eh: 2555 
+A mediana eh: 1702 
+A mediana eh: 2151 
+A mediana eh: 1934 
+A mediana eh: 1828 
+A mediana eh: 1770 
+A mediana eh: 1794 
+A mediana eh: 1781 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10010 
+A mediana eh: 6228 
+A mediana eh: 3956 
+A mediana eh: 2559 
+A mediana eh: 1709 
+A mediana eh: 2158 
+A mediana eh: 1942 
+A mediana eh: 1834 
+A mediana eh: 1778 
+A mediana eh: 1806 
+A mediana eh: 1789 
+A mediana eh: 1783 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1779 
+1780
+A mediana eh: 10010 
+A mediana eh: 6239 
+A mediana eh: 3965 
+A mediana eh: 2568 
+A mediana eh: 1716 
+A mediana eh: 2167 
+A mediana eh: 1951 
+A mediana eh: 1841 
+A mediana eh: 1780 
+A mediana eh: 1751 
+A mediana eh: 1770 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10010 
+A mediana eh: 6242 
+A mediana eh: 3972 
+A mediana eh: 2574 
+A mediana eh: 1721 
+A mediana eh: 2171 
+A mediana eh: 1954 
+A mediana eh: 1842 
+A mediana eh: 1781 
+A mediana eh: 1753 
+A mediana eh: 1772 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10015 
+A mediana eh: 6247 
+A mediana eh: 3980 
+A mediana eh: 2583 
+A mediana eh: 1729 
+A mediana eh: 2181 
+A mediana eh: 1963 
+A mediana eh: 1852 
+A mediana eh: 1789 
+A mediana eh: 1764 
+A mediana eh: 1778 
+A mediana eh: 1783 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10013 
+A mediana eh: 6260 
+A mediana eh: 3988 
+A mediana eh: 2591 
+A mediana eh: 1733 
+A mediana eh: 2187 
+A mediana eh: 1967 
+A mediana eh: 1857 
+A mediana eh: 1793 
+A mediana eh: 1769 
+A mediana eh: 1780 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10015 
+A mediana eh: 6250 
+A mediana eh: 3983 
+A mediana eh: 2584 
+A mediana eh: 1729 
+A mediana eh: 2179 
+A mediana eh: 1962 
+A mediana eh: 1852 
+A mediana eh: 1789 
+A mediana eh: 1764 
+A mediana eh: 1778 
+A mediana eh: 1783 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10016 
+A mediana eh: 6245 
+A mediana eh: 3976 
+A mediana eh: 2579 
+A mediana eh: 1725 
+A mediana eh: 2174 
+A mediana eh: 1957 
+A mediana eh: 1846 
+A mediana eh: 1784 
+A mediana eh: 1759 
+A mediana eh: 1775 
+A mediana eh: 1779 
+A mediana eh: 1781 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10015 
+A mediana eh: 6256 
+A mediana eh: 3987 
+A mediana eh: 2587 
+A mediana eh: 1730 
+A mediana eh: 2184 
+A mediana eh: 1965 
+A mediana eh: 1853 
+A mediana eh: 1789 
+A mediana eh: 1765 
+A mediana eh: 1778 
+A mediana eh: 1783 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1779 
+1780
+A mediana eh: 10016 
+A mediana eh: 6262 
+A mediana eh: 3991 
+A mediana eh: 2595 
+A mediana eh: 1731 
+A mediana eh: 2187 
+A mediana eh: 1967 
+A mediana eh: 1855 
+A mediana eh: 1791 
+A mediana eh: 1766 
+A mediana eh: 1779 
+A mediana eh: 1785 
+A mediana eh: 1781 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10015 
+A mediana eh: 6268 
+A mediana eh: 3998 
+A mediana eh: 2602 
+A mediana eh: 1735 
+A mediana eh: 2192 
+A mediana eh: 1973 
+A mediana eh: 1862 
+A mediana eh: 1794 
+A mediana eh: 1770 
+A mediana eh: 1781 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10013 
+A mediana eh: 6268 
+A mediana eh: 3996 
+A mediana eh: 2602 
+A mediana eh: 1736 
+A mediana eh: 2192 
+A mediana eh: 1973 
+A mediana eh: 1860 
+A mediana eh: 1794 
+A mediana eh: 1771 
+A mediana eh: 1781 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10014 
+A mediana eh: 6261 
+A mediana eh: 3986 
+A mediana eh: 2595 
+A mediana eh: 1735 
+A mediana eh: 2188 
+A mediana eh: 1970 
+A mediana eh: 1859 
+A mediana eh: 1794 
+A mediana eh: 1770 
+A mediana eh: 1781 
+A mediana eh: 1778 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10012 
+A mediana eh: 6249 
+A mediana eh: 3974 
+A mediana eh: 2584 
+A mediana eh: 1729 
+A mediana eh: 2181 
+A mediana eh: 1964 
+A mediana eh: 1852 
+A mediana eh: 1788 
+A mediana eh: 1763 
+A mediana eh: 1778 
+A mediana eh: 1782 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1779 
+1780
+A mediana eh: 10012 
+A mediana eh: 6264 
+A mediana eh: 3985 
+A mediana eh: 2595 
+A mediana eh: 1733 
+A mediana eh: 2188 
+A mediana eh: 1969 
+A mediana eh: 1857 
+A mediana eh: 1792 
+A mediana eh: 1768 
+A mediana eh: 1780 
+A mediana eh: 1777 
+A mediana eh: 1779 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+A mediana eh: 1780 
+1780
+A mediana eh: 10012 
+A mediana eh: 6269 
+A mediana eh: 3994 
+A mediana eh: 2602 
+A mediana eh: 1737 
+A mediana eh: 2192 
+A mediana eh: 1974 
+A mediana eh: 1863 
+A mediana eh: 1796 
+A mediana eh: 1773 
+A mediana eh: 1784 
+A mediana eh: 1779 
+A mediana eh: 1778 
+A mediana eh: 1776 
+A mediana eh: 1778 
+A mediana eh: 1778 
+A mediana eh: 1778 
+A mediana eh: 1778 
+1778
+A mediana eh: 10014 
+A mediana eh: 6270 
+A mediana eh: 3994 
+A mediana eh: 2598 
+A mediana eh: 1732 
+A mediana eh: 2190 
+A mediana eh: 1969 
+A mediana eh: 1857 
+A mediana eh: 1792 
+A mediana eh: 1767 
+A mediana eh: 1780 
+A mediana eh: 1776 
+A mediana eh: 1779 
+A mediana eh: 1778 
+A mediana eh: 1778 
+A mediana eh: 1778 
+A mediana eh: 1778 
+A mediana eh: 1778 
+1778
+A mediana eh: 10015 
+A mediana eh: 6266 
+A mediana eh: 3989 
+A mediana eh: 2595 
+A mediana eh: 1733 
+A mediana eh: 2190 
+A mediana eh: 1971 
+A mediana eh: 1859 
+A mediana eh: 1793 
+A mediana eh: 1769 
+A mediana eh: 1780 
+A mediana eh: 1778 
+A mediana eh: 1776 
+A mediana eh: 1778 
+A mediana eh: 1778 
+A mediana eh: 1778 
+A mediana eh: 1778 
+1778
+A mediana eh: 10014 
+A mediana eh: 6260 
+A mediana eh: 3985 
+A mediana eh: 2591 
+A mediana eh: 1733 
+A mediana eh: 2189 
+A mediana eh: 1970 
+A mediana eh: 1858 
+A mediana eh: 1793 
+A mediana eh: 1769 
+A mediana eh: 1780 
+A mediana eh: 1778 
+A mediana eh: 1776 
+A mediana eh: 1778 
+A mediana eh: 1778 
+A mediana eh: 1778 
+A mediana eh: 1778 
+1778
+A mediana eh: 10016 
+A mediana eh: 6256 
+A mediana eh: 3987 
+A mediana eh: 2597 
+A mediana eh: 1735 
+A mediana eh: 2192 
+A mediana eh: 1974 
+A mediana eh: 1862 
+A mediana eh: 1794 
+A mediana eh: 1770 
+A mediana eh: 1781 
+A mediana eh: 1778 
+A mediana eh: 1776 
+A mediana eh: 1778 
+A mediana eh: 1778 
+A mediana eh: 1778 
+A mediana eh: 1778 
+1778
+A mediana eh: 9998 
+A mediana eh: 6235 
+A mediana eh: 4038 
+A mediana eh: 2666 
+A mediana eh: 1817 
+A mediana eh: 2266 
+A mediana eh: 2051 
+A mediana eh: 1930 
+A mediana eh: 1881 
+A mediana eh: 1846 
+A mediana eh: 1862 
+A mediana eh: 1854 
+A mediana eh: 1851 
+A mediana eh: 1849 
+A mediana eh: 1848 
+A mediana eh: 1848 
+A mediana eh: 1847 
+A mediana eh: 1848 
+1848
+A mediana eh: 9997 
+A mediana eh: 6234 
+A mediana eh: 4035 
+A mediana eh: 2663 
+A mediana eh: 1814 
+A mediana eh: 2261 
+A mediana eh: 2046 
+A mediana eh: 1925 
+A mediana eh: 1875 
+A mediana eh: 1843 
+A mediana eh: 1858 
+A mediana eh: 1850 
+A mediana eh: 1846 
+A mediana eh: 1848 
+A mediana eh: 1848 
+A mediana eh: 1848 
+A mediana eh: 1848 
+1848
+A mediana eh: 9998 
+A mediana eh: 6234 
+A mediana eh: 4036 
+A mediana eh: 2663 
+A mediana eh: 1815 
+A mediana eh: 2263 
+A mediana eh: 2048 
+A mediana eh: 1927 
+A mediana eh: 1877 
+A mediana eh: 1844 
+A mediana eh: 1860 
+A mediana eh: 1852 
+A mediana eh: 1848 
+A mediana eh: 1846 
+A mediana eh: 1848 
+A mediana eh: 1847 
+A mediana eh: 1848 
+1848
+A mediana eh: 9997 
+A mediana eh: 6234 
+A mediana eh: 4037 
+A mediana eh: 2665 
+A mediana eh: 1817 
+A mediana eh: 2265 
+A mediana eh: 2049 
+A mediana eh: 1929 
+A mediana eh: 1880 
+A mediana eh: 1846 
+A mediana eh: 1862 
+A mediana eh: 1854 
+A mediana eh: 1851 
+A mediana eh: 1849 
+A mediana eh: 1848 
+A mediana eh: 1848 
+A mediana eh: 1848 
+A mediana eh: 1848 
+1848
+A mediana eh: 9995 
+A mediana eh: 6233 
+A mediana eh: 4035 
+A mediana eh: 2665 
+A mediana eh: 1817 
+A mediana eh: 2265 
+A mediana eh: 2049 
+A mediana eh: 1929 
+A mediana eh: 1880 
+A mediana eh: 1846 
+A mediana eh: 1862 
+A mediana eh: 1854 
+A mediana eh: 1851 
+A mediana eh: 1849 
+A mediana eh: 1848 
+A mediana eh: 1848 
+A mediana eh: 1847 
+A mediana eh: 1848 
+1848
+A mediana eh: 9995 
+A mediana eh: 6234 
+A mediana eh: 4034 
+A mediana eh: 2663 
+A mediana eh: 1816 
+A mediana eh: 2263 
+A mediana eh: 2048 
+A mediana eh: 1927 
+A mediana eh: 1878 
+A mediana eh: 1845 
+A mediana eh: 1860 
+A mediana eh: 1853 
+A mediana eh: 1849 
+A mediana eh: 1848 
+A mediana eh: 1847 
+A mediana eh: 1848 
+A mediana eh: 1848 
+A mediana eh: 1848 
+1848
+A mediana eh: 9997 
+A mediana eh: 6234 
+A mediana eh: 4035 
+A mediana eh: 2667 
+A mediana eh: 1818 
+A mediana eh: 2267 
+A mediana eh: 2052 
+A mediana eh: 1931 
+A mediana eh: 1883 
+A mediana eh: 1848 
+A mediana eh: 1832 
+A mediana eh: 1842 
+A mediana eh: 1845 
+A mediana eh: 1847 
+A mediana eh: 1848 
+A mediana eh: 1848 
+1848
+A mediana eh: 9996 
+A mediana eh: 6234 
+A mediana eh: 4034 
+A mediana eh: 2666 
+A mediana eh: 1817 
+A mediana eh: 2266 
+A mediana eh: 2050 
+A mediana eh: 1929 
+A mediana eh: 1881 
+A mediana eh: 1846 
+A mediana eh: 1862 
+A mediana eh: 1854 
+A mediana eh: 1851 
+A mediana eh: 1849 
+A mediana eh: 1848 
+A mediana eh: 1848 
+A mediana eh: 1847 
+A mediana eh: 1848 
+1848
+A mediana eh: 9996 
+A mediana eh: 6234 
+A mediana eh: 4033 
+A mediana eh: 2665 
+A mediana eh: 1814 
+A mediana eh: 2262 
+A mediana eh: 2046 
+A mediana eh: 1924 
+A mediana eh: 1876 
+A mediana eh: 1843 
+A mediana eh: 1857 
+A mediana eh: 1851 
+A mediana eh: 1848 
+A mediana eh: 1846 
+A mediana eh: 1848 
+A mediana eh: 1847 
+A mediana eh: 1848 
+1848
+A mediana eh: 9995 
+A mediana eh: 6238 
+A mediana eh: 4039 
+A mediana eh: 2668 
+A mediana eh: 1816 
+A mediana eh: 2265 
+A mediana eh: 2049 
+A mediana eh: 1928 
+A mediana eh: 1879 
+A mediana eh: 1845 
+A mediana eh: 1861 
+A mediana eh: 1853 
+A mediana eh: 1849 
+A mediana eh: 1848 
+A mediana eh: 1847 
+A mediana eh: 1848 
+A mediana eh: 1848 
+A mediana eh: 1848 
+1848
+A mediana eh: 9995 
+A mediana eh: 6241 
+A mediana eh: 4042 
+A mediana eh: 2671 
+A mediana eh: 1818 
+A mediana eh: 2270 
+A mediana eh: 2056 
+A mediana eh: 1932 
+A mediana eh: 1884 
+A mediana eh: 1849 
+A mediana eh: 1833 
+A mediana eh: 1827 
+A mediana eh: 1825 
+A mediana eh: 1823 
+A mediana eh: 1822 
+A mediana eh: 1821 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9992 
+A mediana eh: 6239 
+A mediana eh: 4041 
+A mediana eh: 2670 
+A mediana eh: 1818 
+A mediana eh: 2270 
+A mediana eh: 2055 
+A mediana eh: 1932 
+A mediana eh: 1884 
+A mediana eh: 1849 
+A mediana eh: 1833 
+A mediana eh: 1827 
+A mediana eh: 1825 
+A mediana eh: 1823 
+A mediana eh: 1822 
+A mediana eh: 1821 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9993 
+A mediana eh: 6240 
+A mediana eh: 4046 
+A mediana eh: 2674 
+A mediana eh: 1823 
+A mediana eh: 1263 
+A mediana eh: 1566 
+A mediana eh: 1692 
+A mediana eh: 1770 
+A mediana eh: 1796 
+A mediana eh: 1810 
+A mediana eh: 1816 
+A mediana eh: 1818 
+A mediana eh: 1822 
+A mediana eh: 1821 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9993 
+A mediana eh: 6251 
+A mediana eh: 4055 
+A mediana eh: 2678 
+A mediana eh: 1826 
+A mediana eh: 1267 
+A mediana eh: 1570 
+A mediana eh: 1696 
+A mediana eh: 1775 
+A mediana eh: 1800 
+A mediana eh: 1814 
+A mediana eh: 1820 
+A mediana eh: 1817 
+A mediana eh: 1818 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9993 
+A mediana eh: 6254 
+A mediana eh: 4060 
+A mediana eh: 2681 
+A mediana eh: 1827 
+A mediana eh: 1268 
+A mediana eh: 1571 
+A mediana eh: 1698 
+A mediana eh: 1777 
+A mediana eh: 1802 
+A mediana eh: 1815 
+A mediana eh: 1823 
+A mediana eh: 1818 
+A mediana eh: 1822 
+A mediana eh: 1821 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9993 
+A mediana eh: 6263 
+A mediana eh: 4069 
+A mediana eh: 2686 
+A mediana eh: 1829 
+A mediana eh: 1272 
+A mediana eh: 1574 
+A mediana eh: 1702 
+A mediana eh: 1777 
+A mediana eh: 1803 
+A mediana eh: 1817 
+A mediana eh: 1825 
+A mediana eh: 1822 
+A mediana eh: 1818 
+A mediana eh: 1821 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9993 
+A mediana eh: 6271 
+A mediana eh: 4077 
+A mediana eh: 2693 
+A mediana eh: 1833 
+A mediana eh: 1275 
+A mediana eh: 1577 
+A mediana eh: 1708 
+A mediana eh: 1780 
+A mediana eh: 1808 
+A mediana eh: 1821 
+A mediana eh: 1815 
+A mediana eh: 1818 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9994 
+A mediana eh: 6272 
+A mediana eh: 4081 
+A mediana eh: 2702 
+A mediana eh: 1835 
+A mediana eh: 1275 
+A mediana eh: 1579 
+A mediana eh: 1710 
+A mediana eh: 1781 
+A mediana eh: 1809 
+A mediana eh: 1823 
+A mediana eh: 1816 
+A mediana eh: 1819 
+A mediana eh: 1818 
+A mediana eh: 1819 
+1819
+A mediana eh: 9994 
+A mediana eh: 6266 
+A mediana eh: 4071 
+A mediana eh: 2689 
+A mediana eh: 1829 
+A mediana eh: 1268 
+A mediana eh: 1573 
+A mediana eh: 1702 
+A mediana eh: 1777 
+A mediana eh: 1803 
+A mediana eh: 1816 
+A mediana eh: 1824 
+A mediana eh: 1820 
+A mediana eh: 1818 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9992 
+A mediana eh: 6260 
+A mediana eh: 4069 
+A mediana eh: 2692 
+A mediana eh: 1829 
+A mediana eh: 1268 
+A mediana eh: 1573 
+A mediana eh: 1702 
+A mediana eh: 1777 
+A mediana eh: 1803 
+A mediana eh: 1816 
+A mediana eh: 1824 
+A mediana eh: 1820 
+A mediana eh: 1818 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9992 
+A mediana eh: 6254 
+A mediana eh: 4061 
+A mediana eh: 2686 
+A mediana eh: 1825 
+A mediana eh: 1264 
+A mediana eh: 1569 
+A mediana eh: 1696 
+A mediana eh: 1773 
+A mediana eh: 1799 
+A mediana eh: 1812 
+A mediana eh: 1818 
+A mediana eh: 1823 
+A mediana eh: 1822 
+A mediana eh: 1821 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9990 
+A mediana eh: 6251 
+A mediana eh: 4064 
+A mediana eh: 2689 
+A mediana eh: 1828 
+A mediana eh: 1267 
+A mediana eh: 1572 
+A mediana eh: 1699 
+A mediana eh: 1777 
+A mediana eh: 1803 
+A mediana eh: 1816 
+A mediana eh: 1823 
+A mediana eh: 1819 
+A mediana eh: 1818 
+A mediana eh: 1819 
+1819
+A mediana eh: 9991 
+A mediana eh: 6255 
+A mediana eh: 4066 
+A mediana eh: 2689 
+A mediana eh: 1829 
+A mediana eh: 1268 
+A mediana eh: 1573 
+A mediana eh: 1702 
+A mediana eh: 1777 
+A mediana eh: 1804 
+A mediana eh: 1817 
+A mediana eh: 1824 
+A mediana eh: 1821 
+A mediana eh: 1818 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9989 
+A mediana eh: 6253 
+A mediana eh: 4069 
+A mediana eh: 2693 
+A mediana eh: 1830 
+A mediana eh: 1270 
+A mediana eh: 1575 
+A mediana eh: 1706 
+A mediana eh: 1779 
+A mediana eh: 1805 
+A mediana eh: 1818 
+A mediana eh: 1826 
+A mediana eh: 1824 
+A mediana eh: 1823 
+A mediana eh: 1822 
+A mediana eh: 1821 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9989 
+A mediana eh: 6253 
+A mediana eh: 4066 
+A mediana eh: 2687 
+A mediana eh: 1825 
+A mediana eh: 1263 
+A mediana eh: 1570 
+A mediana eh: 1698 
+A mediana eh: 1773 
+A mediana eh: 1799 
+A mediana eh: 1813 
+A mediana eh: 1818 
+A mediana eh: 1823 
+A mediana eh: 1822 
+A mediana eh: 1821 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9988 
+A mediana eh: 6260 
+A mediana eh: 4072 
+A mediana eh: 2691 
+A mediana eh: 1828 
+A mediana eh: 1265 
+A mediana eh: 1572 
+A mediana eh: 1699 
+A mediana eh: 1776 
+A mediana eh: 1802 
+A mediana eh: 1815 
+A mediana eh: 1823 
+A mediana eh: 1818 
+A mediana eh: 1822 
+A mediana eh: 1821 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9987 
+A mediana eh: 6266 
+A mediana eh: 4079 
+A mediana eh: 2700 
+A mediana eh: 1832 
+A mediana eh: 1268 
+A mediana eh: 1575 
+A mediana eh: 1707 
+A mediana eh: 1779 
+A mediana eh: 1807 
+A mediana eh: 1818 
+A mediana eh: 1826 
+A mediana eh: 1824 
+A mediana eh: 1823 
+A mediana eh: 1822 
+A mediana eh: 1821 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 9987 
+A mediana eh: 6264 
+A mediana eh: 4079 
+A mediana eh: 2700 
+A mediana eh: 1834 
+A mediana eh: 1270 
+A mediana eh: 1577 
+A mediana eh: 1708 
+A mediana eh: 1780 
+A mediana eh: 1808 
+A mediana eh: 1821 
+A mediana eh: 1815 
+A mediana eh: 1818 
+A mediana eh: 1820 
+A mediana eh: 1819 
+A mediana eh: 1819 
+1819
+A mediana eh: 10015 
+A mediana eh: 6334 
+A mediana eh: 4205 
+A mediana eh: 2837 
+A mediana eh: 1947 
+A mediana eh: 1332 
+A mediana eh: 1651 
+A mediana eh: 1805 
+A mediana eh: 1732 
+A mediana eh: 1776 
+A mediana eh: 1755 
+A mediana eh: 1742 
+A mediana eh: 1749 
+A mediana eh: 1746 
+A mediana eh: 1744 
+A mediana eh: 1745 
+A mediana eh: 1746 
+1746
+A mediana eh: 10013 
+A mediana eh: 6337 
+A mediana eh: 4211 
+A mediana eh: 2844 
+A mediana eh: 1952 
+A mediana eh: 1333 
+A mediana eh: 1654 
+A mediana eh: 1807 
+A mediana eh: 1736 
+A mediana eh: 1778 
+A mediana eh: 1759 
+A mediana eh: 1747 
+A mediana eh: 1740 
+A mediana eh: 1744 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+1746
+A mediana eh: 10013 
+A mediana eh: 6337 
+A mediana eh: 4210 
+A mediana eh: 2840 
+A mediana eh: 1943 
+A mediana eh: 1332 
+A mediana eh: 1649 
+A mediana eh: 1801 
+A mediana eh: 1728 
+A mediana eh: 1774 
+A mediana eh: 1751 
+A mediana eh: 1739 
+A mediana eh: 1745 
+A mediana eh: 1748 
+A mediana eh: 1747 
+A mediana eh: 1747 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10012 
+A mediana eh: 6340 
+A mediana eh: 4214 
+A mediana eh: 2845 
+A mediana eh: 1947 
+A mediana eh: 1333 
+A mediana eh: 1652 
+A mediana eh: 1804 
+A mediana eh: 1732 
+A mediana eh: 1775 
+A mediana eh: 1753 
+A mediana eh: 1741 
+A mediana eh: 1748 
+A mediana eh: 1745 
+A mediana eh: 1747 
+A mediana eh: 1747 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10011 
+A mediana eh: 6340 
+A mediana eh: 4211 
+A mediana eh: 2839 
+A mediana eh: 1940 
+A mediana eh: 1332 
+A mediana eh: 1648 
+A mediana eh: 1800 
+A mediana eh: 1727 
+A mediana eh: 1773 
+A mediana eh: 1749 
+A mediana eh: 1738 
+A mediana eh: 1744 
+A mediana eh: 1747 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+1746
+A mediana eh: 10010 
+A mediana eh: 6343 
+A mediana eh: 4214 
+A mediana eh: 2844 
+A mediana eh: 1945 
+A mediana eh: 1333 
+A mediana eh: 1651 
+A mediana eh: 1803 
+A mediana eh: 1731 
+A mediana eh: 1775 
+A mediana eh: 1753 
+A mediana eh: 1740 
+A mediana eh: 1747 
+A mediana eh: 1744 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+1746
+A mediana eh: 10010 
+A mediana eh: 6343 
+A mediana eh: 4213 
+A mediana eh: 2844 
+A mediana eh: 1946 
+A mediana eh: 1333 
+A mediana eh: 1651 
+A mediana eh: 1803 
+A mediana eh: 1731 
+A mediana eh: 1775 
+A mediana eh: 1752 
+A mediana eh: 1740 
+A mediana eh: 1747 
+A mediana eh: 1744 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10013 
+A mediana eh: 6349 
+A mediana eh: 4219 
+A mediana eh: 2851 
+A mediana eh: 1953 
+A mediana eh: 1335 
+A mediana eh: 1657 
+A mediana eh: 1807 
+A mediana eh: 1736 
+A mediana eh: 1778 
+A mediana eh: 1758 
+A mediana eh: 1746 
+A mediana eh: 1740 
+A mediana eh: 1744 
+A mediana eh: 1745 
+A mediana eh: 1746 
+1746
+A mediana eh: 10015 
+A mediana eh: 6345 
+A mediana eh: 4220 
+A mediana eh: 2853 
+A mediana eh: 1955 
+A mediana eh: 1336 
+A mediana eh: 1662 
+A mediana eh: 1809 
+A mediana eh: 1738 
+A mediana eh: 1779 
+A mediana eh: 1761 
+A mediana eh: 1750 
+A mediana eh: 1744 
+A mediana eh: 1747 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10013 
+A mediana eh: 6340 
+A mediana eh: 4213 
+A mediana eh: 2843 
+A mediana eh: 1951 
+A mediana eh: 1335 
+A mediana eh: 1659 
+A mediana eh: 1807 
+A mediana eh: 1736 
+A mediana eh: 1778 
+A mediana eh: 1758 
+A mediana eh: 1747 
+A mediana eh: 1740 
+A mediana eh: 1744 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10014 
+A mediana eh: 6341 
+A mediana eh: 4216 
+A mediana eh: 2847 
+A mediana eh: 1955 
+A mediana eh: 1336 
+A mediana eh: 1662 
+A mediana eh: 1809 
+A mediana eh: 1738 
+A mediana eh: 1779 
+A mediana eh: 1761 
+A mediana eh: 1750 
+A mediana eh: 1744 
+A mediana eh: 1747 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+1746
+5,0.0022825
+7,0.00334836
+9,0.00580704
+11,0.00190737
+13,0.00133098
+15,0.00413828
+17,0.00146861
+19,0.00163499
+21,0.00271198
+23,0.00135951
+25,0.00200414
+27,0.00199635
+29,0.00208652
+31,0.00160776
+33,0.00138915
+35,0.00245356
+37,0.00281182
+39,0.00151188
+41,0.00205931
+43,0.00294173
+45,0.00155075
+47,0.00142312
+49,0.00300008
+51,0.00158777
+53,0.00138059
+55,0.00310018
+57,0.00298058
+59,0.00184128
+61,0.00335561
+63,0.0021538
+65,0.00288092
+67,0.00193398
+69,0.00314078
+71,0.00218667
+73,0.00188285
+75,0.00258028
+77,0.00595287
+79,0.0029962
+81,0.00273025
+83,0.00500952
+85,0.00344021
+87,0.00375881
+89,0.0033045
+91,0.00231184
+93,0.00218812
+95,0.00841936
+97,0.00296711
+99,0.00344837
+101,0.00267398
+103,0.00445463
+105,0.0034635
+107,0.00267153
+109,0.0107637
+111,0.00657263
+113,0.00672623
+115,0.00536503
+117,0.00383061
+119,0.00475371
+121,0.00423933
+123,0.00414516
+125,0.00812775
+127,0.00398972
+129,0.00719626
+131,0.00453831
+133,0.0070876
+135,0.00521489
+137,0.00364186
+139,0.00422672
+141,0.00618841
+143,0.00470643
+145,0.00502108
+147,0.011061
+149,0.00448462
+151,0.00624347
+153,0.00499147
+155,0.00621364
+157,0.00539842
+159,0.00556213
+161,0.00651139
+163,0.00580211
+165,0.00594073
+167,0.00628916
+169,0.00657377
+171,0.00867897
+173,0.00987079
+175,0.00687597
+177,0.00772639
+179,0.00615329
+181,0.00913703
+183,0.00845851
+185,0.00563949
+187,0.012794
+189,0.00702154
+191,0.00992375
+193,0.00695962
+195,0.00660756
+197,0.00741823
+199,0.00709503
+201,0.00663177
+203,0.00668564
+205,0.00586142
+207,0.00590797
+209,0.00845608
+211,0.00958707
+213,0.00936625
+215,0.00939804
+217,0.00978605
+219,0.0067746
+221,0.00685343
+223,0.0063878
+225,0.00695004
+227,0.00669165
+229,0.00857211
+231,0.00684629
+233,0.00712698
+235,0.00695561
+237,0.00702478
+239,0.00743215
+241,0.00849404
+243,0.00881058
+245,0.00886283
+247,0.00910931
+249,0.00858943
+251,0.00841095
+253,0.00850716
+255,0.00883752
+257,0.00874392
+259,0.00887154
+261,0.00957935
+263,0.00941951
+265,0.0116589
+267,0.0113772
+269,0.011187
+271,0.0111007
+273,0.0118651
+275,0.013525
+277,0.0131398
+279,0.0127199
+281,0.0116749
+283,0.0139212
+285,0.0122478
+287,0.0121401
+289,0.0127725
+291,0.0182663
+293,0.0135508
+295,0.0172674
+297,0.0223228
+299,0.0138206
+301,0.0147873
+303,0.0110488
+305,0.0131309
+307,0.0129387
+309,0.0146231
+311,0.0119109
+313,0.0116625
+315,0.0145386
+317,0.0136717
+319,0.0154863
+321,0.0134112
+323,0.0148059
+325,0.0121998
+327,0.0125487
+329,0.0134486
+331,0.0150323
+333,0.0135871
+335,0.0129537
+337,0.0132394
+339,0.013133
+341,0.0137548
+343,0.014827
+345,0.013356
+347,0.0139217
+349,0.0138885
+351,0.0146107
+353,0.0247456
+355,0.0211076
+357,0.0142564
+359,0.0146253
+361,0.0148155
+363,0.014694
+365,0.0150225
+367,0.0185977
+369,0.019251
+371,0.0156919
+373,0.0154017
+375,0.0155451
+377,0.0156115
+379,0.0205193
+381,0.0169559
+383,0.0161267
+385,0.0172929
+387,0.0166204
+389,0.0187624
+391,0.020552
+393,0.0195616
+395,0.0205244
+397,0.0178498
+399,0.0188127
+401,0.0236601
+403,0.0183324
+405,0.0211257
+407,0.0218692
+409,0.0264147
+411,0.0235992
+413,0.0203878
+415,0.019388
+417,0.018703
+419,0.0201142
+421,0.0227132
+423,0.0206618
+425,0.0200548
+427,0.0197465
+429,0.0203799
+431,0.0264164
+433,0.0223692
+435,0.022104
+437,0.0226228
+439,0.0228089
+441,0.0221237
+443,0.0225825
+445,0.0342565
+447,0.0258424
+449,0.0219816
+451,0.0216735
+453,0.0236336
+455,0.0261107
+457,0.0271094
+459,0.0236431
+461,0.0228283
+463,0.0229267
+465,0.0257087
+467,0.0247636
+469,0.0238684
+471,0.0240091
+473,0.026201
+475,0.0261575
+477,0.0259005
+479,0.0246855
+481,0.0259291
+483,0.040985
+485,0.0378197
+487,0.0287924
+489,0.0256946
+491,0.0280478
+493,0.0339105
+495,0.0296176
+497,0.0276657
+499,0.0286099
+501,0.0311709
+503,0.0281806
+505,0.0282428
+507,0.0281173
+509,0.0290605
+511,0.0336643
+513,0.0382624
+515,0.0285843
+517,0.0303768
+519,0.0322467
+521,0.0325875
+523,0.0293895
+525,0.0341033
+527,0.0297863
+529,0.0302569
+531,0.0334144
+533,0.0306921
+535,0.0307081
+537,0.0336737
+539,0.0362433
+541,0.035584
+543,0.047364
+545,0.0342097
+547,0.0324623
+549,0.032198
+551,0.0376766
+553,0.0395172
+555,0.0335054
+557,0.0362668
+559,0.0334776
+561,0.0361913
+563,0.0370646
+565,0.0336928
+567,0.0471655
+569,0.0396076
+571,0.0354389
+573,0.0345391
+575,0.0372236
+577,0.0387276
+579,0.0388588
+581,0.0382391
+A mediana eh: 10012 
+A mediana eh: 6338 
+A mediana eh: 4215 
+A mediana eh: 2847 
+A mediana eh: 1955 
+A mediana eh: 1336 
+A mediana eh: 1664 
+A mediana eh: 1809 
+A mediana eh: 1738 
+A mediana eh: 1779 
+A mediana eh: 1761 
+A mediana eh: 1750 
+A mediana eh: 1744 
+A mediana eh: 1747 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10013 
+A mediana eh: 6345 
+A mediana eh: 4220 
+A mediana eh: 2858 
+A mediana eh: 1960 
+A mediana eh: 1338 
+A mediana eh: 1668 
+A mediana eh: 1815 
+A mediana eh: 1745 
+A mediana eh: 1782 
+A mediana eh: 1768 
+A mediana eh: 1757 
+A mediana eh: 1752 
+A mediana eh: 1749 
+A mediana eh: 1747 
+A mediana eh: 1747 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10012 
+A mediana eh: 6339 
+A mediana eh: 4214 
+A mediana eh: 2850 
+A mediana eh: 1955 
+A mediana eh: 1336 
+A mediana eh: 1663 
+A mediana eh: 1809 
+A mediana eh: 1738 
+A mediana eh: 1779 
+A mediana eh: 1761 
+A mediana eh: 1750 
+A mediana eh: 1744 
+A mediana eh: 1747 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10014 
+A mediana eh: 6341 
+A mediana eh: 4213 
+A mediana eh: 2849 
+A mediana eh: 1953 
+A mediana eh: 1334 
+A mediana eh: 1660 
+A mediana eh: 1808 
+A mediana eh: 1736 
+A mediana eh: 1778 
+A mediana eh: 1758 
+A mediana eh: 1747 
+A mediana eh: 1740 
+A mediana eh: 1744 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10015 
+A mediana eh: 6339 
+A mediana eh: 4213 
+A mediana eh: 2851 
+A mediana eh: 1955 
+A mediana eh: 1335 
+A mediana eh: 1662 
+A mediana eh: 1809 
+A mediana eh: 1738 
+A mediana eh: 1779 
+A mediana eh: 1761 
+A mediana eh: 1750 
+A mediana eh: 1744 
+A mediana eh: 1747 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10013 
+A mediana eh: 6341 
+A mediana eh: 4216 
+A mediana eh: 2855 
+A mediana eh: 1958 
+A mediana eh: 1336 
+A mediana eh: 1666 
+A mediana eh: 1812 
+A mediana eh: 1740 
+A mediana eh: 1781 
+A mediana eh: 1765 
+A mediana eh: 1753 
+A mediana eh: 1747 
+A mediana eh: 1744 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10011 
+A mediana eh: 6337 
+A mediana eh: 4209 
+A mediana eh: 2847 
+A mediana eh: 1957 
+A mediana eh: 1336 
+A mediana eh: 1665 
+A mediana eh: 1809 
+A mediana eh: 1738 
+A mediana eh: 1779 
+A mediana eh: 1761 
+A mediana eh: 1750 
+A mediana eh: 1744 
+A mediana eh: 1747 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10010 
+A mediana eh: 6338 
+A mediana eh: 4211 
+A mediana eh: 2851 
+A mediana eh: 1959 
+A mediana eh: 1337 
+A mediana eh: 1667 
+A mediana eh: 1814 
+A mediana eh: 1741 
+A mediana eh: 1781 
+A mediana eh: 1766 
+A mediana eh: 1755 
+A mediana eh: 1749 
+A mediana eh: 1746 
+A mediana eh: 1744 
+A mediana eh: 1745 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10009 
+A mediana eh: 6333 
+A mediana eh: 4204 
+A mediana eh: 2841 
+A mediana eh: 1953 
+A mediana eh: 1334 
+A mediana eh: 1660 
+A mediana eh: 1808 
+A mediana eh: 1736 
+A mediana eh: 1778 
+A mediana eh: 1759 
+A mediana eh: 1747 
+A mediana eh: 1740 
+A mediana eh: 1744 
+A mediana eh: 1746 
+A mediana eh: 1745 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10010 
+A mediana eh: 6330 
+A mediana eh: 4199 
+A mediana eh: 2838 
+A mediana eh: 1946 
+A mediana eh: 1331 
+A mediana eh: 1653 
+A mediana eh: 1803 
+A mediana eh: 1729 
+A mediana eh: 1774 
+A mediana eh: 1751 
+A mediana eh: 1739 
+A mediana eh: 1745 
+A mediana eh: 1748 
+A mediana eh: 1747 
+A mediana eh: 1747 
+A mediana eh: 1746 
+A mediana eh: 1746 
+1746
+A mediana eh: 10016 
+A mediana eh: 6338 
+A mediana eh: 4172 
+A mediana eh: 2756 
+A mediana eh: 1837 
+A mediana eh: 1242 
+A mediana eh: 1571 
+A mediana eh: 1419 
+A mediana eh: 1497 
+A mediana eh: 1456 
+A mediana eh: 1442 
+A mediana eh: 1447 
+A mediana eh: 1446 
+A mediana eh: 1445 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10016 
+A mediana eh: 6336 
+A mediana eh: 4168 
+A mediana eh: 2752 
+A mediana eh: 1831 
+A mediana eh: 1238 
+A mediana eh: 1565 
+A mediana eh: 1413 
+A mediana eh: 1490 
+A mediana eh: 1449 
+A mediana eh: 1434 
+A mediana eh: 1445 
+A mediana eh: 1441 
+A mediana eh: 1444 
+A mediana eh: 1443 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10016 
+A mediana eh: 6334 
+A mediana eh: 4165 
+A mediana eh: 2751 
+A mediana eh: 1834 
+A mediana eh: 1240 
+A mediana eh: 1567 
+A mediana eh: 1415 
+A mediana eh: 1491 
+A mediana eh: 1450 
+A mediana eh: 1435 
+A mediana eh: 1445 
+A mediana eh: 1442 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10016 
+A mediana eh: 6336 
+A mediana eh: 4168 
+A mediana eh: 2758 
+A mediana eh: 1840 
+A mediana eh: 1241 
+A mediana eh: 1571 
+A mediana eh: 1418 
+A mediana eh: 1495 
+A mediana eh: 1454 
+A mediana eh: 1440 
+A mediana eh: 1447 
+A mediana eh: 1445 
+A mediana eh: 1444 
+A mediana eh: 1443 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10016 
+A mediana eh: 6333 
+A mediana eh: 4163 
+A mediana eh: 2755 
+A mediana eh: 1840 
+A mediana eh: 1241 
+A mediana eh: 1572 
+A mediana eh: 1419 
+A mediana eh: 1497 
+A mediana eh: 1455 
+A mediana eh: 1441 
+A mediana eh: 1447 
+A mediana eh: 1445 
+A mediana eh: 1444 
+A mediana eh: 1443 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10017 
+A mediana eh: 6334 
+A mediana eh: 4163 
+A mediana eh: 2753 
+A mediana eh: 1835 
+A mediana eh: 1240 
+A mediana eh: 1567 
+A mediana eh: 1416 
+A mediana eh: 1492 
+A mediana eh: 1452 
+A mediana eh: 1438 
+A mediana eh: 1446 
+A mediana eh: 1444 
+A mediana eh: 1442 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10017 
+A mediana eh: 6332 
+A mediana eh: 4157 
+A mediana eh: 2745 
+A mediana eh: 1825 
+A mediana eh: 1234 
+A mediana eh: 1561 
+A mediana eh: 1407 
+A mediana eh: 1487 
+A mediana eh: 1447 
+A mediana eh: 1431 
+A mediana eh: 1442 
+A mediana eh: 1446 
+A mediana eh: 1445 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10016 
+A mediana eh: 6333 
+A mediana eh: 4160 
+A mediana eh: 2751 
+A mediana eh: 1830 
+A mediana eh: 1238 
+A mediana eh: 1565 
+A mediana eh: 1415 
+A mediana eh: 1492 
+A mediana eh: 1452 
+A mediana eh: 1437 
+A mediana eh: 1446 
+A mediana eh: 1443 
+A mediana eh: 1445 
+A mediana eh: 1445 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10017 
+A mediana eh: 6329 
+A mediana eh: 4154 
+A mediana eh: 2749 
+A mediana eh: 1827 
+A mediana eh: 1237 
+A mediana eh: 1564 
+A mediana eh: 1412 
+A mediana eh: 1490 
+A mediana eh: 1449 
+A mediana eh: 1434 
+A mediana eh: 1444 
+A mediana eh: 1440 
+A mediana eh: 1442 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10017 
+A mediana eh: 6324 
+A mediana eh: 4148 
+A mediana eh: 2744 
+A mediana eh: 1820 
+A mediana eh: 1234 
+A mediana eh: 1560 
+A mediana eh: 1406 
+A mediana eh: 1485 
+A mediana eh: 1447 
+A mediana eh: 1430 
+A mediana eh: 1442 
+A mediana eh: 1446 
+A mediana eh: 1445 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10016 
+A mediana eh: 6324 
+A mediana eh: 4147 
+A mediana eh: 2742 
+A mediana eh: 1816 
+A mediana eh: 1232 
+A mediana eh: 1559 
+A mediana eh: 1401 
+A mediana eh: 1483 
+A mediana eh: 1445 
+A mediana eh: 1426 
+A mediana eh: 1438 
+A mediana eh: 1443 
+A mediana eh: 1445 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10016 
+A mediana eh: 6323 
+A mediana eh: 4148 
+A mediana eh: 2744 
+A mediana eh: 1818 
+A mediana eh: 1234 
+A mediana eh: 1560 
+A mediana eh: 1404 
+A mediana eh: 1485 
+A mediana eh: 1446 
+A mediana eh: 1428 
+A mediana eh: 1440 
+A mediana eh: 1444 
+A mediana eh: 1443 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10016 
+A mediana eh: 6316 
+A mediana eh: 4139 
+A mediana eh: 2737 
+A mediana eh: 1811 
+A mediana eh: 1230 
+A mediana eh: 1556 
+A mediana eh: 1398 
+A mediana eh: 1478 
+A mediana eh: 1443 
+A mediana eh: 1457 
+A mediana eh: 1449 
+A mediana eh: 1447 
+A mediana eh: 1446 
+A mediana eh: 1445 
+A mediana eh: 1445 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10016 
+A mediana eh: 6319 
+A mediana eh: 4141 
+A mediana eh: 2741 
+A mediana eh: 1814 
+A mediana eh: 1232 
+A mediana eh: 1557 
+A mediana eh: 1401 
+A mediana eh: 1481 
+A mediana eh: 1444 
+A mediana eh: 1424 
+A mediana eh: 1435 
+A mediana eh: 1441 
+A mediana eh: 1443 
+A mediana eh: 1444 
+A mediana eh: 1444 
+A mediana eh: 1444 
+1444
+A mediana eh: 10005 
+A mediana eh: 6316 
+A mediana eh: 4078 
+A mediana eh: 2685 
+A mediana eh: 1816 
+A mediana eh: 1242 
+A mediana eh: 1553 
+A mediana eh: 1683 
+A mediana eh: 1615 
+A mediana eh: 1580 
+A mediana eh: 1564 
+A mediana eh: 1571 
+A mediana eh: 1576 
+A mediana eh: 1574 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1572 
+1573
+A mediana eh: 10004 
+A mediana eh: 6309 
+A mediana eh: 4070 
+A mediana eh: 2679 
+A mediana eh: 1810 
+A mediana eh: 1238 
+A mediana eh: 1548 
+A mediana eh: 1678 
+A mediana eh: 1610 
+A mediana eh: 1576 
+A mediana eh: 1562 
+A mediana eh: 1569 
+A mediana eh: 1572 
+A mediana eh: 1575 
+A mediana eh: 1574 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10003 
+A mediana eh: 6309 
+A mediana eh: 4066 
+A mediana eh: 2677 
+A mediana eh: 1806 
+A mediana eh: 1234 
+A mediana eh: 1544 
+A mediana eh: 1674 
+A mediana eh: 1603 
+A mediana eh: 1571 
+A mediana eh: 1588 
+A mediana eh: 1580 
+A mediana eh: 1577 
+A mediana eh: 1575 
+A mediana eh: 1574 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10005 
+A mediana eh: 6314 
+A mediana eh: 4072 
+A mediana eh: 2680 
+A mediana eh: 1810 
+A mediana eh: 1237 
+A mediana eh: 1548 
+A mediana eh: 1678 
+A mediana eh: 1609 
+A mediana eh: 1575 
+A mediana eh: 1561 
+A mediana eh: 1568 
+A mediana eh: 1571 
+A mediana eh: 1574 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10004 
+A mediana eh: 6318 
+A mediana eh: 4078 
+A mediana eh: 2685 
+A mediana eh: 1815 
+A mediana eh: 1239 
+A mediana eh: 1552 
+A mediana eh: 1683 
+A mediana eh: 1614 
+A mediana eh: 1579 
+A mediana eh: 1564 
+A mediana eh: 1571 
+A mediana eh: 1576 
+A mediana eh: 1574 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10004 
+A mediana eh: 6312 
+A mediana eh: 4073 
+A mediana eh: 2683 
+A mediana eh: 1813 
+A mediana eh: 1238 
+A mediana eh: 1549 
+A mediana eh: 1681 
+A mediana eh: 1612 
+A mediana eh: 1578 
+A mediana eh: 1562 
+A mediana eh: 1570 
+A mediana eh: 1575 
+A mediana eh: 1573 
+A mediana eh: 1572 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10005 
+A mediana eh: 6308 
+A mediana eh: 4069 
+A mediana eh: 2682 
+A mediana eh: 1813 
+A mediana eh: 1239 
+A mediana eh: 1549 
+A mediana eh: 1681 
+A mediana eh: 1612 
+A mediana eh: 1578 
+A mediana eh: 1562 
+A mediana eh: 1570 
+A mediana eh: 1575 
+A mediana eh: 1573 
+A mediana eh: 1572 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10006 
+A mediana eh: 6303 
+A mediana eh: 4061 
+A mediana eh: 2678 
+A mediana eh: 1808 
+A mediana eh: 1237 
+A mediana eh: 1547 
+A mediana eh: 1678 
+A mediana eh: 1609 
+A mediana eh: 1575 
+A mediana eh: 1561 
+A mediana eh: 1568 
+A mediana eh: 1571 
+A mediana eh: 1574 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10005 
+A mediana eh: 6304 
+A mediana eh: 4059 
+A mediana eh: 2674 
+A mediana eh: 1804 
+A mediana eh: 1233 
+A mediana eh: 1543 
+A mediana eh: 1673 
+A mediana eh: 1603 
+A mediana eh: 1571 
+A mediana eh: 1588 
+A mediana eh: 1580 
+A mediana eh: 1577 
+A mediana eh: 1575 
+A mediana eh: 1574 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10005 
+A mediana eh: 6305 
+A mediana eh: 4059 
+A mediana eh: 2676 
+A mediana eh: 1806 
+A mediana eh: 1235 
+A mediana eh: 1544 
+A mediana eh: 1675 
+A mediana eh: 1605 
+A mediana eh: 1572 
+A mediana eh: 1589 
+A mediana eh: 1582 
+A mediana eh: 1578 
+A mediana eh: 1576 
+A mediana eh: 1575 
+A mediana eh: 1574 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10006 
+A mediana eh: 6301 
+A mediana eh: 4055 
+A mediana eh: 2672 
+A mediana eh: 1804 
+A mediana eh: 1233 
+A mediana eh: 1542 
+A mediana eh: 1673 
+A mediana eh: 1603 
+A mediana eh: 1570 
+A mediana eh: 1588 
+A mediana eh: 1580 
+A mediana eh: 1576 
+A mediana eh: 1573 
+A mediana eh: 1572 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10006 
+A mediana eh: 6299 
+A mediana eh: 4054 
+A mediana eh: 2671 
+A mediana eh: 1803 
+A mediana eh: 1232 
+A mediana eh: 1541 
+A mediana eh: 1671 
+A mediana eh: 1601 
+A mediana eh: 1570 
+A mediana eh: 1587 
+A mediana eh: 1579 
+A mediana eh: 1575 
+A mediana eh: 1573 
+A mediana eh: 1572 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10006 
+A mediana eh: 6304 
+A mediana eh: 4061 
+A mediana eh: 2675 
+A mediana eh: 1806 
+A mediana eh: 1235 
+A mediana eh: 1543 
+A mediana eh: 1674 
+A mediana eh: 1604 
+A mediana eh: 1571 
+A mediana eh: 1588 
+A mediana eh: 1580 
+A mediana eh: 1577 
+A mediana eh: 1575 
+A mediana eh: 1574 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10005 
+A mediana eh: 6313 
+A mediana eh: 4068 
+A mediana eh: 2678 
+A mediana eh: 1808 
+A mediana eh: 1237 
+A mediana eh: 1545 
+A mediana eh: 1676 
+A mediana eh: 1607 
+A mediana eh: 1574 
+A mediana eh: 1560 
+A mediana eh: 1566 
+A mediana eh: 1570 
+A mediana eh: 1572 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10005 
+A mediana eh: 6314 
+A mediana eh: 4068 
+A mediana eh: 2678 
+A mediana eh: 1808 
+A mediana eh: 1237 
+A mediana eh: 1545 
+A mediana eh: 1676 
+A mediana eh: 1607 
+A mediana eh: 1573 
+A mediana eh: 1560 
+A mediana eh: 1566 
+A mediana eh: 1570 
+A mediana eh: 1572 
+A mediana eh: 1573 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 10004 
+A mediana eh: 6308 
+A mediana eh: 4059 
+A mediana eh: 2669 
+A mediana eh: 1799 
+A mediana eh: 1230 
+A mediana eh: 1538 
+A mediana eh: 1669 
+A mediana eh: 1598 
+A mediana eh: 1567 
+A mediana eh: 1583 
+A mediana eh: 1575 
+A mediana eh: 1571 
+A mediana eh: 1574 
+A mediana eh: 1573 
+A mediana eh: 1572 
+A mediana eh: 1573 
+A mediana eh: 1573 
+1573
+A mediana eh: 9996 
+A mediana eh: 6152 
+A mediana eh: 3955 
+A mediana eh: 2603 
+A mediana eh: 1767 
+A mediana eh: 1187 
+A mediana eh: 1496 
+A mediana eh: 1647 
+A mediana eh: 1567 
+A mediana eh: 1535 
+A mediana eh: 1515 
+A mediana eh: 1505 
+A mediana eh: 1502 
+A mediana eh: 1504 
+A mediana eh: 1503 
+A mediana eh: 1503 
+A mediana eh: 1503 
+A mediana eh: 1503 
+1503
+A mediana eh: 9996 
+A mediana eh: 6157 
+A mediana eh: 3961 
+A mediana eh: 2610 
+A mediana eh: 1772 
+A mediana eh: 1192 
+A mediana eh: 1500 
+A mediana eh: 1650 
+A mediana eh: 1571 
+A mediana eh: 1539 
+A mediana eh: 1518 
+A mediana eh: 1508 
+A mediana eh: 1504 
+A mediana eh: 1503 
+A mediana eh: 1503 
+A mediana eh: 1503 
+A mediana eh: 1503 
+A mediana eh: 1503 
+A mediana eh: 1503 
+1503
+A mediana eh: 9998 
+A mediana eh: 6168 
+A mediana eh: 3968 
+A mediana eh: 2617 
+A mediana eh: 1776 
+A mediana eh: 1196 
+A mediana eh: 1503 
+A mediana eh: 1353 
+A mediana eh: 1441 
+A mediana eh: 1465 
+A mediana eh: 1487 
+A mediana eh: 1476 
+A mediana eh: 1482 
+A mediana eh: 1485 
+A mediana eh: 1487 
+A mediana eh: 1486 
+A mediana eh: 1486 
+1486
+A mediana eh: 9997 
+A mediana eh: 6169 
+A mediana eh: 3972 
+A mediana eh: 2621 
+A mediana eh: 1777 
+A mediana eh: 1198 
+A mediana eh: 1505 
+A mediana eh: 1357 
+A mediana eh: 1443 
+A mediana eh: 1469 
+A mediana eh: 1489 
+A mediana eh: 1480 
+A mediana eh: 1485 
+A mediana eh: 1488 
+A mediana eh: 1487 
+A mediana eh: 1487 
+A mediana eh: 1486 
+A mediana eh: 1486 
+1486
+A mediana eh: 9999 
+A mediana eh: 6164 
+A mediana eh: 3968 
+A mediana eh: 2624 
+A mediana eh: 1778 
+A mediana eh: 1200 
+A mediana eh: 1507 
+A mediana eh: 1359 
+A mediana eh: 1443 
+A mediana eh: 1470 
+A mediana eh: 1490 
+A mediana eh: 1481 
+A mediana eh: 1486 
+A mediana eh: 1483 
+A mediana eh: 1485 
+A mediana eh: 1486 
+1486
+A mediana eh: 9999 
+A mediana eh: 6160 
+A mediana eh: 3969 
+A mediana eh: 2626 
+A mediana eh: 1779 
+A mediana eh: 1202 
+A mediana eh: 1509 
+A mediana eh: 1360 
+A mediana eh: 1444 
+A mediana eh: 1473 
+A mediana eh: 1492 
+A mediana eh: 1483 
+A mediana eh: 1489 
+A mediana eh: 1488 
+A mediana eh: 1486 
+A mediana eh: 1485 
+A mediana eh: 1486 
+1486
+A mediana eh: 10001 
+A mediana eh: 6155 
+A mediana eh: 3962 
+A mediana eh: 2619 
+A mediana eh: 1777 
+A mediana eh: 1196 
+A mediana eh: 1503 
+A mediana eh: 1353 
+A mediana eh: 1440 
+A mediana eh: 1465 
+A mediana eh: 1486 
+A mediana eh: 1476 
+A mediana eh: 1481 
+A mediana eh: 1483 
+A mediana eh: 1485 
+A mediana eh: 1486 
+1486
+A mediana eh: 10002 
+A mediana eh: 6164 
+A mediana eh: 3969 
+A mediana eh: 2626 
+A mediana eh: 1778 
+A mediana eh: 1198 
+A mediana eh: 1505 
+A mediana eh: 1356 
+A mediana eh: 1442 
+A mediana eh: 1467 
+A mediana eh: 1489 
+A mediana eh: 1479 
+A mediana eh: 1485 
+A mediana eh: 1488 
+A mediana eh: 1487 
+A mediana eh: 1487 
+A mediana eh: 1486 
+A mediana eh: 1486 
+1486
+A mediana eh: 10002 
+A mediana eh: 6157 
+A mediana eh: 3964 
+A mediana eh: 2624 
+A mediana eh: 1778 
+A mediana eh: 1197 
+A mediana eh: 1506 
+A mediana eh: 1356 
+A mediana eh: 1442 
+A mediana eh: 1468 
+A mediana eh: 1489 
+A mediana eh: 1479 
+A mediana eh: 1485 
+A mediana eh: 1488 
+A mediana eh: 1487 
+A mediana eh: 1487 
+A mediana eh: 1486 
+A mediana eh: 1486 
+1486
+A mediana eh: 10002 
+A mediana eh: 6154 
+A mediana eh: 3964 
+A mediana eh: 2625 
+A mediana eh: 1779 
+A mediana eh: 1200 
+A mediana eh: 1508 
+A mediana eh: 1359 
+A mediana eh: 1443 
+A mediana eh: 1470 
+A mediana eh: 1491 
+A mediana eh: 1482 
+A mediana eh: 1488 
+A mediana eh: 1485 
+A mediana eh: 1487 
+A mediana eh: 1487 
+A mediana eh: 1486 
+A mediana eh: 1486 
+1486
+A mediana eh: 10004 
+A mediana eh: 6150 
+A mediana eh: 3958 
+A mediana eh: 2616 
+A mediana eh: 1776 
+A mediana eh: 1193 
+A mediana eh: 1503 
+A mediana eh: 1352 
+A mediana eh: 1440 
+A mediana eh: 1465 
+A mediana eh: 1486 
+A mediana eh: 1476 
+A mediana eh: 1481 
+A mediana eh: 1483 
+A mediana eh: 1485 
+A mediana eh: 1486 
+1486
+A mediana eh: 10002 
+A mediana eh: 6150 
+A mediana eh: 3956 
+A mediana eh: 2614 
+A mediana eh: 1773 
+A mediana eh: 1192 
+A mediana eh: 1501 
+A mediana eh: 1350 
+A mediana eh: 1436 
+A mediana eh: 1461 
+A mediana eh: 1482 
+A mediana eh: 1492 
+A mediana eh: 1489 
+A mediana eh: 1486 
+A mediana eh: 1484 
+A mediana eh: 1485 
+A mediana eh: 1486 
+1486
+A mediana eh: 10002 
+A mediana eh: 6154 
+A mediana eh: 3961 
+A mediana eh: 2618 
+A mediana eh: 1775 
+A mediana eh: 1195 
+A mediana eh: 1503 
+A mediana eh: 1352 
+A mediana eh: 1439 
+A mediana eh: 1465 
+A mediana eh: 1449 
+A mediana eh: 1445 
+A mediana eh: 1447 
+A mediana eh: 1446 
+A mediana eh: 1446 
+A mediana eh: 1446 
+A mediana eh: 1446 
+A mediana eh: 1446 
+1446
+A mediana eh: 10002 
+A mediana eh: 6147 
+A mediana eh: 3952 
+A mediana eh: 2612 
+A mediana eh: 1769 
+A mediana eh: 1187 
+A mediana eh: 1498 
+A mediana eh: 1348 
+A mediana eh: 1433 
+A mediana eh: 1459 
+A mediana eh: 1446 
+A mediana eh: 1443 
+A mediana eh: 1445 
+A mediana eh: 1446 
+A mediana eh: 1446 
+A mediana eh: 1446 
+A mediana eh: 1446 
+1446
+A mediana eh: 10002 
+A mediana eh: 6140 
+A mediana eh: 3942 
+A mediana eh: 2601 
+A mediana eh: 1759 
+A mediana eh: 1176 
+A mediana eh: 1489 
+A mediana eh: 1342 
+A mediana eh: 1426 
+A mediana eh: 1452 
+A mediana eh: 1444 
+A mediana eh: 1448 
+A mediana eh: 1446 
+A mediana eh: 1445 
+A mediana eh: 1446 
+A mediana eh: 1446 
+A mediana eh: 1446 
+A mediana eh: 1446 
+1446
+A mediana eh: 10007 
+A mediana eh: 6378 
+A mediana eh: 4144 
+A mediana eh: 2724 
+A mediana eh: 1781 
+A mediana eh: 1216 
+A mediana eh: 1503 
+A mediana eh: 1355 
+A mediana eh: 1289 
+A mediana eh: 1327 
+A mediana eh: 1339 
+A mediana eh: 1346 
+A mediana eh: 1352 
+A mediana eh: 1354 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10007 
+A mediana eh: 6374 
+A mediana eh: 4135 
+A mediana eh: 2712 
+A mediana eh: 1773 
+A mediana eh: 1206 
+A mediana eh: 1492 
+A mediana eh: 1345 
+A mediana eh: 1427 
+A mediana eh: 1386 
+A mediana eh: 1366 
+A mediana eh: 1356 
+A mediana eh: 1352 
+A mediana eh: 1355 
+A mediana eh: 1354 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10007 
+A mediana eh: 6373 
+A mediana eh: 4134 
+A mediana eh: 2710 
+A mediana eh: 1769 
+A mediana eh: 1201 
+A mediana eh: 1487 
+A mediana eh: 1342 
+A mediana eh: 1422 
+A mediana eh: 1380 
+A mediana eh: 1360 
+A mediana eh: 1351 
+A mediana eh: 1356 
+A mediana eh: 1354 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10007 
+A mediana eh: 6376 
+A mediana eh: 4140 
+A mediana eh: 2714 
+A mediana eh: 1773 
+A mediana eh: 1203 
+A mediana eh: 1491 
+A mediana eh: 1344 
+A mediana eh: 1425 
+A mediana eh: 1384 
+A mediana eh: 1364 
+A mediana eh: 1355 
+A mediana eh: 1349 
+A mediana eh: 1353 
+A mediana eh: 1354 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10007 
+A mediana eh: 6376 
+A mediana eh: 4140 
+A mediana eh: 2718 
+A mediana eh: 1775 
+A mediana eh: 1206 
+A mediana eh: 1492 
+A mediana eh: 1345 
+A mediana eh: 1427 
+A mediana eh: 1386 
+A mediana eh: 1366 
+A mediana eh: 1356 
+A mediana eh: 1352 
+A mediana eh: 1355 
+A mediana eh: 1354 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10008 
+A mediana eh: 6379 
+A mediana eh: 4143 
+A mediana eh: 2723 
+A mediana eh: 1778 
+A mediana eh: 1210 
+A mediana eh: 1497 
+A mediana eh: 1347 
+A mediana eh: 1432 
+A mediana eh: 1391 
+A mediana eh: 1368 
+A mediana eh: 1358 
+A mediana eh: 1354 
+A mediana eh: 1357 
+A mediana eh: 1356 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10008 
+A mediana eh: 6377 
+A mediana eh: 4145 
+A mediana eh: 2726 
+A mediana eh: 1779 
+A mediana eh: 1212 
+A mediana eh: 1499 
+A mediana eh: 1349 
+A mediana eh: 1433 
+A mediana eh: 1393 
+A mediana eh: 1369 
+A mediana eh: 1359 
+A mediana eh: 1355 
+A mediana eh: 1353 
+A mediana eh: 1354 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10007 
+A mediana eh: 6382 
+A mediana eh: 4151 
+A mediana eh: 2730 
+A mediana eh: 1781 
+A mediana eh: 1215 
+A mediana eh: 1501 
+A mediana eh: 1352 
+A mediana eh: 1435 
+A mediana eh: 1395 
+A mediana eh: 1371 
+A mediana eh: 1361 
+A mediana eh: 1357 
+A mediana eh: 1355 
+A mediana eh: 1354 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10006 
+A mediana eh: 6378 
+A mediana eh: 4144 
+A mediana eh: 2726 
+A mediana eh: 1781 
+A mediana eh: 1216 
+A mediana eh: 1502 
+A mediana eh: 1354 
+A mediana eh: 1436 
+A mediana eh: 1396 
+A mediana eh: 1374 
+A mediana eh: 1364 
+A mediana eh: 1358 
+A mediana eh: 1357 
+A mediana eh: 1356 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10006 
+A mediana eh: 6379 
+A mediana eh: 4143 
+A mediana eh: 2727 
+A mediana eh: 1782 
+A mediana eh: 1216 
+A mediana eh: 1503 
+A mediana eh: 1354 
+A mediana eh: 1437 
+A mediana eh: 1397 
+A mediana eh: 1374 
+A mediana eh: 1364 
+A mediana eh: 1358 
+A mediana eh: 1357 
+A mediana eh: 1356 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10007 
+A mediana eh: 6383 
+A mediana eh: 4148 
+A mediana eh: 2731 
+A mediana eh: 1784 
+A mediana eh: 1217 
+A mediana eh: 1504 
+A mediana eh: 1355 
+A mediana eh: 1290 
+A mediana eh: 1328 
+A mediana eh: 1339 
+A mediana eh: 1346 
+A mediana eh: 1352 
+A mediana eh: 1354 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10007 
+A mediana eh: 6384 
+A mediana eh: 4152 
+A mediana eh: 2737 
+A mediana eh: 1787 
+A mediana eh: 1220 
+A mediana eh: 1509 
+A mediana eh: 1357 
+A mediana eh: 1292 
+A mediana eh: 1330 
+A mediana eh: 1341 
+A mediana eh: 1347 
+A mediana eh: 1354 
+A mediana eh: 1356 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10007 
+A mediana eh: 6387 
+A mediana eh: 4157 
+A mediana eh: 2741 
+A mediana eh: 1788 
+A mediana eh: 1221 
+A mediana eh: 1512 
+A mediana eh: 1360 
+A mediana eh: 1295 
+A mediana eh: 1333 
+A mediana eh: 1343 
+A mediana eh: 1353 
+A mediana eh: 1357 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10007 
+A mediana eh: 6385 
+A mediana eh: 4155 
+A mediana eh: 2737 
+A mediana eh: 1786 
+A mediana eh: 1218 
+A mediana eh: 1506 
+A mediana eh: 1357 
+A mediana eh: 1291 
+A mediana eh: 1329 
+A mediana eh: 1340 
+A mediana eh: 1347 
+A mediana eh: 1354 
+A mediana eh: 1356 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+A mediana eh: 1355 
+1355
+A mediana eh: 10014 
+A mediana eh: 6302 
+A mediana eh: 4076 
+A mediana eh: 2710 
+A mediana eh: 1812 
+A mediana eh: 1224 
+A mediana eh: 1551 
+A mediana eh: 1390 
+A mediana eh: 1313 
+A mediana eh: 1348 
+A mediana eh: 1372 
+A mediana eh: 1382 
+A mediana eh: 1376 
+A mediana eh: 1380 
+A mediana eh: 1378 
+A mediana eh: 1378 
+A mediana eh: 1377 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10014 
+A mediana eh: 6305 
+A mediana eh: 4080 
+A mediana eh: 2714 
+A mediana eh: 1815 
+A mediana eh: 1225 
+A mediana eh: 1553 
+A mediana eh: 1392 
+A mediana eh: 1316 
+A mediana eh: 1349 
+A mediana eh: 1373 
+A mediana eh: 1384 
+A mediana eh: 1379 
+A mediana eh: 1376 
+A mediana eh: 1378 
+A mediana eh: 1378 
+A mediana eh: 1377 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10014 
+A mediana eh: 6306 
+A mediana eh: 4081 
+A mediana eh: 2713 
+A mediana eh: 1814 
+A mediana eh: 1224 
+A mediana eh: 1552 
+A mediana eh: 1391 
+A mediana eh: 1314 
+A mediana eh: 1348 
+A mediana eh: 1372 
+A mediana eh: 1382 
+A mediana eh: 1376 
+A mediana eh: 1380 
+A mediana eh: 1378 
+A mediana eh: 1378 
+A mediana eh: 1377 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10015 
+A mediana eh: 6302 
+A mediana eh: 4077 
+A mediana eh: 2713 
+A mediana eh: 1813 
+A mediana eh: 1224 
+A mediana eh: 1551 
+A mediana eh: 1390 
+A mediana eh: 1314 
+A mediana eh: 1348 
+A mediana eh: 1372 
+A mediana eh: 1382 
+A mediana eh: 1376 
+A mediana eh: 1380 
+A mediana eh: 1378 
+A mediana eh: 1378 
+A mediana eh: 1377 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10015 
+A mediana eh: 6299 
+A mediana eh: 4080 
+A mediana eh: 2717 
+A mediana eh: 1816 
+A mediana eh: 1225 
+A mediana eh: 1553 
+A mediana eh: 1392 
+A mediana eh: 1316 
+A mediana eh: 1349 
+A mediana eh: 1373 
+A mediana eh: 1384 
+A mediana eh: 1380 
+A mediana eh: 1376 
+A mediana eh: 1378 
+A mediana eh: 1378 
+A mediana eh: 1377 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10014 
+A mediana eh: 6294 
+A mediana eh: 4076 
+A mediana eh: 2717 
+A mediana eh: 1816 
+A mediana eh: 1225 
+A mediana eh: 1553 
+A mediana eh: 1392 
+A mediana eh: 1316 
+A mediana eh: 1349 
+A mediana eh: 1373 
+A mediana eh: 1384 
+A mediana eh: 1379 
+A mediana eh: 1376 
+A mediana eh: 1378 
+A mediana eh: 1378 
+A mediana eh: 1377 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10015 
+A mediana eh: 6291 
+A mediana eh: 4076 
+A mediana eh: 2719 
+A mediana eh: 1818 
+A mediana eh: 1226 
+A mediana eh: 1555 
+A mediana eh: 1395 
+A mediana eh: 1318 
+A mediana eh: 1352 
+A mediana eh: 1375 
+A mediana eh: 1385 
+A mediana eh: 1382 
+A mediana eh: 1379 
+A mediana eh: 1377 
+A mediana eh: 1376 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10015 
+A mediana eh: 6285 
+A mediana eh: 4068 
+A mediana eh: 2713 
+A mediana eh: 1815 
+A mediana eh: 1226 
+A mediana eh: 1554 
+A mediana eh: 1394 
+A mediana eh: 1318 
+A mediana eh: 1352 
+A mediana eh: 1375 
+A mediana eh: 1385 
+A mediana eh: 1382 
+A mediana eh: 1379 
+A mediana eh: 1377 
+A mediana eh: 1376 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10015 
+A mediana eh: 6283 
+A mediana eh: 4071 
+A mediana eh: 2717 
+A mediana eh: 1819 
+A mediana eh: 1227 
+A mediana eh: 1556 
+A mediana eh: 1399 
+A mediana eh: 1323 
+A mediana eh: 1355 
+A mediana eh: 1380 
+A mediana eh: 1370 
+A mediana eh: 1375 
+A mediana eh: 1378 
+A mediana eh: 1376 
+A mediana eh: 1378 
+A mediana eh: 1377 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10016 
+A mediana eh: 6280 
+A mediana eh: 4068 
+A mediana eh: 2713 
+A mediana eh: 1815 
+A mediana eh: 1225 
+A mediana eh: 1553 
+A mediana eh: 1392 
+A mediana eh: 1317 
+A mediana eh: 1350 
+A mediana eh: 1374 
+A mediana eh: 1384 
+A mediana eh: 1380 
+A mediana eh: 1377 
+A mediana eh: 1376 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10016 
+A mediana eh: 6273 
+A mediana eh: 4060 
+A mediana eh: 2705 
+A mediana eh: 1807 
+A mediana eh: 1223 
+A mediana eh: 1545 
+A mediana eh: 1387 
+A mediana eh: 1312 
+A mediana eh: 1346 
+A mediana eh: 1367 
+A mediana eh: 1378 
+A mediana eh: 1374 
+A mediana eh: 1376 
+A mediana eh: 1378 
+A mediana eh: 1377 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10016 
+A mediana eh: 6274 
+A mediana eh: 4060 
+A mediana eh: 2705 
+A mediana eh: 1809 
+A mediana eh: 1223 
+A mediana eh: 1545 
+A mediana eh: 1387 
+A mediana eh: 1312 
+A mediana eh: 1346 
+A mediana eh: 1367 
+A mediana eh: 1378 
+A mediana eh: 1374 
+A mediana eh: 1376 
+A mediana eh: 1378 
+A mediana eh: 1377 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10016 
+A mediana eh: 6268 
+A mediana eh: 4055 
+A mediana eh: 2705 
+A mediana eh: 1810 
+A mediana eh: 1223 
+A mediana eh: 1547 
+A mediana eh: 1388 
+A mediana eh: 1312 
+A mediana eh: 1347 
+A mediana eh: 1368 
+A mediana eh: 1380 
+A mediana eh: 1374 
+A mediana eh: 1377 
+A mediana eh: 1376 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 10015 
+A mediana eh: 6270 
+A mediana eh: 4057 
+A mediana eh: 2708 
+A mediana eh: 1813 
+A mediana eh: 1224 
+A mediana eh: 1551 
+A mediana eh: 1390 
+A mediana eh: 1315 
+A mediana eh: 1348 
+A mediana eh: 1372 
+A mediana eh: 1382 
+A mediana eh: 1376 
+A mediana eh: 1380 
+A mediana eh: 1379 
+A mediana eh: 1378 
+A mediana eh: 1378 
+A mediana eh: 1377 
+A mediana eh: 1377 
+A mediana eh: 1377 
+1377
+A mediana eh: 9988 
+A mediana eh: 6349 
+A mediana eh: 4208 
+A mediana eh: 2794 
+A mediana eh: 1899 
+A mediana eh: 1310 
+A mediana eh: 1635 
+A mediana eh: 1473 
+A mediana eh: 1392 
+A mediana eh: 1442 
+A mediana eh: 1418 
+A mediana eh: 1430 
+A mediana eh: 1423 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+1420
+A mediana eh: 9988 
+A mediana eh: 6347 
+A mediana eh: 4206 
+A mediana eh: 2793 
+A mediana eh: 1899 
+A mediana eh: 1310 
+A mediana eh: 1635 
+A mediana eh: 1473 
+A mediana eh: 1392 
+A mediana eh: 1442 
+A mediana eh: 1418 
+A mediana eh: 1430 
+A mediana eh: 1423 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1419 
+A mediana eh: 1420 
+1420
+A mediana eh: 9986 
+A mediana eh: 6346 
+A mediana eh: 4204 
+A mediana eh: 2791 
+A mediana eh: 1896 
+A mediana eh: 1308 
+A mediana eh: 1631 
+A mediana eh: 1472 
+A mediana eh: 1391 
+A mediana eh: 1440 
+A mediana eh: 1417 
+A mediana eh: 1428 
+A mediana eh: 1421 
+A mediana eh: 1420 
+A mediana eh: 1419 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+1420
+A mediana eh: 9986 
+A mediana eh: 6345 
+A mediana eh: 4202 
+A mediana eh: 2787 
+A mediana eh: 1894 
+A mediana eh: 1303 
+A mediana eh: 1627 
+A mediana eh: 1467 
+A mediana eh: 1386 
+A mediana eh: 1434 
+A mediana eh: 1411 
+A mediana eh: 1422 
+A mediana eh: 1418 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+1420
+A mediana eh: 9989 
+A mediana eh: 6352 
+A mediana eh: 4207 
+A mediana eh: 2791 
+A mediana eh: 1895 
+A mediana eh: 1304 
+A mediana eh: 1629 
+A mediana eh: 1469 
+A mediana eh: 1388 
+A mediana eh: 1437 
+A mediana eh: 1413 
+A mediana eh: 1426 
+A mediana eh: 1420 
+A mediana eh: 1418 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+1420
+A mediana eh: 9991 
+A mediana eh: 6354 
+A mediana eh: 4208 
+A mediana eh: 2794 
+A mediana eh: 1898 
+A mediana eh: 1308 
+A mediana eh: 1634 
+A mediana eh: 1472 
+A mediana eh: 1391 
+A mediana eh: 1441 
+A mediana eh: 1417 
+A mediana eh: 1428 
+A mediana eh: 1421 
+A mediana eh: 1420 
+A mediana eh: 1419 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+1420
+A mediana eh: 9991 
+A mediana eh: 6358 
+A mediana eh: 4212 
+A mediana eh: 2797 
+A mediana eh: 1900 
+A mediana eh: 1310 
+A mediana eh: 1637 
+A mediana eh: 1474 
+A mediana eh: 1393 
+A mediana eh: 1443 
+A mediana eh: 1420 
+A mediana eh: 1407 
+A mediana eh: 1416 
+A mediana eh: 1419 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+1420
+A mediana eh: 9991 
+A mediana eh: 6355 
+A mediana eh: 4209 
+A mediana eh: 2793 
+A mediana eh: 1897 
+A mediana eh: 1305 
+A mediana eh: 1630 
+A mediana eh: 1469 
+A mediana eh: 1388 
+A mediana eh: 1436 
+A mediana eh: 1412 
+A mediana eh: 1423 
+A mediana eh: 1419 
+A mediana eh: 1421 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+1420
+A mediana eh: 9993 
+A mediana eh: 6353 
+A mediana eh: 4205 
+A mediana eh: 2792 
+A mediana eh: 1896 
+A mediana eh: 1305 
+A mediana eh: 1629 
+A mediana eh: 1469 
+A mediana eh: 1388 
+A mediana eh: 1436 
+A mediana eh: 1412 
+A mediana eh: 1423 
+A mediana eh: 1419 
+A mediana eh: 1421 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+1420
+A mediana eh: 9993 
+A mediana eh: 6348 
+A mediana eh: 4200 
+A mediana eh: 2787 
+A mediana eh: 1893 
+A mediana eh: 1301 
+A mediana eh: 1625 
+A mediana eh: 1465 
+A mediana eh: 1384 
+A mediana eh: 1432 
+A mediana eh: 1407 
+A mediana eh: 1420 
+A mediana eh: 1416 
+A mediana eh: 1419 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+1420
+A mediana eh: 9991 
+A mediana eh: 6347 
+A mediana eh: 4203 
+A mediana eh: 2789 
+A mediana eh: 1894 
+A mediana eh: 1301 
+A mediana eh: 1625 
+A mediana eh: 1465 
+A mediana eh: 1384 
+A mediana eh: 1432 
+A mediana eh: 1407 
+A mediana eh: 1420 
+A mediana eh: 1416 
+A mediana eh: 1419 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+1420
+A mediana eh: 9993 
+A mediana eh: 6354 
+A mediana eh: 4208 
+A mediana eh: 2792 
+A mediana eh: 1895 
+A mediana eh: 1302 
+A mediana eh: 1627 
+A mediana eh: 1466 
+A mediana eh: 1386 
+A mediana eh: 1433 
+A mediana eh: 1409 
+A mediana eh: 1421 
+A mediana eh: 1417 
+A mediana eh: 1420 
+A mediana eh: 1419 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+A mediana eh: 1420 
+1420
+A mediana eh: 10007 
+A mediana eh: 6201 
+A mediana eh: 4006 
+A mediana eh: 2670 
+A mediana eh: 1819 
+A mediana eh: 1245 
+A mediana eh: 1560 
+A mediana eh: 1418 
+A mediana eh: 1484 
+A mediana eh: 1528 
+A mediana eh: 1505 
+A mediana eh: 1495 
+A mediana eh: 1500 
+A mediana eh: 1499 
+A mediana eh: 1498 
+A mediana eh: 1497 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+1498
+A mediana eh: 10007 
+A mediana eh: 6207 
+A mediana eh: 4010 
+A mediana eh: 2673 
+A mediana eh: 1822 
+A mediana eh: 1248 
+A mediana eh: 1562 
+A mediana eh: 1420 
+A mediana eh: 1488 
+A mediana eh: 1530 
+A mediana eh: 1508 
+A mediana eh: 1499 
+A mediana eh: 1494 
+A mediana eh: 1498 
+A mediana eh: 1497 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+1498
+A mediana eh: 10007 
+A mediana eh: 6204 
+A mediana eh: 4007 
+A mediana eh: 2670 
+A mediana eh: 1819 
+A mediana eh: 1247 
+A mediana eh: 1560 
+A mediana eh: 1418 
+A mediana eh: 1484 
+A mediana eh: 1528 
+A mediana eh: 1505 
+A mediana eh: 1495 
+A mediana eh: 1500 
+A mediana eh: 1499 
+A mediana eh: 1498 
+A mediana eh: 1497 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+1498
+A mediana eh: 10006 
+A mediana eh: 6203 
+A mediana eh: 4009 
+A mediana eh: 2673 
+A mediana eh: 1821 
+A mediana eh: 1249 
+A mediana eh: 1561 
+A mediana eh: 1420 
+A mediana eh: 1487 
+A mediana eh: 1529 
+A mediana eh: 1506 
+A mediana eh: 1498 
+A mediana eh: 1492 
+A mediana eh: 1495 
+A mediana eh: 1497 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+1498
+A mediana eh: 10005 
+A mediana eh: 6204 
+A mediana eh: 4008 
+A mediana eh: 2670 
+A mediana eh: 1818 
+A mediana eh: 1245 
+A mediana eh: 1559 
+A mediana eh: 1417 
+A mediana eh: 1483 
+A mediana eh: 1527 
+A mediana eh: 1504 
+A mediana eh: 1494 
+A mediana eh: 1500 
+A mediana eh: 1498 
+A mediana eh: 1497 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+1498
+A mediana eh: 10007 
+A mediana eh: 6206 
+A mediana eh: 4008 
+A mediana eh: 2669 
+A mediana eh: 1816 
+A mediana eh: 1242 
+A mediana eh: 1557 
+A mediana eh: 1414 
+A mediana eh: 1481 
+A mediana eh: 1525 
+A mediana eh: 1502 
+A mediana eh: 1492 
+A mediana eh: 1498 
+A mediana eh: 1495 
+A mediana eh: 1497 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+1498
+A mediana eh: 10007 
+A mediana eh: 6205 
+A mediana eh: 4010 
+A mediana eh: 2671 
+A mediana eh: 1819 
+A mediana eh: 1244 
+A mediana eh: 1559 
+A mediana eh: 1417 
+A mediana eh: 1483 
+A mediana eh: 1527 
+A mediana eh: 1504 
+A mediana eh: 1494 
+A mediana eh: 1500 
+A mediana eh: 1498 
+A mediana eh: 1497 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+1498
+A mediana eh: 10007 
+A mediana eh: 6212 
+A mediana eh: 4017 
+A mediana eh: 2675 
+A mediana eh: 1822 
+A mediana eh: 1247 
+A mediana eh: 1561 
+A mediana eh: 1419 
+A mediana eh: 1486 
+A mediana eh: 1529 
+A mediana eh: 1506 
+A mediana eh: 1497 
+A mediana eh: 1502 
+A mediana eh: 1499 
+A mediana eh: 1499 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+1498
+A mediana eh: 10007 
+A mediana eh: 6206 
+A mediana eh: 4009 
+A mediana eh: 2669 
+A mediana eh: 1816 
+A mediana eh: 1242 
+A mediana eh: 1557 
+A mediana eh: 1414 
+A mediana eh: 1481 
+A mediana eh: 1525 
+A mediana eh: 1502 
+A mediana eh: 1492 
+A mediana eh: 1498 
+A mediana eh: 1495 
+A mediana eh: 1497 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+1498
+A mediana eh: 10007 
+A mediana eh: 6207 
+A mediana eh: 4009 
+A mediana eh: 2668 
+A mediana eh: 1813 
+A mediana eh: 1240 
+A mediana eh: 1556 
+A mediana eh: 1411 
+A mediana eh: 1479 
+A mediana eh: 1522 
+A mediana eh: 1499 
+A mediana eh: 1489 
+A mediana eh: 1494 
+A mediana eh: 1498 
+A mediana eh: 1497 
+A mediana eh: 1498 
+A mediana eh: 1498 
+A mediana eh: 1498 
+1498
+A mediana eh: 10013 
+A mediana eh: 6294 
+A mediana eh: 4089 
+A mediana eh: 2707 
+A mediana eh: 1822 
+A mediana eh: 1235 
+A mediana eh: 1556 
+A mediana eh: 1403 
+A mediana eh: 1475 
+A mediana eh: 1444 
+A mediana eh: 1424 
+A mediana eh: 1436 
+A mediana eh: 1442 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10013 
+A mediana eh: 6296 
+A mediana eh: 4095 
+A mediana eh: 2711 
+A mediana eh: 1827 
+A mediana eh: 1238 
+A mediana eh: 1559 
+A mediana eh: 1408 
+A mediana eh: 1480 
+A mediana eh: 1446 
+A mediana eh: 1431 
+A mediana eh: 1442 
+A mediana eh: 1445 
+A mediana eh: 1444 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10013 
+A mediana eh: 6292 
+A mediana eh: 4092 
+A mediana eh: 2710 
+A mediana eh: 1827 
+A mediana eh: 1238 
+A mediana eh: 1559 
+A mediana eh: 1407 
+A mediana eh: 1480 
+A mediana eh: 1446 
+A mediana eh: 1430 
+A mediana eh: 1440 
+A mediana eh: 1444 
+A mediana eh: 1443 
+A mediana eh: 1442 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10012 
+A mediana eh: 6288 
+A mediana eh: 4087 
+A mediana eh: 2707 
+A mediana eh: 1821 
+A mediana eh: 1234 
+A mediana eh: 1556 
+A mediana eh: 1402 
+A mediana eh: 1475 
+A mediana eh: 1444 
+A mediana eh: 1423 
+A mediana eh: 1435 
+A mediana eh: 1441 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10011 
+A mediana eh: 6288 
+A mediana eh: 4091 
+A mediana eh: 2709 
+A mediana eh: 1825 
+A mediana eh: 1236 
+A mediana eh: 1557 
+A mediana eh: 1403 
+A mediana eh: 1476 
+A mediana eh: 1444 
+A mediana eh: 1424 
+A mediana eh: 1436 
+A mediana eh: 1442 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10011 
+A mediana eh: 6284 
+A mediana eh: 4089 
+A mediana eh: 2709 
+A mediana eh: 1826 
+A mediana eh: 1236 
+A mediana eh: 1557 
+A mediana eh: 1403 
+A mediana eh: 1476 
+A mediana eh: 1444 
+A mediana eh: 1424 
+A mediana eh: 1436 
+A mediana eh: 1442 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10011 
+A mediana eh: 6279 
+A mediana eh: 4083 
+A mediana eh: 2707 
+A mediana eh: 1825 
+A mediana eh: 1236 
+A mediana eh: 1557 
+A mediana eh: 1403 
+A mediana eh: 1477 
+A mediana eh: 1445 
+A mediana eh: 1426 
+A mediana eh: 1438 
+A mediana eh: 1443 
+A mediana eh: 1442 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10011 
+A mediana eh: 6280 
+A mediana eh: 4082 
+A mediana eh: 2706 
+A mediana eh: 1825 
+A mediana eh: 1236 
+A mediana eh: 1557 
+A mediana eh: 1403 
+A mediana eh: 1477 
+A mediana eh: 1445 
+A mediana eh: 1426 
+A mediana eh: 1438 
+A mediana eh: 1443 
+A mediana eh: 1442 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10012 
+A mediana eh: 6279 
+A mediana eh: 4082 
+A mediana eh: 2705 
+A mediana eh: 1825 
+A mediana eh: 1237 
+A mediana eh: 1557 
+A mediana eh: 1403 
+A mediana eh: 1476 
+A mediana eh: 1445 
+A mediana eh: 1426 
+A mediana eh: 1438 
+A mediana eh: 1443 
+A mediana eh: 1442 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10012 
+A mediana eh: 6278 
+A mediana eh: 4084 
+A mediana eh: 2707 
+A mediana eh: 1827 
+A mediana eh: 1238 
+A mediana eh: 1558 
+A mediana eh: 1405 
+A mediana eh: 1478 
+A mediana eh: 1445 
+A mediana eh: 1427 
+A mediana eh: 1439 
+A mediana eh: 1443 
+A mediana eh: 1442 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10011 
+A mediana eh: 6279 
+A mediana eh: 4089 
+A mediana eh: 2710 
+A mediana eh: 1829 
+A mediana eh: 1239 
+A mediana eh: 1559 
+A mediana eh: 1407 
+A mediana eh: 1479 
+A mediana eh: 1446 
+A mediana eh: 1430 
+A mediana eh: 1440 
+A mediana eh: 1444 
+A mediana eh: 1443 
+A mediana eh: 1442 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10011 
+A mediana eh: 6274 
+A mediana eh: 4082 
+A mediana eh: 2705 
+A mediana eh: 1826 
+A mediana eh: 1236 
+A mediana eh: 1557 
+A mediana eh: 1403 
+A mediana eh: 1476 
+A mediana eh: 1444 
+A mediana eh: 1424 
+A mediana eh: 1435 
+A mediana eh: 1441 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+A mediana eh: 1443 
+1443
+A mediana eh: 10006 
+A mediana eh: 6118 
+A mediana eh: 3899 
+A mediana eh: 2611 
+A mediana eh: 1732 
+A mediana eh: 1165 
+A mediana eh: 1466 
+A mediana eh: 1332 
+A mediana eh: 1405 
+A mediana eh: 1363 
+A mediana eh: 1382 
+A mediana eh: 1395 
+A mediana eh: 1388 
+A mediana eh: 1393 
+A mediana eh: 1392 
+A mediana eh: 1391 
+A mediana eh: 1392 
+A mediana eh: 1392 
+A mediana eh: 1392 
+1392
+A mediana eh: 10007 
+A mediana eh: 6124 
+A mediana eh: 3906 
+A mediana eh: 2618 
+A mediana eh: 1736 
+A mediana eh: 1167 
+A mediana eh: 1470 
+A mediana eh: 1333 
+A mediana eh: 1408 
+A mediana eh: 1367 
+A mediana eh: 1385 
+A mediana eh: 1398 
+A mediana eh: 1393 
+A mediana eh: 1389 
+A mediana eh: 1392 
+A mediana eh: 1391 
+A mediana eh: 1392 
+A mediana eh: 1392 
+A mediana eh: 1392 
+1392
+A mediana eh: 10007 
+A mediana eh: 6132 
+A mediana eh: 3911 
+A mediana eh: 2622 
+A mediana eh: 1740 
+A mediana eh: 1170 
+A mediana eh: 1475 
+A mediana eh: 1334 
+A mediana eh: 1412 
+A mediana eh: 1371 
+A mediana eh: 1349 
+A mediana eh: 1340 
+A mediana eh: 1337 
+A mediana eh: 1336 
+A mediana eh: 1335 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+1336
+A mediana eh: 10007 
+A mediana eh: 6129 
+A mediana eh: 3909 
+A mediana eh: 2620 
+A mediana eh: 1739 
+A mediana eh: 1170 
+A mediana eh: 1473 
+A mediana eh: 1334 
+A mediana eh: 1411 
+A mediana eh: 1370 
+A mediana eh: 1349 
+A mediana eh: 1340 
+A mediana eh: 1337 
+A mediana eh: 1336 
+A mediana eh: 1335 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+1336
+A mediana eh: 10007 
+A mediana eh: 6125 
+A mediana eh: 3906 
+A mediana eh: 2615 
+A mediana eh: 1736 
+A mediana eh: 1168 
+A mediana eh: 1471 
+A mediana eh: 1334 
+A mediana eh: 1410 
+A mediana eh: 1370 
+A mediana eh: 1348 
+A mediana eh: 1339 
+A mediana eh: 1336 
+A mediana eh: 1335 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+1336
+A mediana eh: 10008 
+A mediana eh: 6128 
+A mediana eh: 3907 
+A mediana eh: 2617 
+A mediana eh: 1738 
+A mediana eh: 1170 
+A mediana eh: 1473 
+A mediana eh: 1334 
+A mediana eh: 1411 
+A mediana eh: 1371 
+A mediana eh: 1349 
+A mediana eh: 1339 
+A mediana eh: 1336 
+A mediana eh: 1335 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+1336
+A mediana eh: 10007 
+A mediana eh: 6128 
+A mediana eh: 3907 
+A mediana eh: 2618 
+A mediana eh: 1739 
+A mediana eh: 1172 
+A mediana eh: 1474 
+A mediana eh: 1335 
+A mediana eh: 1413 
+A mediana eh: 1373 
+A mediana eh: 1351 
+A mediana eh: 1343 
+A mediana eh: 1338 
+A mediana eh: 1337 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+1336
+A mediana eh: 10007 
+A mediana eh: 6124 
+A mediana eh: 3905 
+A mediana eh: 2614 
+A mediana eh: 1737 
+A mediana eh: 1169 
+A mediana eh: 1471 
+A mediana eh: 1334 
+A mediana eh: 1410 
+A mediana eh: 1370 
+A mediana eh: 1349 
+A mediana eh: 1340 
+A mediana eh: 1337 
+A mediana eh: 1336 
+A mediana eh: 1335 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+1336
+A mediana eh: 10008 
+A mediana eh: 6129 
+A mediana eh: 3909 
+A mediana eh: 2620 
+A mediana eh: 1741 
+A mediana eh: 1172 
+A mediana eh: 1476 
+A mediana eh: 1335 
+A mediana eh: 1415 
+A mediana eh: 1374 
+A mediana eh: 1351 
+A mediana eh: 1343 
+A mediana eh: 1338 
+A mediana eh: 1337 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+1336
+A mediana eh: 10008 
+A mediana eh: 6133 
+A mediana eh: 3913 
+A mediana eh: 2622 
+A mediana eh: 1742 
+A mediana eh: 1174 
+A mediana eh: 1477 
+A mediana eh: 1335 
+A mediana eh: 1416 
+A mediana eh: 1375 
+A mediana eh: 1352 
+A mediana eh: 1344 
+A mediana eh: 1338 
+A mediana eh: 1337 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+1336
+A mediana eh: 10008 
+A mediana eh: 6130 
+A mediana eh: 3911 
+A mediana eh: 2620 
+A mediana eh: 1739 
+A mediana eh: 1169 
+A mediana eh: 1473 
+A mediana eh: 1334 
+A mediana eh: 1411 
+A mediana eh: 1371 
+A mediana eh: 1349 
+A mediana eh: 1340 
+A mediana eh: 1337 
+A mediana eh: 1336 
+A mediana eh: 1335 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+A mediana eh: 1336 
+1336
+A mediana eh: 10008 
+A mediana eh: 6143 
+A mediana eh: 3986 
+A mediana eh: 2632 
+A mediana eh: 1749 
+A mediana eh: 1175 
+A mediana eh: 1477 
+A mediana eh: 1617 
+A mediana eh: 1556 
+A mediana eh: 1517 
+A mediana eh: 1499 
+A mediana eh: 1509 
+A mediana eh: 1504 
+A mediana eh: 1502 
+A mediana eh: 1503 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10007 
+A mediana eh: 6137 
+A mediana eh: 3979 
+A mediana eh: 2624 
+A mediana eh: 1743 
+A mediana eh: 1168 
+A mediana eh: 1470 
+A mediana eh: 1611 
+A mediana eh: 1550 
+A mediana eh: 1510 
+A mediana eh: 1491 
+A mediana eh: 1501 
+A mediana eh: 1505 
+A mediana eh: 1503 
+A mediana eh: 1505 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10007 
+A mediana eh: 6132 
+A mediana eh: 3974 
+A mediana eh: 2621 
+A mediana eh: 1743 
+A mediana eh: 1168 
+A mediana eh: 1471 
+A mediana eh: 1612 
+A mediana eh: 1552 
+A mediana eh: 1511 
+A mediana eh: 1492 
+A mediana eh: 1502 
+A mediana eh: 1507 
+A mediana eh: 1505 
+A mediana eh: 1504 
+A mediana eh: 1503 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10007 
+A mediana eh: 6129 
+A mediana eh: 3973 
+A mediana eh: 2621 
+A mediana eh: 1744 
+A mediana eh: 1170 
+A mediana eh: 1471 
+A mediana eh: 1613 
+A mediana eh: 1552 
+A mediana eh: 1511 
+A mediana eh: 1492 
+A mediana eh: 1502 
+A mediana eh: 1507 
+A mediana eh: 1505 
+A mediana eh: 1504 
+A mediana eh: 1503 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10007 
+A mediana eh: 6128 
+A mediana eh: 3972 
+A mediana eh: 2620 
+A mediana eh: 1746 
+A mediana eh: 1171 
+A mediana eh: 1473 
+A mediana eh: 1614 
+A mediana eh: 1553 
+A mediana eh: 1513 
+A mediana eh: 1494 
+A mediana eh: 1504 
+A mediana eh: 1500 
+A mediana eh: 1502 
+A mediana eh: 1503 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10006 
+A mediana eh: 6124 
+A mediana eh: 3970 
+A mediana eh: 2619 
+A mediana eh: 1747 
+A mediana eh: 1173 
+A mediana eh: 1474 
+A mediana eh: 1615 
+A mediana eh: 1554 
+A mediana eh: 1513 
+A mediana eh: 1494 
+A mediana eh: 1504 
+A mediana eh: 1500 
+A mediana eh: 1502 
+A mediana eh: 1503 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10006 
+A mediana eh: 6132 
+A mediana eh: 3975 
+A mediana eh: 2622 
+A mediana eh: 1749 
+A mediana eh: 1175 
+A mediana eh: 1477 
+A mediana eh: 1617 
+A mediana eh: 1556 
+A mediana eh: 1517 
+A mediana eh: 1499 
+A mediana eh: 1509 
+A mediana eh: 1504 
+A mediana eh: 1502 
+A mediana eh: 1503 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10007 
+A mediana eh: 6135 
+A mediana eh: 3980 
+A mediana eh: 2626 
+A mediana eh: 1751 
+A mediana eh: 1176 
+A mediana eh: 1477 
+A mediana eh: 1619 
+A mediana eh: 1556 
+A mediana eh: 1517 
+A mediana eh: 1499 
+A mediana eh: 1509 
+A mediana eh: 1504 
+A mediana eh: 1502 
+A mediana eh: 1503 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10007 
+A mediana eh: 6136 
+A mediana eh: 3981 
+A mediana eh: 2631 
+A mediana eh: 1756 
+A mediana eh: 1180 
+A mediana eh: 1482 
+A mediana eh: 1625 
+A mediana eh: 1557 
+A mediana eh: 1522 
+A mediana eh: 1502 
+A mediana eh: 1512 
+A mediana eh: 1508 
+A mediana eh: 1505 
+A mediana eh: 1504 
+A mediana eh: 1503 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10007 
+A mediana eh: 6132 
+A mediana eh: 3977 
+A mediana eh: 2626 
+A mediana eh: 1753 
+A mediana eh: 1180 
+A mediana eh: 1481 
+A mediana eh: 1622 
+A mediana eh: 1557 
+A mediana eh: 1521 
+A mediana eh: 1502 
+A mediana eh: 1512 
+A mediana eh: 1508 
+A mediana eh: 1505 
+A mediana eh: 1504 
+A mediana eh: 1503 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10007 
+A mediana eh: 6136 
+A mediana eh: 3981 
+A mediana eh: 2631 
+A mediana eh: 1757 
+A mediana eh: 1182 
+A mediana eh: 1483 
+A mediana eh: 1626 
+A mediana eh: 1557 
+A mediana eh: 1523 
+A mediana eh: 1503 
+A mediana eh: 1513 
+A mediana eh: 1509 
+A mediana eh: 1507 
+A mediana eh: 1505 
+A mediana eh: 1505 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10007 
+A mediana eh: 6136 
+A mediana eh: 3980 
+A mediana eh: 2629 
+A mediana eh: 1753 
+A mediana eh: 1178 
+A mediana eh: 1480 
+A mediana eh: 1622 
+A mediana eh: 1557 
+A mediana eh: 1520 
+A mediana eh: 1501 
+A mediana eh: 1512 
+A mediana eh: 1507 
+A mediana eh: 1504 
+A mediana eh: 1503 
+A mediana eh: 1504 
+A mediana eh: 1504 
+A mediana eh: 1504 
+1504
+A mediana eh: 10013 
+A mediana eh: 6167 
+A mediana eh: 3973 
+A mediana eh: 2614 
+A mediana eh: 1721 
+A mediana eh: 1150 
+A mediana eh: 1454 
+A mediana eh: 1589 
+A mediana eh: 1528 
+A mediana eh: 1490 
+A mediana eh: 1472 
+A mediana eh: 1464 
+A mediana eh: 1469 
+A mediana eh: 1467 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+1468
+A mediana eh: 10013 
+A mediana eh: 6172 
+A mediana eh: 3978 
+A mediana eh: 2617 
+A mediana eh: 1724 
+A mediana eh: 1153 
+A mediana eh: 1457 
+A mediana eh: 1593 
+A mediana eh: 1530 
+A mediana eh: 1492 
+A mediana eh: 1475 
+A mediana eh: 1466 
+A mediana eh: 1471 
+A mediana eh: 1469 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+1468
+A mediana eh: 10012 
+A mediana eh: 6178 
+A mediana eh: 3984 
+A mediana eh: 2622 
+A mediana eh: 1728 
+A mediana eh: 1155 
+A mediana eh: 1460 
+A mediana eh: 1597 
+A mediana eh: 1534 
+A mediana eh: 1497 
+A mediana eh: 1478 
+A mediana eh: 1469 
+A mediana eh: 1465 
+A mediana eh: 1467 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+1468
+A mediana eh: 10013 
+A mediana eh: 6173 
+A mediana eh: 3978 
+A mediana eh: 2617 
+A mediana eh: 1725 
+A mediana eh: 1155 
+A mediana eh: 1458 
+A mediana eh: 1594 
+A mediana eh: 1532 
+A mediana eh: 1494 
+A mediana eh: 1476 
+A mediana eh: 1468 
+A mediana eh: 1464 
+A mediana eh: 1466 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+1468
+A mediana eh: 10012 
+A mediana eh: 6173 
+A mediana eh: 3977 
+A mediana eh: 2617 
+A mediana eh: 1726 
+A mediana eh: 1155 
+A mediana eh: 1458 
+A mediana eh: 1595 
+A mediana eh: 1532 
+A mediana eh: 1494 
+A mediana eh: 1476 
+A mediana eh: 1468 
+A mediana eh: 1464 
+A mediana eh: 1466 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+1468
+A mediana eh: 10011 
+A mediana eh: 6180 
+A mediana eh: 3983 
+A mediana eh: 2622 
+A mediana eh: 1730 
+A mediana eh: 1157 
+A mediana eh: 1461 
+A mediana eh: 1597 
+A mediana eh: 1534 
+A mediana eh: 1497 
+A mediana eh: 1479 
+A mediana eh: 1470 
+A mediana eh: 1466 
+A mediana eh: 1469 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1467 
+A mediana eh: 1468 
+1468
+A mediana eh: 10011 
+A mediana eh: 6177 
+A mediana eh: 3983 
+A mediana eh: 2624 
+A mediana eh: 1732 
+A mediana eh: 1159 
+A mediana eh: 1463 
+A mediana eh: 1600 
+A mediana eh: 1537 
+A mediana eh: 1500 
+A mediana eh: 1481 
+A mediana eh: 1472 
+A mediana eh: 1468 
+A mediana eh: 1466 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+1468
+A mediana eh: 10011 
+A mediana eh: 6179 
+A mediana eh: 3982 
+A mediana eh: 2622 
+A mediana eh: 1731 
+A mediana eh: 1158 
+A mediana eh: 1462 
+A mediana eh: 1599 
+A mediana eh: 1536 
+A mediana eh: 1499 
+A mediana eh: 1480 
+A mediana eh: 1471 
+A mediana eh: 1467 
+A mediana eh: 1470 
+A mediana eh: 1469 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+1468
+A mediana eh: 10010 
+A mediana eh: 6185 
+A mediana eh: 3988 
+A mediana eh: 2627 
+A mediana eh: 1734 
+A mediana eh: 1161 
+A mediana eh: 1464 
+A mediana eh: 1601 
+A mediana eh: 1539 
+A mediana eh: 1501 
+A mediana eh: 1482 
+A mediana eh: 1473 
+A mediana eh: 1469 
+A mediana eh: 1467 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+1468
+A mediana eh: 10010 
+A mediana eh: 6186 
+A mediana eh: 3987 
+A mediana eh: 2625 
+A mediana eh: 1734 
+A mediana eh: 1163 
+A mediana eh: 1465 
+A mediana eh: 1602 
+A mediana eh: 1539 
+A mediana eh: 1502 
+A mediana eh: 1483 
+A mediana eh: 1475 
+A mediana eh: 1470 
+A mediana eh: 1468 
+A mediana eh: 1467 
+A mediana eh: 1468 
+A mediana eh: 1468 
+A mediana eh: 1468 
+1468
+A mediana eh: 9997 
+A mediana eh: 6357 
+A mediana eh: 4165 
+A mediana eh: 2746 
+A mediana eh: 1835 
+A mediana eh: 1234 
+A mediana eh: 827 
+A mediana eh: 1048 
+A mediana eh: 1142 
+A mediana eh: 1192 
+A mediana eh: 1168 
+A mediana eh: 1180 
+A mediana eh: 1175 
+A mediana eh: 1179 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+1180
+A mediana eh: 9998 
+A mediana eh: 6353 
+A mediana eh: 4158 
+A mediana eh: 2740 
+A mediana eh: 1833 
+A mediana eh: 1234 
+A mediana eh: 827 
+A mediana eh: 1049 
+A mediana eh: 1142 
+A mediana eh: 1193 
+A mediana eh: 1169 
+A mediana eh: 1180 
+A mediana eh: 1177 
+A mediana eh: 1179 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+1180
+A mediana eh: 9999 
+A mediana eh: 6357 
+A mediana eh: 4164 
+A mediana eh: 2743 
+A mediana eh: 1835 
+A mediana eh: 1235 
+A mediana eh: 828 
+A mediana eh: 1050 
+A mediana eh: 1143 
+A mediana eh: 1194 
+A mediana eh: 1170 
+A mediana eh: 1181 
+A mediana eh: 1178 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+1180
+A mediana eh: 10000 
+A mediana eh: 6355 
+A mediana eh: 4163 
+A mediana eh: 2742 
+A mediana eh: 1832 
+A mediana eh: 1233 
+A mediana eh: 827 
+A mediana eh: 1048 
+A mediana eh: 1142 
+A mediana eh: 1192 
+A mediana eh: 1168 
+A mediana eh: 1180 
+A mediana eh: 1175 
+A mediana eh: 1179 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+1180
+A mediana eh: 9999 
+A mediana eh: 6358 
+A mediana eh: 4166 
+A mediana eh: 2744 
+A mediana eh: 1834 
+A mediana eh: 1235 
+A mediana eh: 829 
+A mediana eh: 1050 
+A mediana eh: 1144 
+A mediana eh: 1194 
+A mediana eh: 1170 
+A mediana eh: 1181 
+A mediana eh: 1178 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+1180
+A mediana eh: 10000 
+A mediana eh: 6361 
+A mediana eh: 4169 
+A mediana eh: 2748 
+A mediana eh: 1836 
+A mediana eh: 1236 
+A mediana eh: 830 
+A mediana eh: 1051 
+A mediana eh: 1145 
+A mediana eh: 1195 
+A mediana eh: 1171 
+A mediana eh: 1182 
+A mediana eh: 1179 
+A mediana eh: 1181 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+1180
+A mediana eh: 10000 
+A mediana eh: 6358 
+A mediana eh: 4168 
+A mediana eh: 2749 
+A mediana eh: 1838 
+A mediana eh: 1238 
+A mediana eh: 832 
+A mediana eh: 1054 
+A mediana eh: 1147 
+A mediana eh: 1198 
+A mediana eh: 1174 
+A mediana eh: 1184 
+A mediana eh: 1180 
+A mediana eh: 1179 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+1180
+A mediana eh: 10001 
+A mediana eh: 6357 
+A mediana eh: 4170 
+A mediana eh: 2752 
+A mediana eh: 1841 
+A mediana eh: 1240 
+A mediana eh: 835 
+A mediana eh: 1057 
+A mediana eh: 1150 
+A mediana eh: 1200 
+A mediana eh: 1177 
+A mediana eh: 1187 
+A mediana eh: 1181 
+A mediana eh: 1180 
+A mediana eh: 1179 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+1180
+A mediana eh: 10001 
+A mediana eh: 6362 
+A mediana eh: 4175 
+A mediana eh: 2757 
+A mediana eh: 1844 
+A mediana eh: 1241 
+A mediana eh: 836 
+A mediana eh: 1058 
+A mediana eh: 1151 
+A mediana eh: 1201 
+A mediana eh: 1178 
+A mediana eh: 1187 
+A mediana eh: 1182 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1179 
+A mediana eh: 1180 
+1180
+A mediana eh: 10001 
+A mediana eh: 6359 
+A mediana eh: 4169 
+A mediana eh: 2752 
+A mediana eh: 1840 
+A mediana eh: 1239 
+A mediana eh: 832 
+A mediana eh: 1053 
+A mediana eh: 1147 
+A mediana eh: 1199 
+A mediana eh: 1174 
+A mediana eh: 1185 
+A mediana eh: 1180 
+A mediana eh: 1179 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+1180
+A mediana eh: 10001 
+A mediana eh: 6364 
+A mediana eh: 4173 
+A mediana eh: 2754 
+A mediana eh: 1842 
+A mediana eh: 1240 
+A mediana eh: 834 
+A mediana eh: 1055 
+A mediana eh: 1149 
+A mediana eh: 1200 
+A mediana eh: 1176 
+A mediana eh: 1186 
+A mediana eh: 1181 
+A mediana eh: 1180 
+A mediana eh: 1179 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+A mediana eh: 1180 
+1180
+A mediana eh: 10005 
+A mediana eh: 6353 
+A mediana eh: 4165 
+A mediana eh: 2767 
+A mediana eh: 1873 
+A mediana eh: 1235 
+A mediana eh: 1576 
+A mediana eh: 1419 
+A mediana eh: 1333 
+A mediana eh: 1286 
+A mediana eh: 1261 
+A mediana eh: 1272 
+A mediana eh: 1267 
+A mediana eh: 1269 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+1268
+A mediana eh: 10005 
+A mediana eh: 6350 
+A mediana eh: 4161 
+A mediana eh: 2764 
+A mediana eh: 1869 
+A mediana eh: 1232 
+A mediana eh: 1572 
+A mediana eh: 1416 
+A mediana eh: 1331 
+A mediana eh: 1281 
+A mediana eh: 1258 
+A mediana eh: 1269 
+A mediana eh: 1264 
+A mediana eh: 1267 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+1268
+A mediana eh: 10005 
+A mediana eh: 6348 
+A mediana eh: 4158 
+A mediana eh: 2761 
+A mediana eh: 1865 
+A mediana eh: 1230 
+A mediana eh: 1569 
+A mediana eh: 1414 
+A mediana eh: 1330 
+A mediana eh: 1280 
+A mediana eh: 1257 
+A mediana eh: 1268 
+A mediana eh: 1262 
+A mediana eh: 1266 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+1268
+A mediana eh: 10005 
+A mediana eh: 6347 
+A mediana eh: 4158 
+A mediana eh: 2761 
+A mediana eh: 1866 
+A mediana eh: 1230 
+A mediana eh: 1569 
+A mediana eh: 1414 
+A mediana eh: 1330 
+A mediana eh: 1279 
+A mediana eh: 1257 
+A mediana eh: 1268 
+A mediana eh: 1263 
+A mediana eh: 1267 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+1268
+A mediana eh: 10006 
+A mediana eh: 6345 
+A mediana eh: 4156 
+A mediana eh: 2759 
+A mediana eh: 1866 
+A mediana eh: 1230 
+A mediana eh: 1570 
+A mediana eh: 1414 
+A mediana eh: 1330 
+A mediana eh: 1279 
+A mediana eh: 1257 
+A mediana eh: 1268 
+A mediana eh: 1263 
+A mediana eh: 1267 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+1268
+A mediana eh: 10006 
+A mediana eh: 6341 
+A mediana eh: 4151 
+A mediana eh: 2752 
+A mediana eh: 1856 
+A mediana eh: 1225 
+A mediana eh: 1564 
+A mediana eh: 1407 
+A mediana eh: 1324 
+A mediana eh: 1271 
+A mediana eh: 1248 
+A mediana eh: 1261 
+A mediana eh: 1267 
+A mediana eh: 1269 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+1268
+A mediana eh: 10006 
+A mediana eh: 6345 
+A mediana eh: 4154 
+A mediana eh: 2754 
+A mediana eh: 1857 
+A mediana eh: 1226 
+A mediana eh: 1565 
+A mediana eh: 1408 
+A mediana eh: 1326 
+A mediana eh: 1273 
+A mediana eh: 1251 
+A mediana eh: 1262 
+A mediana eh: 1268 
+A mediana eh: 1266 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+1268
+A mediana eh: 10006 
+A mediana eh: 6342 
+A mediana eh: 4149 
+A mediana eh: 2749 
+A mediana eh: 1853 
+A mediana eh: 1225 
+A mediana eh: 1563 
+A mediana eh: 1404 
+A mediana eh: 1322 
+A mediana eh: 1271 
+A mediana eh: 1248 
+A mediana eh: 1261 
+A mediana eh: 1267 
+A mediana eh: 1269 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+1268
+A mediana eh: 10006 
+A mediana eh: 6339 
+A mediana eh: 4146 
+A mediana eh: 2746 
+A mediana eh: 1849 
+A mediana eh: 1223 
+A mediana eh: 1560 
+A mediana eh: 1400 
+A mediana eh: 1318 
+A mediana eh: 1267 
+A mediana eh: 1291 
+A mediana eh: 1279 
+A mediana eh: 1273 
+A mediana eh: 1270 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+A mediana eh: 1268 
+1268
+A mediana eh: 10013 
+A mediana eh: 6317 
+A mediana eh: 4158 
+A mediana eh: 2780 
+A mediana eh: 1876 
+A mediana eh: 1281 
+A mediana eh: 1587 
+A mediana eh: 1444 
+A mediana eh: 1357 
+A mediana eh: 1403 
+A mediana eh: 1381 
+A mediana eh: 1392 
+A mediana eh: 1387 
+A mediana eh: 1384 
+A mediana eh: 1383 
+A mediana eh: 1384 
+A mediana eh: 1384 
+A mediana eh: 1384 
+A mediana eh: 1384 
+1384
+A mediana eh: 10013 
+A mediana eh: 6312 
+A mediana eh: 4152 
+A mediana eh: 2778 
+A mediana eh: 1871 
+A mediana eh: 1278 
+A mediana eh: 1583 
+A mediana eh: 1443 
+A mediana eh: 1355 
+A mediana eh: 1400 
+A mediana eh: 1379 
+A mediana eh: 1390 
+A mediana eh: 1385 
+A mediana eh: 1383 
+A mediana eh: 1384 
+A mediana eh: 1384 
+A mediana eh: 1384 
+A mediana eh: 1384 
+A mediana eh: 1384 
+1384
+A mediana eh: 10014 
+A mediana eh: 6314 
+A mediana eh: 4155 
+A mediana eh: 2780 
+A mediana eh: 1875 
+A mediana eh: 1281 
+A mediana eh: 887 
+A mediana eh: 1104 
+A mediana eh: 1197 
+A mediana eh: 1236 
+A mediana eh: 1257 
+A mediana eh: 1246 
+A mediana eh: 1241 
+A mediana eh: 1244 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+1245
+A mediana eh: 10015 
+A mediana eh: 6317 
+A mediana eh: 4159 
+A mediana eh: 2781 
+A mediana eh: 1877 
+A mediana eh: 1282 
+A mediana eh: 888 
+A mediana eh: 1106 
+A mediana eh: 1199 
+A mediana eh: 1237 
+A mediana eh: 1259 
+A mediana eh: 1248 
+A mediana eh: 1244 
+A mediana eh: 1246 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+1245
+A mediana eh: 10014 
+A mediana eh: 6319 
+A mediana eh: 4163 
+A mediana eh: 2783 
+A mediana eh: 1878 
+A mediana eh: 1283 
+A mediana eh: 888 
+A mediana eh: 1106 
+A mediana eh: 1200 
+A mediana eh: 1238 
+A mediana eh: 1259 
+A mediana eh: 1248 
+A mediana eh: 1244 
+A mediana eh: 1246 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+1245
+A mediana eh: 10014 
+A mediana eh: 6321 
+A mediana eh: 4165 
+A mediana eh: 2785 
+A mediana eh: 1880 
+A mediana eh: 1284 
+A mediana eh: 888 
+A mediana eh: 1107 
+A mediana eh: 1202 
+A mediana eh: 1239 
+A mediana eh: 1261 
+A mediana eh: 1249 
+A mediana eh: 1245 
+A mediana eh: 1243 
+A mediana eh: 1244 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+1245
+A mediana eh: 10014 
+A mediana eh: 6317 
+A mediana eh: 4160 
+A mediana eh: 2782 
+A mediana eh: 1877 
+A mediana eh: 1283 
+A mediana eh: 888 
+A mediana eh: 1106 
+A mediana eh: 1200 
+A mediana eh: 1238 
+A mediana eh: 1259 
+A mediana eh: 1248 
+A mediana eh: 1244 
+A mediana eh: 1246 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+1245
+A mediana eh: 10014 
+A mediana eh: 6318 
+A mediana eh: 4160 
+A mediana eh: 2781 
+A mediana eh: 1874 
+A mediana eh: 1283 
+A mediana eh: 888 
+A mediana eh: 1106 
+A mediana eh: 1200 
+A mediana eh: 1238 
+A mediana eh: 1259 
+A mediana eh: 1248 
+A mediana eh: 1244 
+A mediana eh: 1246 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+A mediana eh: 1245 
+1245
+A mediana eh: 10009 
+A mediana eh: 6260 
+A mediana eh: 4035 
+A mediana eh: 2638 
+A mediana eh: 1777 
+A mediana eh: 1217 
+A mediana eh: 1516 
+A mediana eh: 1368 
+A mediana eh: 1296 
+A mediana eh: 1335 
+A mediana eh: 1321 
+A mediana eh: 1332 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+1334
+A mediana eh: 10009 
+A mediana eh: 6256 
+A mediana eh: 4033 
+A mediana eh: 2638 
+A mediana eh: 1777 
+A mediana eh: 1218 
+A mediana eh: 1516 
+A mediana eh: 1368 
+A mediana eh: 1296 
+A mediana eh: 1335 
+A mediana eh: 1321 
+A mediana eh: 1332 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+1334
+A mediana eh: 10009 
+A mediana eh: 6260 
+A mediana eh: 4037 
+A mediana eh: 2642 
+A mediana eh: 1778 
+A mediana eh: 1220 
+A mediana eh: 1519 
+A mediana eh: 1371 
+A mediana eh: 1298 
+A mediana eh: 1336 
+A mediana eh: 1323 
+A mediana eh: 1333 
+A mediana eh: 1335 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+1334
+A mediana eh: 10009 
+A mediana eh: 6257 
+A mediana eh: 4037 
+A mediana eh: 2644 
+A mediana eh: 1778 
+A mediana eh: 1221 
+A mediana eh: 1519 
+A mediana eh: 1372 
+A mediana eh: 1300 
+A mediana eh: 1337 
+A mediana eh: 1325 
+A mediana eh: 1334 
+A mediana eh: 1332 
+A mediana eh: 1334 
+A mediana eh: 1333 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+1334
+A mediana eh: 10009 
+A mediana eh: 6256 
+A mediana eh: 4035 
+A mediana eh: 2641 
+A mediana eh: 1777 
+A mediana eh: 1218 
+A mediana eh: 1516 
+A mediana eh: 1369 
+A mediana eh: 1297 
+A mediana eh: 1335 
+A mediana eh: 1321 
+A mediana eh: 1332 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+1334
+A mediana eh: 10009 
+A mediana eh: 6254 
+A mediana eh: 4037 
+A mediana eh: 2644 
+A mediana eh: 1778 
+A mediana eh: 1221 
+A mediana eh: 1519 
+A mediana eh: 1372 
+A mediana eh: 1300 
+A mediana eh: 1337 
+A mediana eh: 1325 
+A mediana eh: 1334 
+A mediana eh: 1332 
+A mediana eh: 1334 
+A mediana eh: 1333 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+1334
+A mediana eh: 10009 
+A mediana eh: 6250 
+A mediana eh: 4035 
+A mediana eh: 2646 
+A mediana eh: 1778 
+A mediana eh: 1221 
+A mediana eh: 1519 
+A mediana eh: 1372 
+A mediana eh: 1300 
+A mediana eh: 1337 
+A mediana eh: 1325 
+A mediana eh: 1334 
+A mediana eh: 1332 
+A mediana eh: 1334 
+A mediana eh: 1333 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+A mediana eh: 1334 
+1334
+A mediana eh: 10008 
+A mediana eh: 6301 
+A mediana eh: 4122 
+A mediana eh: 2712 
+A mediana eh: 1778 
+A mediana eh: 1184 
+A mediana eh: 1493 
+A mediana eh: 1346 
+A mediana eh: 1426 
+A mediana eh: 1385 
+A mediana eh: 1365 
+A mediana eh: 1355 
+A mediana eh: 1361 
+A mediana eh: 1364 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+1363
+A mediana eh: 10008 
+A mediana eh: 6298 
+A mediana eh: 4119 
+A mediana eh: 2710 
+A mediana eh: 1778 
+A mediana eh: 1185 
+A mediana eh: 1493 
+A mediana eh: 1346 
+A mediana eh: 1426 
+A mediana eh: 1385 
+A mediana eh: 1365 
+A mediana eh: 1355 
+A mediana eh: 1361 
+A mediana eh: 1364 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+1363
+A mediana eh: 10008 
+A mediana eh: 6299 
+A mediana eh: 4119 
+A mediana eh: 2711 
+A mediana eh: 1778 
+A mediana eh: 1185 
+A mediana eh: 1494 
+A mediana eh: 1347 
+A mediana eh: 1427 
+A mediana eh: 1386 
+A mediana eh: 1366 
+A mediana eh: 1356 
+A mediana eh: 1362 
+A mediana eh: 1365 
+A mediana eh: 1364 
+A mediana eh: 1364 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+1363
+A mediana eh: 10008 
+A mediana eh: 6300 
+A mediana eh: 4118 
+A mediana eh: 2708 
+A mediana eh: 1777 
+A mediana eh: 1183 
+A mediana eh: 1491 
+A mediana eh: 1344 
+A mediana eh: 1424 
+A mediana eh: 1383 
+A mediana eh: 1364 
+A mediana eh: 1354 
+A mediana eh: 1359 
+A mediana eh: 1362 
+A mediana eh: 1364 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+1363
+A mediana eh: 10008 
+A mediana eh: 6296 
+A mediana eh: 4115 
+A mediana eh: 2701 
+A mediana eh: 1768 
+A mediana eh: 1174 
+A mediana eh: 1482 
+A mediana eh: 1338 
+A mediana eh: 1416 
+A mediana eh: 1375 
+A mediana eh: 1356 
+A mediana eh: 1366 
+A mediana eh: 1362 
+A mediana eh: 1365 
+A mediana eh: 1364 
+A mediana eh: 1364 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+1363
+A mediana eh: 10008 
+A mediana eh: 6296 
+A mediana eh: 4114 
+A mediana eh: 2699 
+A mediana eh: 1765 
+A mediana eh: 1174 
+A mediana eh: 1480 
+A mediana eh: 1337 
+A mediana eh: 1413 
+A mediana eh: 1373 
+A mediana eh: 1354 
+A mediana eh: 1364 
+A mediana eh: 1359 
+A mediana eh: 1362 
+A mediana eh: 1364 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+1363
+A mediana eh: 10008 
+A mediana eh: 6294 
+A mediana eh: 4114 
+A mediana eh: 2697 
+A mediana eh: 1762 
+A mediana eh: 1172 
+A mediana eh: 1478 
+A mediana eh: 1336 
+A mediana eh: 1411 
+A mediana eh: 1372 
+A mediana eh: 1353 
+A mediana eh: 1364 
+A mediana eh: 1359 
+A mediana eh: 1362 
+A mediana eh: 1364 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+1363
+A mediana eh: 10008 
+A mediana eh: 6290 
+A mediana eh: 4109 
+A mediana eh: 2689 
+A mediana eh: 1754 
+A mediana eh: 1162 
+A mediana eh: 1470 
+A mediana eh: 1334 
+A mediana eh: 1405 
+A mediana eh: 1366 
+A mediana eh: 1348 
+A mediana eh: 1356 
+A mediana eh: 1362 
+A mediana eh: 1365 
+A mediana eh: 1364 
+A mediana eh: 1364 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+A mediana eh: 1363 
+1363
+A mediana eh: 10010 
+A mediana eh: 6203 
+A mediana eh: 4021 
+A mediana eh: 2664 
+A mediana eh: 1768 
+A mediana eh: 1184 
+A mediana eh: 1493 
+A mediana eh: 1348 
+A mediana eh: 1267 
+A mediana eh: 1318 
+A mediana eh: 1335 
+A mediana eh: 1341 
+A mediana eh: 1338 
+A mediana eh: 1337 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+1338
+A mediana eh: 10010 
+A mediana eh: 6204 
+A mediana eh: 4021 
+A mediana eh: 2663 
+A mediana eh: 1766 
+A mediana eh: 1184 
+A mediana eh: 1492 
+A mediana eh: 1347 
+A mediana eh: 1266 
+A mediana eh: 1317 
+A mediana eh: 1335 
+A mediana eh: 1341 
+A mediana eh: 1338 
+A mediana eh: 1337 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+1338
+A mediana eh: 10010 
+A mediana eh: 6204 
+A mediana eh: 4020 
+A mediana eh: 2660 
+A mediana eh: 1763 
+A mediana eh: 1180 
+A mediana eh: 1489 
+A mediana eh: 1344 
+A mediana eh: 1263 
+A mediana eh: 1313 
+A mediana eh: 1334 
+A mediana eh: 1339 
+A mediana eh: 1336 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+1338
+A mediana eh: 10010 
+A mediana eh: 6210 
+A mediana eh: 4025 
+A mediana eh: 2664 
+A mediana eh: 1766 
+A mediana eh: 1182 
+A mediana eh: 1492 
+A mediana eh: 1346 
+A mediana eh: 1264 
+A mediana eh: 1316 
+A mediana eh: 1334 
+A mediana eh: 1339 
+A mediana eh: 1336 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+1338
+A mediana eh: 10010 
+A mediana eh: 6208 
+A mediana eh: 4023 
+A mediana eh: 2662 
+A mediana eh: 1763 
+A mediana eh: 1179 
+A mediana eh: 1488 
+A mediana eh: 1343 
+A mediana eh: 1261 
+A mediana eh: 1312 
+A mediana eh: 1334 
+A mediana eh: 1338 
+A mediana eh: 1336 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+1338
+A mediana eh: 10010 
+A mediana eh: 6214 
+A mediana eh: 4029 
+A mediana eh: 2666 
+A mediana eh: 1766 
+A mediana eh: 1180 
+A mediana eh: 1491 
+A mediana eh: 1344 
+A mediana eh: 1263 
+A mediana eh: 1313 
+A mediana eh: 1334 
+A mediana eh: 1339 
+A mediana eh: 1336 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+1338
+A mediana eh: 10010 
+A mediana eh: 6210 
+A mediana eh: 4025 
+A mediana eh: 2663 
+A mediana eh: 1765 
+A mediana eh: 1180 
+A mediana eh: 1490 
+A mediana eh: 1344 
+A mediana eh: 1263 
+A mediana eh: 1313 
+A mediana eh: 1334 
+A mediana eh: 1339 
+A mediana eh: 1336 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+A mediana eh: 1338 
+1338
+A mediana eh: 10004 
+A mediana eh: 6338 
+A mediana eh: 4170 
+A mediana eh: 2793 
+A mediana eh: 1875 
+A mediana eh: 1259 
+A mediana eh: 1587 
+A mediana eh: 1438 
+A mediana eh: 1347 
+A mediana eh: 1312 
+A mediana eh: 1285 
+A mediana eh: 1272 
+A mediana eh: 1267 
+A mediana eh: 1264 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+1266
+A mediana eh: 10004 
+A mediana eh: 6339 
+A mediana eh: 4173 
+A mediana eh: 2795 
+A mediana eh: 1877 
+A mediana eh: 1259 
+A mediana eh: 1588 
+A mediana eh: 1439 
+A mediana eh: 1347 
+A mediana eh: 1312 
+A mediana eh: 1285 
+A mediana eh: 1272 
+A mediana eh: 1267 
+A mediana eh: 1264 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+1266
+A mediana eh: 10004 
+A mediana eh: 6343 
+A mediana eh: 4178 
+A mediana eh: 2798 
+A mediana eh: 1879 
+A mediana eh: 1261 
+A mediana eh: 1591 
+A mediana eh: 1441 
+A mediana eh: 1349 
+A mediana eh: 1317 
+A mediana eh: 1289 
+A mediana eh: 1273 
+A mediana eh: 1268 
+A mediana eh: 1265 
+A mediana eh: 1267 
+A mediana eh: 1267 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+1266
+A mediana eh: 10004 
+A mediana eh: 6344 
+A mediana eh: 4180 
+A mediana eh: 2799 
+A mediana eh: 1881 
+A mediana eh: 1264 
+A mediana eh: 1593 
+A mediana eh: 1443 
+A mediana eh: 1351 
+A mediana eh: 1319 
+A mediana eh: 1290 
+A mediana eh: 1276 
+A mediana eh: 1270 
+A mediana eh: 1267 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+A mediana eh: 1266 
+1266
+A mediana eh: 10004 
+A mediana eh: 6345 
+A mediana eh: 4181 
+A mediana eh: 2799 
+A mediana eh: 1881 
+A mediana eh: 1264 
+A mediana eh: 842 
+A mediana eh: 1076 
+A mediana eh: 1172 
+A mediana eh: 1119 
+A mediana eh: 1144 
+A mediana eh: 1132 
+A mediana eh: 1127 
+A mediana eh: 1130 
+A mediana eh: 1131 
+A mediana eh: 1132 
+A mediana eh: 1132 
+A mediana eh: 1132 
+1132
+A mediana eh: 10004 
+A mediana eh: 6346 
+A mediana eh: 4181 
+A mediana eh: 2800 
+A mediana eh: 1882 
+A mediana eh: 1266 
+A mediana eh: 844 
+A mediana eh: 1078 
+A mediana eh: 1175 
+A mediana eh: 1121 
+A mediana eh: 1147 
+A mediana eh: 1134 
+A mediana eh: 1128 
+A mediana eh: 1131 
+A mediana eh: 1133 
+A mediana eh: 1132 
+A mediana eh: 1132 
+A mediana eh: 1132 
+A mediana eh: 1132 
+A mediana eh: 1132 
+1132
+A mediana eh: 10004 
+A mediana eh: 6343 
+A mediana eh: 4179 
+A mediana eh: 2798 
+A mediana eh: 1881 
+A mediana eh: 1266 
+A mediana eh: 845 
+A mediana eh: 1078 
+A mediana eh: 1175 
+A mediana eh: 1121 
+A mediana eh: 1147 
+A mediana eh: 1134 
+A mediana eh: 1128 
+A mediana eh: 1131 
+A mediana eh: 1133 
+A mediana eh: 1132 
+A mediana eh: 1132 
+A mediana eh: 1132 
+A mediana eh: 1132 
+A mediana eh: 1132 
+1132
+A mediana eh: 9988 
+A mediana eh: 6232 
+A mediana eh: 4062 
+A mediana eh: 2697 
+A mediana eh: 1826 
+A mediana eh: 1241 
+A mediana eh: 842 
+A mediana eh: 1060 
+A mediana eh: 1155 
+A mediana eh: 1208 
+A mediana eh: 1225 
+A mediana eh: 1232 
+A mediana eh: 1228 
+A mediana eh: 1227 
+A mediana eh: 1227 
+A mediana eh: 1226 
+A mediana eh: 1226 
+A mediana eh: 1226 
+A mediana eh: 1226 
+A mediana eh: 1226 
+1226
+583,0.0364684
+585,0.0367955
+587,0.0416079
+589,0.0416012
+591,0.0591246
+593,0.0596625
+595,0.060103
+597,0.0618207
+599,0.0637511
+601,0.0643417
+603,0.0637333
+605,0.0755288
+607,0.0749139
+609,0.076914
+611,0.0595199
+613,0.0640215
+615,0.0633213
+617,0.0743436
+619,0.0537767
+621,0.0758387
+623,0.0588724
+625,0.0675689
+627,0.0510221
+629,0.0689124
+631,0.0726975
+633,0.0876122
+635,0.0740932
+637,0.0662921
+639,0.0642311
+641,0.0573997
+643,0.0530025
+645,0.0507765
+647,0.0496517
+649,0.0503197
+651,0.0691716
+653,0.0597478
+655,0.055379
+657,0.0570093
+659,0.052306
+661,0.0517364
+663,0.0540954
+665,0.0553274
+667,0.0849595
+669,0.0582628
+671,0.0574644
+673,0.0539473
+675,0.0671672
+677,0.0911482
+679,0.0734738
+681,0.0605031
+683,0.0592567
+685,0.0555367
+687,0.0536719
+689,0.0563314
+691,0.0641554
+693,0.0878857
+695,0.0923344
+697,0.0888432
+699,0.0650859
+701,0.0730564
+703,0.0666904
+705,0.0569402
+707,0.0606946
+709,0.0679785
+711,0.0690134
+713,0.0557656
+715,0.0656577
+717,0.0599075
+719,0.0631753
+721,0.0614023
+723,0.0788213
+725,0.076007
+727,0.0594331
+729,0.0651741
+731,0.0636039
+733,0.062864
+735,0.0674565
+737,0.0630034
+739,0.0948026
+741,0.067238
+743,0.0639668
+745,0.0630479
+747,0.0672487
+749,0.0714094
+751,0.0853604
+753,0.0651805
+755,0.0718691
+757,0.0706791
+759,0.0689695
+761,0.0696572
+763,0.0683579
+765,0.084645
+767,0.0781609
+769,0.0939902
+771,0.0940235
+773,0.0898652
+775,0.101261
+777,0.101015
+779,0.0820115
+781,0.0826881
+783,0.0761524
+785,0.0892851
+787,0.168693
+789,0.0756944
+791,0.076645
+793,0.0869561
+795,0.098327
+797,0.0947849
+799,0.0747862
+801,0.0796728
+803,0.0761602
+805,0.0750149
+807,0.0754041
+809,0.0947309
+811,0.0777824
+813,0.0763757
+815,0.0789247
+817,0.0740198
+819,0.0872258
+821,0.080833
+823,0.0905707
+825,0.0874365
+827,0.0793338
+829,0.0764876
+831,0.0843042
+833,0.104777
+835,0.0831811
+837,0.0824647
+839,0.0805903
+841,0.0778843
+843,0.104671
+845,0.0790524
+847,0.0810843
+849,0.0850638
+851,0.0813794
+853,0.0850691
+855,0.0985333
+857,0.087097
+859,0.0889945
+861,0.0866609
+863,0.0898618
+865,0.106991
+867,0.0831979
+869,0.0885861
+871,0.0925469
+873,0.0917027
+875,0.094133
+877,0.0881299
+879,0.0881542
+881,0.0912596
+883,0.088952
+885,0.0972156
+887,0.101166
+889,0.0904935
+891,0.0901393
+893,0.093929
+895,0.0893488
+897,0.100594
+899,0.0905528
+901,0.0931477
+903,0.0941789
+905,0.0913472
+907,0.114599
+909,0.0969571
+911,0.0910278
+913,0.101534
+915,0.0928231
+917,0.108249
+919,0.0958215
+921,0.114659
+923,0.126147
+925,0.146726
+927,0.136684
+929,0.122656
+931,0.105519
+933,0.119248
+935,0.135323
+937,0.143607
+939,0.135879
+941,0.155559
+943,0.141478
+945,0.165339
+947,0.16395
+949,0.109823
+951,0.108894
+953,0.12355
+955,0.116675
+957,0.108835
+959,0.100789
+961,0.103014
+963,0.123074
+965,0.13622
+967,0.167879
+969,0.138846
+971,0.16928
+973,0.156328
+975,0.139368
+977,0.14536
+979,0.115775
+981,0.110478
+983,0.120798
+985,0.161503
+987,0.109806
+989,0.112676
+991,0.128698
+993,0.163575
+995,0.164206
+997,0.164625
+999,0.158005

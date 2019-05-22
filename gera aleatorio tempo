@@ -64,3 +64,17 @@ int main(int argc, char const *argv[]) {
 }
 
 
+
+voce pega a mediana das arestas
+olha pra grafo so pra arestas menores ou iguais a mediana
+se o grafo for conexo
+ 	descarta as maiores que a mediana
+
+se nao, voce tem varios comp conecoxs ai voce faz um agrupamento dos desconexos e cada um deles fica um super no, voce anda recursivamente nesse grafo, voce faz outra chamada so que agora que seu grafo eh um super
+	Se voce tem duas conexas voce tem um nó só,
+
+Ele da varios pontos, isso sginifica que eh um grafo completo, cada ponto tem um caminho para outro ponto, no fim é um grafo completo nao direcionado ai nos temos n pontos e n*n-1/2 arestas. Teremos um array de aresta, uma struct 1 inteiro pro valor e dois outros inteiros pra cada vertice, cada vertice tem 0 a n-1 numero
+ -> nao usa matriz de adjancencia, usa só um vetor de arestas
+
+
+

@@ -49,17 +49,19 @@ int MBST(aresta *edge, int esq, int dir, int n){
   }
 
   int m = Mediana(edge, esq, dir); //m é a posicao da mediana no vetor de arestas
+  
 
 //Coloca a mediana na posição final pra fazer particionamento 3-way
   aresta aux = edge[m]; 
   edge[m] = edge[dir];
   edge[dir] = aux;
+  
 
   m = threeWayPartition(edge, esq, dir);
    // Agora o subvetor está particionado com a mediana no meio
    // m é o indice em que se encontra a mediana
 
-  if( m == dir ){ //Melhora a complexidade quando todos os pesos das arestas foram iguais (???)
+  if( m == dir ){ //Melhora a complexidade quando todos os pesos das arestas foram iguais 
     m = (esq+dir)/2;
   }
 
