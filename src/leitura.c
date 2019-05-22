@@ -7,7 +7,7 @@
 
 
 
-int **pre_process( vertice* p, int n ){
+int **geraGrafo( vertice* p, int n ){
   int **ret = (int**)malloc(n*sizeof(int*)); 
   for( int i=0; i<n; i++ ){
     ret[i] = (int*)malloc(n*sizeof(int)); //Em cada posição do vetor de ponteiros aloca outra vetor, gerando uma matriz n x n
@@ -22,7 +22,7 @@ int **pre_process( vertice* p, int n ){
   return ret;
 }
 
-aresta *Matrix_to_array( int **g, int n ){ 
+aresta *criaVetorArestas( int **g, int n ){ 
   aresta *edge = (aresta*)malloc(n*n*sizeof(aresta)); //n quadrado arestas no total (de cada aresta para todas as outras incluindo ela mesma)
   int it=0;
   for( int i=0; i<n; i++ ){

@@ -7,7 +7,7 @@ typedef struct{
   double coordX, coordY;
 }vertice;
 
-int **pre_process( vertice* p, int n );
-aresta *Matrix_to_array( int **g, int n );
+int **geraGrafo( vertice* p, int n );
+aresta *criaVetorArestas( int **g, int n );
 
 #endif
