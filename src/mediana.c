@@ -48,7 +48,7 @@ int MOM(aresta *edge, int esq, int dir, int k){ // k é a posicao do meio entre 
     m[it_m++] = edge[mf]; //Guarda no m a aresta que tem o peso mediano do grupo de 5
   }
 
-  int mom = m[MOM(m, 0, it_m-1, (it_m-1)/2)].peso; // Acha o peso da mediana das medianas dos grupos de 5. Aqui os indices se referem m, nao edge
+  int mom = m[MOM(m, 0, it_m-1, (it_m-1)/2)].peso; // Acha o peso da mediana das medianas dos grupos de 5. Aqui os indices se referem a m, nao edge
   for( int i=esq; i<=dir; i++ ){ //Encontra o indice, no vetor de arestas, da aresta com peso mediana e coloca troca ele com a ultima posição do subvetor atual (esq a dir)
     if( edge[i].peso == mom ){
       aresta aux = edge[i];

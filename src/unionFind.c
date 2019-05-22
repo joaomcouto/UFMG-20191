@@ -28,7 +28,7 @@ void unionFindUnir(unionFind *d, int a, int b){
 	b = unionFindFind(d, b); // ^
   if( a == b ) return; //Se forem do mesmo componente ja tao unidas, retorna
   
-	if( d->size[a] > d->size[b] ){  //Se nao forem do mesmo componente
+	if( d->size[a] > d->size[b] ){  //Se nao forem do mesmo componente, uni
     d->id[b] = a;
 	  d->size[a] += d->size[b];
     d->componentCount--;
@@ -45,5 +45,3 @@ void unionFindFree(unionFind *d){
   free(d->size);
 }
 // Cada uniao é O(1) mas fazemos m unioes, uma pra cada aresta
-//Union find é O(n) em memoria
-// Por contraste, por BFS em memoria O(m*)

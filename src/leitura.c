@@ -22,7 +22,7 @@ int **pre_process( vertice* p, int n ){
   return ret;
 }
 
-aresta *Matrix_to_array( int **g, int n ){ //Dado uma matriz de adjacencia com os pesos, 
+aresta *Matrix_to_array( int **g, int n ){ 
   aresta *edge = (aresta*)malloc(n*n*sizeof(aresta)); //n quadrado arestas no total (de cada aresta para todas as outras incluindo ela mesma)
   int it=0;
   for( int i=0; i<n; i++ ){
