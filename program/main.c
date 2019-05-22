@@ -15,10 +15,10 @@ int main(int argc, char const *argv[]) {
   FILE *cidades;
   int n;
   int **grafo;
-
   cidades = fopen(argv[1],"r");
   assert(fscanf(cidades,"%d", &n)==1) ;
   grafo =(int**)malloc(n*sizeof(int*)); //Grafo com n cidades representado como um ponteiro para ponteiros de inteiro
+  
   for( int i=0; i<n; i++ ){ //Aloca n ints para para uma das n cidades
     grafo[i] = (int*)malloc(n*sizeof(int)); //Cada posicao das n do grafo tem espaço para n inteiros
   }
