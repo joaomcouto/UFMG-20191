@@ -23,4 +23,8 @@ typedef struct{
   int oriId, destId ; 
 }aresta ;
 
+void gera_grafo() ; 
+
+void tarefa2(aresta * arestas, int numVertices, int numArestas);
+
 #endif

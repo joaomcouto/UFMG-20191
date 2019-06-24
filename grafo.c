@@ -55,3 +55,26 @@ void dfs( graph * grafo, int pai , int filho){
     }
 
 }
+
+void tarefa2(aresta * arestas, int numVertices, int numArestas){
+    int a, b, i ;
+    int * cobertura = malloc(numVertices* sizeof(int)) ; 
+      for (size_t i = 0; i < numVertices; i++){
+        cobertura[i] = -1 ; 
+      } 
+      for(i = 0 ; i < numArestas ; i++){
+        a = arestas[i].oriId ;
+        b = arestas[i].destId ;
+        if (cobertura[a] == -1 && cobertura[b] == -1 ){
+          cobertura[a] = 3 ;
+          cobertura[b] = 3 ; 
+        }
+      }
+      int finalCount = 0 ;
+      for (size_t i = 0; i < numVertices; i++){
+        if (cobertura[i]==3 ){
+          finalCount++ ;
+        }
+      } 
+      printf("%d", finalCount)  ;
+}

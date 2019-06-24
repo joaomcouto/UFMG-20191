@@ -41,6 +41,7 @@ int main(int argc, char const *argv[]) {
     for (i = 0 ; i < numVertices ; i++){
       grafo.visited[i] = -1 ; 
     }
+  //tarefa1()
   for( i=0; i<numArestas; i++ ){ 
     int a, b;
     fscanf(trilhas, "%d %d", &a, &b) ;
@@ -62,37 +63,12 @@ int main(int argc, char const *argv[]) {
         arestas[i].oriId = a ;
         arestas[i].destId = b ;
       }
-      //for( i=0; i<numArestas; i++ ){ 
-       // printf("%d %d \n", arestas[i].oriId, arestas[i].destId) ; 
-      //}
-      int * cobertura = malloc(numVertices* sizeof(int)) ; 
-      for (size_t i = 0; i < numVertices; i++){
-        cobertura[i] = -1 ; 
-      } 
-      for(i = 0 ; i < numArestas ; i++){
-        a = arestas[i].oriId ;
-        b = arestas[i].destId ;
-        if (cobertura[a] == -1 && cobertura[b] == -1 ){
-          cobertura[a] = 3 ;
-          cobertura[b] = 3 ; 
-        }
-      }
-      int finalCount ;
-      for (size_t i = 0; i < numVertices; i++){
-        if (cobertura[i]==3 ){
-          finalCount++ ;
-        }
-      } 
-      printf("%d \n", finalCount)  ;
+      tarefa2(arestas ,numVertices,numArestas) ;
+      
+
     }
-
-  
-
-// ============ Analise experimental
-  srand(time(NULL));
-  //int verticesss = (rand() % 100) + 1 ;
- // printf("%d", n);
-  //for(i = 0 ; i < )
+      
+    
   
 
   return 0;
